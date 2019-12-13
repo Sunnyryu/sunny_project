@@ -1,0 +1,615 @@
+현대모비스, “사원부터 임원까지” 전 직원 AI 교육
+<body>
+<!--[if lt IE 9]>
+<div id="ie9-guide">
+	<div class="ie9-wrapper border-box">
+		<p class="guide-txt">
+		잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!
+		</p>
+
+		<div class="guide-right">
+			<dl class="ie9-down nobr">
+				<dt><i class="icon ie-logo">ie</i></dt>
+				<dd>
+					<span>인터넷 익스플로러 11</span>
+					<a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon cr-logo">chrome</i></dt>
+				<dd>
+					<span>구글 크롬</span>
+					<a href="http://www.google.com/chrome/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon ff-logo">firefox</i></dt>
+				<dd>
+					<span>모질라 파이어폭스</span>
+					<a href="http://www.mozilla.or.kr/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<![endif]-->
+<!-- wrap //-->
+<div id="user-wrap">
+<!-- header //-->
+<header class="posi-re float-center" id="user-header">
+<!-- 상단 HTML //-->
+<div class="clearfix text-center">
+</div>
+<!--// 상단 HTML -->
+<!-- 메뉴 //-->
+<script src="/getComunity/getComunity.js?ver=11.0.0"></script>
+<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="vertical";
+
+getComu.getEvt("hot_documents","tab1");
+getComu.getEvt("new_documents","tab2");
+//-->
+</script>
+<style type="text/css">
+#user-wrap {min-width:1080px}
+#user-gnb .user-intro strong,#user-gnb .user-community strong {color:#b4000f}
+#user-nav,#user-nav .user-nav-overlay,#user-gnb .user-community ul li:hover span {background-color:#b4000f}
+#user-nav .user-search .user-search-form input:focus {border-color:#b4000f}
+</style>
+<!-- 메뉴 시작 //-->
+<div id="header-wrapper">
+<!-- 최상단영역 //-->
+<div id="user-gnb">
+<div class="float-center width-1080">
+<!-- 최종편집 -->
+<div class="user-intro"><strong>UPDATED</strong>  2019-12-11 22:25:19 (수) </div>
+<!-- 커뮤니티 -->
+<div class="user-community">
+<strong><a class="user-point" href="https://c.motorgraph.com/" target="_blank">COMMUNITY</a></strong>
+<ul>
+<li><span class="com-box-tit">인기글</span> <div class="com-autobox"><div class="hot"></div></div></li>
+<li><span class="com-box-tit">최신글</span> <div class="com-autobox"><div class="new"></div></div></li>
+</ul>
+</div>
+<!-- sns -->
+<ul class="user-snsbox">
+<li><a href="https://www.youtube.com/user/motorgraph?sub_confirmation=1" target="_blank"><div class="inner"><i class="icon-youtube"></i><span class="text">youtube</span></div></a></li>
+<li><a href="https://www.facebook.com/motorgraphkr" target="_blank"><div class="inner"><i class="icon-facebook"></i><span class="text">facebook</span></div></a></li>
+<li><a href="https://www.instagram.com/motorgraphkr/" target="_blank"><div class="inner"><i class="icon-instagram"></i><span class="text">instagram</span></div></a></li>
+<li><a href="http://m.post.naver.com/my.nhn?memberNo=12121295" target="_blank"><div class="inner"><i class="icon-naver"></i><span class="text">NAVER</span></div></a></li>
+<li><a href="https://pf.kakao.com/_xexaPCV" target="_blank"><div class="inner"><i class="icon-talk"></i><span class="text">플러스친구</span></div></a></li>
+<li><a href="https://twitter.com/motorgraph" target="_blank"><div class="inner"><i class="icon-twitter"></i><span class="text">twitter</span></div></a></li>
+</ul>
+</div>
+</div>
+<!--// 최상단영역 -->
+<!-- 로고영역 //-->
+<header id="nav-header">
+<div class="float-center width-1080">
+<div class="dis-table">
+<div class="dis-table-cell user-banner"></div>
+<div class="dis-table-cell logo-img">
+<a href="https://www.motorgraph.com" target="_top">
+<img alt="모터그래프" height="50" src="/image/logo/top_logo@2.png" width="480"/>
+<!--명절용<img src="/image/logo/top_logo@3.png" alt="모터그래프" width="480" height="50"/>-->
+<!--<img src="/image/logo/toplogo_20190201101517.png" alt="모터그래프" width="480" height="50"/>-->
+</a>
+</div>
+<div class="dis-table-cell user-banner"></div>
+</div>
+</div>
+</header>
+<!--// 로고영역 -->
+<!-- 메뉴바 //-->
+<nav id="user-nav">
+<div class="float-center width-1080" id="user-nav-wrapper">
+<!-- 섹션 //-->
+<ul class="mega-menu" id="mega-menu">
+<li class="megaline"><a href="/news/articleList.html?&amp;view_type=sm" target="_top">최신뉴스</a>
+<ul>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">신차</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N1&amp;view_type=sm" target="_top">출시예정</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N2&amp;view_type=sm" target="_top">출시차량</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N14&amp;view_type=sm" target="_top">스파이샷</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm" target="_top">업계·정책</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N7&amp;view_type=sm" target="_top">교통∙정책</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N13&amp;view_type=sm" target="_top">부품 및 용품</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N15&amp;view_type=sm" target="_top">완성차</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=sm" target="_top">시승기·리뷰</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N4&amp;view_type=sm" target="_top">국산차시승기</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N5&amp;view_type=sm" target="_top">수입차 시승기</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N17&amp;view_type=sm" target="_top">동영상시승기</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N6&amp;view_type=sm" target="_top">롱텀시승기</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm" target="_top">칼럼·분석</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N3&amp;view_type=sm" target="_top">최고의 튜너들</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N9&amp;view_type=sm" target="_top">기자수첩</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N10&amp;view_type=sm" target="_top">현장을 가다</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N32&amp;view_type=sm" target="_top">인터뷰</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm" target="_top">라이프</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N11&amp;view_type=sm" target="_top">라이프스타일∙IT</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N12&amp;view_type=sm" target="_top">화제의 영상</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N16&amp;view_type=sm" target="_top">레저·여행</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N31&amp;view_type=sm" target="_top">FUN</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm" target="_top">결함·문제점</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N18&amp;view_type=sm" target="_top">리콜</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N19&amp;view_type=sm" target="_top">사건·사고</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="https://c.motorgraph.com/ " target="_blank">커뮤니티</a>
+<ul>
+</ul>
+</li>
+</ul>
+<!--// 섹션 -->
+<!-- 검색 //-->
+<div class="user-search">
+<button class="brand-btn" data-open="brand-modal" type="button"><i class="fa fa-car fa-fw"></i> 차종별기사보기</button>
+<button class="search-btns" type="button"><i class="s7-search"></i><span class="show-for-sr">검색</span></button>
+<fieldset class="user-search-form">
+<form action="/news/articleList.html" method="get" name="head-search">
+<input name="sc_area" type="hidden" value="A"/>
+<input name="view_type" type="hidden" value="sm"/>
+<label class="show-for-sr" for="search">search</label>
+<input id="search" name="sc_word" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="search..." title="search" type="text"/>
+<button class="user-bg" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}" title="search" type="button"><i class="s7-search"></i><span class="show-for-sr">검색</span></button>
+</form>
+</fieldset>
+</div>
+<!--// 검색 -->
+</div>
+<div class="user-nav-overlay"><span class="show-for-sr">서브메뉴배경</span></div>
+</nav>
+<!--// 메뉴바 -->
+<!-- brand //-->
+<div class="reveal full brand-madal" data-reveal="" id="brand-modal">
+<div class="float-center width-1080">
+<!-- 차종별기사보기 //-->
+<div id="search-brand">
+<header class="brand-header">
+<div class="brand-header-title">차종별 기사검색</div>
+<p class="brand-header-summary">차량검색은 Ctrl + F를 누르면 검색이 가능합니다.</p>
+</header>
+<section class="brand-container">
+<div class="brand-group">
+<div class="brand-columns klogo-1">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=현대" target="_top"><div class="icon"></div><div class="brand-name">현대</div></a>
+</div>
+<div class="brand-columns klogo-2">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=기아" target="_top"><div class="icon"></div><div class="brand-name">기아</div></a>
+</div>
+<div class="brand-columns klogo-3">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=한국GM" target="_top"><div class="icon"></div><div class="brand-name">한국GM</div></a>
+</div>
+<div class="brand-columns klogo-4">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=르노삼성" target="_top"><div class="icon"></div><div class="brand-name">르노삼성</div></a>
+</div>
+<div class="brand-columns klogo-5">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=쌍용" target="_top"><div class="icon"></div><div class="brand-name">쌍용</div></a>
+</div>
+<div class="brand-columns logo-1">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=BMW" target="_top"><div class="icon"></div><div class="brand-name">BMW</div></a>
+</div>
+<div class="brand-columns logo-2">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=닛산" target="_top"><div class="icon"></div><div class="brand-name">닛산</div></a>
+</div>
+<div class="brand-columns logo-3">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=도요타" target="_top"><div class="icon"></div><div class="brand-name">도요타</div></a>
+</div>
+<div class="brand-columns logo-4">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=람보르기니" target="_top"><div class="icon"></div><div class="brand-name">람보르기니</div></a>
+</div>
+<div class="brand-columns logo-5">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=랜드로버" target="_top"><div class="icon"></div><div class="brand-name">랜드로버</div></a>
+</div>
+<div class="brand-columns logo-6">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=렉서스" target="_top"><div class="icon"></div><div class="brand-name">렉서스</div></a>
+</div>
+<div class="brand-columns logo-7">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=롤스로이스" target="_top"><div class="icon"></div><div class="brand-name">롤스로이스</div></a>
+</div>
+<div class="brand-columns logo-8">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=링컨" target="_top"><div class="icon"></div><div class="brand-name">링컨</div></a>
+</div>
+<div class="brand-columns logo-9">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=마세라티" target="_top"><div class="icon"></div><div class="brand-name">마세라티</div></a>
+</div>
+<div class="brand-columns logo-10">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=맥라렌" target="_top"><div class="icon"></div><div class="brand-name">맥라렌</div></a>
+</div>
+<div class="brand-columns logo-11">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=미니" target="_top"><div class="icon"></div><div class="brand-name">미니</div></a>
+</div>
+<div class="brand-columns logo-12">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=벤츠" target="_top"><div class="icon"></div><div class="brand-name">벤츠</div></a>
+</div>
+<div class="brand-columns logo-13">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=벤틀리" target="_top"><div class="icon"></div><div class="brand-name">벤틀리</div></a>
+</div>
+<div class="brand-columns logo-14">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=볼보" target="_top"><div class="icon"></div><div class="brand-name">볼보</div></a>
+</div>
+<div class="brand-columns logo-15">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=스마트" target="_top"><div class="icon"></div><div class="brand-name">스마트</div></a>
+</div>
+<div class="brand-columns logo-16">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=시트로엥" target="_top"><div class="icon"></div><div class="brand-name">시트로엥</div></a>
+</div>
+<div class="brand-columns logo-17">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=아우디" target="_top"><div class="icon"></div><div class="brand-name">아우디</div></a>
+</div>
+<div class="brand-columns logo-18">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=애스턴마틴" target="_top"><div class="icon"></div><div class="brand-name">애스턴마틴</div></a>
+</div>
+<div class="brand-columns logo-19">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=인피니티" target="_top"><div class="icon"></div><div class="brand-name">인피니티</div></a>
+</div>
+<div class="brand-columns logo-20">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=재규어" target="_top"><div class="icon"></div><div class="brand-name">재규어</div></a>
+</div>
+<div class="brand-columns logo-21">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=지프" target="_top"><div class="icon"></div><div class="brand-name">지프</div></a>
+</div>
+<div class="brand-columns logo-22">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=캐딜락" target="_top"><div class="icon"></div><div class="brand-name">캐딜락</div></a>
+</div>
+<div class="brand-columns logo-23">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=코닉세그" target="_top"><div class="icon"></div><div class="brand-name">코닉세그</div></a>
+</div>
+<div class="brand-columns logo-24">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=크라이슬러" target="_top"><div class="icon"></div><div class="brand-name">크라이슬러</div></a>
+</div>
+<div class="brand-columns logo-25">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=페라리" target="_top"><div class="icon"></div><div class="brand-name">페라리</div></a>
+</div>
+<div class="brand-columns logo-26">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=포드" target="_top"><div class="icon"></div><div class="brand-name">포드</div></a>
+</div>
+<div class="brand-columns logo-27">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=포르쉐" target="_top"><div class="icon"></div><div class="brand-name">포르쉐</div></a>
+</div>
+<div class="brand-columns logo-28">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=폭스바겐" target="_top"><div class="icon"></div><div class="brand-name">폭스바겐</div></a>
+</div>
+<div class="brand-columns logo-29">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=푸조" target="_top"><div class="icon"></div><div class="brand-name">푸조</div></a>
+</div>
+<div class="brand-columns logo-30">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=피아트" target="_top"><div class="icon"></div><div class="brand-name">피아트</div></a>
+</div>
+<div class="brand-columns logo-31">
+<a class="brand-trademark" href="/news/articleList.html?sc_area=C&amp;view_type=sm&amp;sc_word=혼다" target="_top"><div class="icon"></div><div class="brand-name">혼다</div></a>
+</div>
+</div>
+</section>
+</div>
+<!--// 차종별기사보기 -->
+</div>
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true"><i class="s7-close"></i></span>
+</button>
+<!-- back to the top //-->
+<button class="back-to-top" id="modal-top" title="위로" type="button"><i class="s7-angle-up"></i><span class="show-for-sr">위로</span></button>
+<!--// back to the top -->
+</div>
+<!--// brand -->
+</div>
+<!--// 메뉴 끝 -->
+<!--// 메뉴 -->
+</header>
+<!--// header -->
+<!-- container //-->
+<section class="posi-re text-left auto-padbtm-25 float-center width-1080" id="user-container">
+<!-- 플로팅 좌우 HTML //-->
+<div class="posi-re float-center width-1080"><div class="view-aside left-wing" data-duration="300" data-parent-target="user-container" data-scroll="y" data-top-margin="5" id="floating_banner_left">
+<!-- Web Wing Banner (Left) -->
+<ins data-revive-id="95c90daa5faceecaca41c2f5feb2d897" data-revive-zoneid="3"></ins>
+<script async="" src="//ads.motorgraph.com/www/delivery/asyncjs.php"></script></div>
+<div class="view-aside right-wing" data-duration="300" data-scroll="n" data-top-margin="5" id="floating_banner_right">
+<!-- Web Wing Banner (Right) -->
+<ins data-revive-id="95c90daa5faceecaca41c2f5feb2d897" data-revive-zoneid="4"></ins>
+<script async="" src="//ads.motorgraph.com/www/delivery/asyncjs.php"></script></div>
+</div> <!--// 플로팅 좌우 HTML -->
+<div class="float-center max-width-1080">
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	articleHeader.setScroll();
+</script>
+<!-- 구글 구조화된 검색 현재위치(position) 김지영 / 추가 작업 190130 / 시작 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+  "@type": "ListItem",
+  "position": 1,
+  "name": "업계·정책",
+  "item": "https://www.motorgraph.com/news/articleList.html?sc_section_code=S1N2"
+  }
+]}
+</script>
+<!-- 구글 구조화된 검색 현재위치(position) 김지영 / 추가 작업 190130 / 끝 -->
+<!-- 기사면 상단 네비게이션 //-->
+<div class="dis-none show-for-large" id="article-header-title">
+<!-- 이전/다음 기사 버튼 //-->
+<button class="aht-btn prev" onclick="javascript:articleHeader.move(
+				'prev',
+				'embargo_date',
+				'1575347258_24443',
+				'S1N2',
+				'',
+				'');" title="이전기사" type="button"><i class="fa fa-angle-left fa-fw"></i><span class="sr-only">이전</span></button>
+<button class="aht-btn next" onclick="javascript:articleHeader.move(
+				'next',
+				'embargo_date',
+				'1575347258_24443',
+				'S1N2',
+				'',
+				'');" title="다음기사" type="button"><i class="fa fa-angle-right fa-fw"></i><span class="sr-only">다음</span></button>
+<!--// 이전/다음 기사 버튼 -->
+<!-- 상단 컨텐츠 //-->
+<div class="aht-wrapper width-1080">
+<div class="aht-column aht-logo"><a alt="로고" href="https://www.motorgraph.com"><img alt="모터그래프" src="/image/logo/printlogo_20170626104831.gif"/></a></div>
+<div class="aht-column aht-title">
+<div class="aht-title-subject">현대모비스, “사원부터 임원까지” 전 직원 AI 교육</div>
+<ul class="aht-title-list no-bullet">
+<li><i class="fa fa-user-o fa-fw"></i> 박홍준</li>
+<!-- <li><i class="fa fa-commenting-o fa-fw"></i> 댓글 <span class="fb-comment-count">0</span></li> -->
+<li><i class="fa fa-thumbs-o-up fa-fw"></i> 좋아요 <span class="fb-like-count">0</span></li>
+<li><i class="fa fa-clock-o fa-fw"></i> 승인 2019.12.03 13:27</li>
+<li><div class="fb-like" data-action="like" data-href="https://www.motorgraph.com/news/articleView.html?idxno=24443" data-layout="button_count" data-share="false" data-show-faces="false" data-size="small"></div></li>
+<li><a href="javascript:void addPlusFriend()"><img border="0" src="/image/talk_icon_t.png"/></a></li>
+</ul>
+</div>
+<div class="aht-column aht-options">
+<!-- Facebook 좋아요, 댓글 갯수 가져오기 -->
+<ul class="info-options no-bullet">
+<li><button class="options-btn has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-tooltip="" onclick="articlePrint('24443')" title="프린트" type="button"><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+<!-- <li><button type="button" onclick="articleMail('24443')" class="options-btn has-tip" title="메일보내기" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li> -->
+<li class="fonts-option">
+<button class="fonts-btn options-btn" type="button"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+<ul class="fonts-option-panel no-bullet">
+<li>
+<input class="fontsize-radio" id="font-size15_1" name="fontsize1" type="radio" value="font-size15"/>
+<label for="font-size15_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size16_1" name="fontsize1" type="radio" value="font-size16"/>
+<label for="font-size16_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size17_1" name="fontsize1" type="radio" value="font-size17"/>
+<label for="font-size17_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size18_1" name="fontsize1" type="radio" value="font-size18"/>
+<label for="font-size18_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size19_1" name="fontsize1" type="radio" value="font-size19"/>
+<label for="font-size19_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size20_1" name="fontsize1" type="radio" value="font-size20"/>
+<label for="font-size20_1">가나다라마바사</label>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!--// 상단 컨텐츠 -->
+</div>
+<!--// 기사면 상단 네비게이션 -->
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+<!-- root //-->
+<nav class="article-head-nav auto-marbtm-10">
+<a href="/">HOME</a>
+<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N2">업계·정책</a>
+</nav>
+<!--// root -->
+<!-- 본문제목 //-->
+<header class="article-header-wrap">
+<div class="article-head-title">현대모비스, “사원부터 임원까지” 전 직원 AI 교육</div>
+</header>
+<!--// 본문제목 -->
+<!-- head info //-->
+<section class="article-head-info">
+<!-- info //-->
+<div class="info-text">
+<ul class="no-bullet auto-marbtm-0 line-height-3">
+<li><i class="fa fa-user-o fa-fw"></i> 박홍준 (<a href="mailto:hj.park@motorgraph.com">hj.park@motorgraph.com</a>)</li>
+<li><i class="fa fa-commenting-o fa-fw"></i> 댓글 <span class="fb-comment-count">0</span></li>
+<!-- <li><i class="fa fa-thumbs-o-up fa-fw"></i> 좋아요 <span class="fb-like-count">0</span></li> -->
+<li><i class="fa fa-clock-o fa-fw"></i> 승인 2019.12.03 13:27</li>
+<!-- <li>
+					<i class="fa fa-commenting-o fa-fw"></i> 댓글
+						0					</li>-->
+</ul>
+</div>
+<!--// info -->
+<ul class="info-options no-bullet">
+<li class="facebook-like" style="padding-top:1px"><div class="fb-like" data-action="like" data-href="https://www.motorgraph.com/news/articleView.html?idxno=24443" data-layout="button_count" data-share="false" data-show-faces="false" data-size="large" style="display:inline-block !important"></div></li>
+<li><div><a href="javascript:void addPlusFriend()"><img border="0" src="/image/talk_icon.png"/></a></div></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-tooltip="" onclick="articlePrint('24443')" title="프린트" type="button"><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+<!-- <li><button type="button" onclick="articleMail('24443')" class="options-btn has-tip" title="메일보내기" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li> -->
+<li class="fonts-option">
+<button class="fonts-btn options-btn" type="button"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+<ul class="fonts-option-panel no-bullet">
+<li>
+<input class="fontsize-radio" id="font-size15_2" name="fontsize2" type="radio" value="font-size15"/>
+<label for="font-size15_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size16_2" name="fontsize2" type="radio" value="font-size16"/>
+<label for="font-size16_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size17_2" name="fontsize2" type="radio" value="font-size17"/>
+<label for="font-size17_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size18_2" name="fontsize2" type="radio" value="font-size18"/>
+<label for="font-size18_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size19_2" name="fontsize2" type="radio" value="font-size19"/>
+<label for="font-size19_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size20_2" name="fontsize2" type="radio" value="font-size20"/>
+<label for="font-size20_2">가나다라마바사</label>
+</li>
+</ul>
+</li>
+<!-- <li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li> -->
+</ul>
+<div class="reveal gray" data-reveal="" id="article-sns">
+<header class="reveal-header">
+<div class="reveal-title">이 기사를 공유합니다</div>
+</header>
+<section class="reveal-container">
+<div class="article-sns-group">
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="facebook" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>페이스북			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="twitter" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>트위터			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="story" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons story"><i class="icon-story"></i></div>카카오스토리			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="google" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons google"><i class="icon-google"></i></div>구글+			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="band" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons band"><i class="icon-band"></i></div>네이버밴드			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="blog" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>네이버블로그			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="pholar" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons pholar"><i class="icon-pholar"></i></div>네이버폴라			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="pinterest" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" type="button">
+<div class="sns-btn-icons pinterest"><i class="icon-pinterest"></i></div>핀터레스트			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EC%A0%84%20%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%20%EC%97%AD%EB%9F%89%20%EA%B0%95%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%26lsquo%3BAIM%26rsquo%3B%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%203%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EC%A4%91%EC%8B%AC%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9D%B8%EB%A0%A5%EC%9D%84%20%EC%9C%A1%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EA%B0%80%20%EA%B0%9C%EB%B0%9C%ED%95%9C%20%EC%A0%84%EB%AC%B8%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EA%B0%84%20%EC%9D%BC%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%86%8C%EC%99%80%20%EC%83%9D%EC%82%B0%2C%20%EB%AC%BC%EB%A5%98%20%ED%98%84%EC%9E%A5%EC%97%90%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%20%EC%9D%BC%EB%B6%80%20%EB%8F%84%EC%9E%85%EB%90%9C%20%EC%82%AC%EB%A1%80%EB%8A%94%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%A5%BC%20%EC%A0%84%EC%82%AC%EC%A0%81%20%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%ED%99%95%EB%8C%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%82%AC%EB%82%B4%20%EC%A0%84%EB%AC%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%8B%A4%EC%8B%9C%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%80%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%8B%A4.%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%20AIM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94%20AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%A0%84%EB%9E%B5%20%EA%B3%BC%EC%A0%95%2C%20AI%20%EC%8B%AC%ED%99%94%20%EA%B3%BC%EC%A0%95%20%EB%93%B1%20%EC%A7%81%EC%9B%90%20%EC%88%98%EC%A4%80%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%20%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B3%BC%EC%A0%95%EC%9D%80" data-image="https://www.motorgraph.com/news/photo/201912/24443_77215_2050.jpg" data-sharesns="http" data-title="%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%2C%20%E2%80%9C%EC%82%AC%EC%9B%90%EB%B6%80%ED%84%B0%20%EC%9E%84%EC%9B%90%EA%B9%8C%EC%A7%80%E2%80%9D%20%EC%A0%84%20%EC%A7%81%EC%9B%90%20AI%20%EA%B5%90%EC%9C%A1" data-url="https%3A%2F%2Fwww.motorgraph.com%2Fnews%2FarticleView.html%3Fidxno%3D24443" id="sns-url-copy-button" type="button">
+<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL복사			</button>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= '';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+
+		$('#article-sns').on('click', '.sns-btns', function(e) {
+			
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				if(!site_ismobile) {
+					alert("PC 웹에서 지원하지 않습니다.");
+					return false;
+				}
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+				new Clipboard('#sns-url-copy-button', {
+					text: function(trigger) {
+						return decodeURIComponent($(trigger).data('url'));
+					}
+				});
+				alert("클립보드에 복사되었습니다. \nCtrl+v해서 원하는 곳에 붙여넣으세요.");
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+	});
+</script>
+<script type="text/javascript">
+  //<![CDATA[
+    // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('8b27862382feae2055bfbf8fbda3e025');
+    function addPlusFriend() {
+      Kakao.PlusFriend.addFriend({
+        plusFriendId: '_xexaPCV' // 플러스친구 홈 URL에 명시된 id로 설정합니다.
+      });
+    }
+  //]]>
+</script>
+</div>
+</section>
+<!-- close //-->
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+</div>
+</section>
+</header>
+<!--// 기사본문 상단 -->
+<hr/>
+<!-- article view wrapper //-->
+<div class="user-content">
+<!-- 기사본문 내용 //-->
+<section class="user-snb">
+<div class="user-snb-wrapper">
+<!-- contents //-->
+<article class="article-veiw-body view-page">
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+<script src="//api.motorgraph.com/static/forExtern/ndsoft__motorgraph/articleDetail.js"></script> <!-- #태그 -->
+<div class="" id="article-view-content-div">
+<div id="articleBody"> <!-- #태그 -->
+<div style="text-align:center">
+<figure class="photo-layout image photo_77215 max-width-960 float-center" data-idxno="77215" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/201912/24443_77215_2050.jpg">
+<figcaption></figcaption>
+</img></figure>
+</div>
+<p>현대모비스가 전 임직원의 인공지능 활용 역량 강화를 위한 ‘AIM’ 프로젝트를 시작한다고 3일 밝혔다.</p>
+<p>AIM 프로젝트는 실무 중심의 전문 인력을 육성하기 위해 현대모비스가 개발한 전문 교육 과정이다. 그간 일부 연구소와 생산, 물류 현장에 인공지능이 일부 도입된 사례는 있지만, 이를 전사적 차원으로 확대하기 위해 사내 전문 프로그램을 실시하는 것은 처음이다.</p>
+<p>현대모비스 AIM 프로젝트는 AI 전문가 양성 과정, AI 전략 과정, AI 심화 과정 등 직원 수준을 고려한 교육 과정으로 구성된다. 전문가 양성 과정은 코딩, AI 알고리즘 이론, 데이터 처리와 분석 실습 등으로 이뤄지는데, 16명의 직원을 우선 선발해 내년 4월까지 전문가 양성 과정을 우선 진행한다.</p><center style="margin:15px 0;"><!-- Web Article Center -->
+<ins data-revive-id="95c90daa5faceecaca41c2f5feb2d897" data-revive-zoneid="21"></ins>
+<script async="" src="//ads.motorgraph.com/www/delivery/asyncjs.php"></script></center>
+<div style="text-align:center">
+<figure class="photo-layout image photo_77216 max-width-960 float-center" data-idxno="77216" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/201912/24443_77216_2118.jpg">
+<figcaption></figcaption>
+</img></figure>
+</div>
+<p>이어 AI 전략 과정은 본부장급 이상의 임원을 대상으로 운영된다. 이는 AI를 적용한 제조 프로세스 혁신, AI와 빅데이터가 가져올 디지털 전환 등에 대한 교육이 중심으로, 올해를 시작으로 연 1회씩 진행된다. 전 직원을 대상으로 하는 AI 심화 과정은 코딩, 머신 러닝 강의 등 기본적인 AI 활용 역량을 중점적으로 다룬다. 교육 대상은 현대모비스 전체 팀 당 1명 수준인 340명으로, 이달 중순부터 3개월간 온라인 교육이 진행된다.</p>
+<p>현대모비스 정창모 데이터사이언스팀장은 “AI 교육을 지속적으로 진행하기 위해 내년부터는 연 2회, 회당 6개월씩 직무교육과정으로 운영할 계획”이라며 “이를 통해 매년 20명 가량 실무 중심의 현장 AI 인력을 양성할 예정”이라고 말했다.</p></div></div></article></div></section></div></div></section></div></body>

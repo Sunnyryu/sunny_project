@@ -1,0 +1,1056 @@
+현대자동차그룹 임원 인사, 하원태 부사장 사장 승진 등
+<body>
+<!--[if lt IE 9]>
+<div id="ie9-guide">
+	<div class="ie9-wrapper border-box">
+		<p class="guide-txt">
+		잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!
+		</p>
+
+		<div class="guide-right">
+			<dl class="ie9-down nobr">
+				<dt><i class="icon ie-logo">ie</i></dt>
+				<dd>
+					<span>인터넷 익스플로러 11</span>
+					<a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon cr-logo">chrome</i></dt>
+				<dd>
+					<span>구글 크롬</span>
+					<a href="http://www.google.com/chrome/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon ff-logo">firefox</i></dt>
+				<dd>
+					<span>모질라 파이어폭스</span>
+					<a href="http://www.mozilla.or.kr/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<![endif]-->
+<div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+<div class="off-canvas user-canvas position-left" data-off-canvas="" id="offCanvas">
+<!-- close //-->
+<button aria-label="Close menu" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+<style type="text/css">
+.user-canvas .user-canvas-navs .menu li > a:hover,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a {background:#091fa5}
+.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent > a::after,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a::after {border-top-color:#091fa5}
+.user-canvas .user-canvas-navs .menu li ul.menu.nested li a:hover {color:#091fa5}
+</style>
+<nav class="user-canvas-navs">
+<!-- 1차 //-->
+<ul class="vertical menu" data-accordion-menu="" data-multi-open="false">
+<li><a href="/news/articleList.html?view_type=sm">전체기사</a></li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">뉴스</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">전체</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N24&amp;view_type=sm" target="_top">교통정보</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N31&amp;view_type=sm" target="_top">판매조건</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N32&amp;view_type=sm" target="_top">사회공헌</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N33&amp;view_type=sm" target="_top">정책뉴스</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N27&amp;view_type=sm" target="_top">신상품</a></li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm" target="_top">리뷰 및 테스트</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm" target="_top">이슈&amp;테마</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm" target="_top">전체</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N21&amp;view_type=sm" target="_top">브랜드 스토리</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N34&amp;view_type=sm" target="_top">모터쇼</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N35&amp;view_type=sm" target="_top">모터스포츠</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N36&amp;view_type=sm" target="_top">기자수첩</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N37&amp;view_type=sm" target="_top">아롱테크</a></li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm" target="_top">신차소식</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm" target="_top">전체</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N19&amp;view_type=sm" target="_top">신차뉴스</a></li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=sm" target="_top">기고&amp;컬럼</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm" target="_top">자동차관리</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm" target="_top">전체</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N20&amp;view_type=sm" target="_top">리콜정보</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N28&amp;view_type=sm" target="_top">일반정비</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N29&amp;view_type=sm" target="_top">자동차보험</a></li>
+<li><a href="/news/articleList.html?sc_sub_section_code=S2N30&amp;view_type=sm" target="_top">중고차</a></li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=sm" target="_top">이벤트</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N9&amp;view_type=sm" target="_top">포토뉴스</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N10&amp;view_type=sm" target="_top">People &amp; People</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N11&amp;view_type=sm" target="_top">동영상</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N12&amp;view_type=sm" target="_top">일반뉴스</a>
+</li>
+</ul>
+</nav> </div>
+<div class="off-canvas-content" data-off-canvas-content="">
+<!-- wrap //-->
+<div id="user-wrap">
+<!-- header //-->
+<header class="posi-re float-center" id="user-header">
+<!-- 상단 HTML //-->
+<!--// 상단 HTML -->
+<!-- 메뉴 //-->
+<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="vertical";
+//-->
+</script>
+<style type="text/css">
+#user-nav .mega-menu li.megaline > a.a-hover,#user-nav .mega-menu li.megaline .sub-menu-vertical li.sub a:hover {color:#091fa5}
+#user-nav .mega-menu li.megaline .sub-menu-vertical {background-color:#091fa5;border-color:#091fa5}
+#user-nav .mega-menu li.megaline .sub-menu-vertical::before {border-left-color:#091fa5;border-bottom-color:#091fa5}
+</style>
+<!-- 메뉴 시작 //-->
+<div id="header-wrapper">
+<!-- 최상단영역 //-->
+<div id="user-gnb">
+<div class="float-center width-1080">
+<!-- 최종편집 -->
+<div class="user-intro"><strong class="user-point">UPDATED.</strong> 2019-12-12 14:31 (목) </div>
+<!-- 로그인 -->
+<ul class="user-logbox">
+<li><a href="/member/login.html" target="_top">로그인</a></li>
+<li><a href="/member/index.html" target="_top">회원가입</a></li>
+<li><a href="http://www.autoherald.co.kr/news/articleView.html?idxno=36645" onclick="setCookie('view_pc', 'n', 1);" target="_top">모바일웹</a></li>
+<li><a href="/news/articleList.html?view_type=sm" target="_top">전체기사</a></li>
+</ul>
+</div>
+</div>
+<!--// 최상단영역 -->
+<!-- 로고영역 //-->
+<header id="nav-header">
+<div class="float-center width-1080">
+<div class="dis-table">
+<div class="dis-table-cell user-logo">
+<!-- 로고 //-->
+<a href="http://www.autoherald.co.kr" target="_top"><img alt="오토헤럴드" src="/image/logo/toplogo_20190507034716.png"/></a>
+</div>
+<div class="dis-table-cell search-form">
+<!-- 검색 //-->
+<fieldset class="user-search">
+<form action="/news/articleList.html" method="post" name="head-search">
+<input name="sc_area" type="hidden" value="A"/>
+<input name="view_type" type="hidden" value="sm"/>
+<label class="show-for-sr" for="search">기사검색</label>
+<input id="search" name="sc_word" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="검색어입력" title="기사검색" type="text"/>
+<button onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}" title="기사검색" type="button"><i class="s7-search"></i><span class="show-for-sr">검색</span></button>
+</form>
+</fieldset>
+<!--// 검색 -->
+</div>
+<div class="dis-table-cell user-banner">
+<div class="float-right">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 상단 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9007384535186942" data-ad-slot="9771483640" style="display:inline-block;width:320px;height:50px"></ins>
+<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!--// 로고영역 -->
+<!-- 메뉴바 //-->
+<nav id="user-nav">
+<div class="float-center width-1080" id="user-nav-wrapper">
+<!-- 전체 -->
+<button class="all-section" data-toggle="offCanvas" type="button"><i class="fa fa-bars fa-fw"></i><span class="show-for-sr">전체</span></button>
+<!-- 섹션 //-->
+<ul class="mega-menu" id="mega-menu">
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">뉴스</a>
+<ul class="sub-menu-vertical">
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N24&amp;view_type=sm" target="_top">교통정보</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N31&amp;view_type=sm" target="_top">판매조건</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N32&amp;view_type=sm" target="_top">사회공헌</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N33&amp;view_type=sm" target="_top">정책뉴스</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N27&amp;view_type=sm" target="_top">신상품</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm" target="_top">신차소식</a>
+<ul class="sub-menu-vertical">
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm" target="_top">리뷰 및 테스트</a>
+<ul class="sub-menu-vertical">
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm" target="_top">이슈&amp;테마</a>
+<ul class="sub-menu-vertical">
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N21&amp;view_type=sm" target="_top">브랜드 스토리</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N34&amp;view_type=sm" target="_top">모터쇼</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N35&amp;view_type=sm" target="_top">모터스포츠</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N36&amp;view_type=sm" target="_top">기자수첩</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N37&amp;view_type=sm" target="_top">아롱테크</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm" target="_top">자동차관리</a>
+<ul class="sub-menu-vertical">
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N20&amp;view_type=sm" target="_top">리콜정보</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N28&amp;view_type=sm" target="_top">일반정비</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N29&amp;view_type=sm" target="_top">자동차보험</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N30&amp;view_type=sm" target="_top">중고차</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=sm" target="_top">기고&amp;컬럼</a>
+<ul class="sub-menu-vertical">
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=sm" target="_top">이벤트</a>
+<ul class="sub-menu-vertical">
+</ul>
+</li>
+</ul>
+<!--// 섹션 -->
+<!-- 신문사소개 //-->
+<ul class="user-etc">
+<li><a href="/com/jb.html">기사제보</a></li>
+<li><a href="/com/ad.html">광고문의</a></li>
+</ul>
+<!--// 신문사소개 -->
+</div>
+</nav>
+<!--// 메뉴바 -->
+</div>
+<!--// 메뉴 끝 -->
+<!--// 메뉴 -->
+</header>
+<!--// header -->
+<!-- container //-->
+<section class="posi-re text-left auto-pady-25 float-center width-1080" id="user-container">
+<!-- 플로팅 좌우 HTML //-->
+<div class="posi-re float-center width-1080"></div> <!--// 플로팅 좌우 HTML -->
+<div class="float-center max-width-1080">
+<!-- 편집패널 //-->
+<div class="clearfix">
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9007384535186942";
+/* 메인하단(N) */
+google_ad_slot = "6718076447";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script></center>
+</div>
+<!--// 편집패널 -->
+<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	articleHeader.setScroll();
+</script>
+<!-- 기사면 상단 네비게이션 //-->
+<div class="dis-none show-for-large" id="article-header-title">
+<!-- 이전/다음 기사 버튼 //-->
+<button class="aht-btn prev" onclick="javascript:articleHeader.move(
+				'prev',
+				'embargo_date',
+				'1575523214_36645',
+				'S1N10',
+				'',
+				'');" title="이전기사" type="button"><i class="fa fa-angle-left fa-fw"></i><span class="sr-only">이전</span></button>
+<button class="aht-btn next" onclick="javascript:articleHeader.move(
+				'next',
+				'embargo_date',
+				'1575523214_36645',
+				'S1N10',
+				'',
+				'');" title="다음기사" type="button"><i class="fa fa-angle-right fa-fw"></i><span class="sr-only">다음</span></button>
+<!--// 이전/다음 기사 버튼 -->
+<!-- 상단 컨텐츠 //-->
+<div class="aht-wrapper width-1080">
+<div class="aht-columns aht-logo"><a alt="로고" href="http://www.autoherald.co.kr"><img alt="오토헤럴드" src="/image/logo/printlogo_20190507035219.png"/></a></div>
+<div class="aht-columns aht-title"><div class="aht-title-view">현대자동차그룹 임원 인사, 하원태 부사장 사장 승진 등</div></div>
+<div class="aht-columns aht-options">
+<ul class="info-options no-bullet">
+<li><button class="options-btn has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-tooltip="" onclick="articlePrint('36645')" title="프린트" type="button"><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-tooltip="" onclick="articleMail('36645')" title="메일보내기" type="button"><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+<li class="fonts-option">
+<button class="fonts-btn options-btn" type="button"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+<ul class="fonts-option-panel no-bullet">
+<li>
+<input class="fontsize-radio" id="font-size15_1" name="fontsize1" title="15px" type="radio" value="font-size15"/>
+<label for="font-size15_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size16_1" name="fontsize1" title="16px" type="radio" value="font-size16"/>
+<label for="font-size16_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size17_1" name="fontsize1" title="17px" type="radio" value="font-size17"/>
+<label for="font-size17_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size18_1" name="fontsize1" title="18px" type="radio" value="font-size18"/>
+<label for="font-size18_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size19_1" name="fontsize1" title="19px" type="radio" value="font-size19"/>
+<label for="font-size19_1">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size20_1" name="fontsize1" title="20px" type="radio" value="font-size20"/>
+<label for="font-size20_1">가나다라마바사</label>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!--// 상단 컨텐츠 -->
+</div>
+<!--// 기사면 상단 네비게이션 -->
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+<!-- root //-->
+<nav class="article-head-nav auto-marbtm-10">
+<a href="/">HOME</a>
+<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N10">People &amp; People</a>
+</nav>
+<!--// root -->
+<!-- 본문제목 //-->
+<header class="article-header-wrap">
+<div class="article-head-title">현대자동차그룹 임원 인사, 하원태 부사장 사장 승진 등</div>
+</header>
+<!--// 본문제목 -->
+<!-- head info //-->
+<section class="article-head-info">
+<!-- info //-->
+<div class="info-text">
+<ul class="no-bullet auto-marbtm-0 line-height-6">
+<li><i class="fa fa-user-o fa-fw"></i> 김흥식 기자</li>
+<li><i class="fa fa-clock-o fa-fw"></i> 승인 2019.12.05 14:20</li>
+<li>
+<i class="fa fa-commenting-o fa-fw"></i> 댓글 
+						0					</li>
+</ul>
+</div>
+<!--// info -->
+<ul class="info-options no-bullet">
+<li><button class="options-btn has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-tooltip="" onclick="articlePrint('36645')" title="프린트" type="button"><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+<li><button class="options-btn has-tip" data-disable-hover="false" data-tooltip="" onclick="articleMail('36645')" title="메일보내기" type="button"><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+<li class="fonts-option">
+<button class="fonts-btn options-btn" type="button"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+<ul class="fonts-option-panel no-bullet">
+<li>
+<input class="fontsize-radio" id="font-size15_2" name="fontsize2" title="15px" type="radio" value="font-size15"/>
+<label for="font-size15_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size16_2" name="fontsize2" title="16px" type="radio" value="font-size16"/>
+<label for="font-size16_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size17_2" name="fontsize2" title="17px" type="radio" value="font-size17"/>
+<label for="font-size17_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size18_2" name="fontsize2" title="18px" type="radio" value="font-size18"/>
+<label for="font-size18_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size19_2" name="fontsize2" title="19px" type="radio" value="font-size19"/>
+<label for="font-size19_2">가나다라마바사</label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size20_2" name="fontsize2" title="20px" type="radio" value="font-size20"/>
+<label for="font-size20_2">가나다라마바사</label>
+</li>
+</ul>
+</li>
+<!-- li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li -->
+</ul>
+<div class="reveal gray" data-reveal="" id="article-sns">
+<header class="reveal-header">
+<div class="reveal-title">이 기사를 공유합니다</div>
+</header>
+<section class="reveal-container">
+<div class="article-sns-group">
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="facebook" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>페이스북			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="twitter" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>트위터			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="story" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons story"><i class="icon-story"></i></div>카카오스토리			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="google" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons google"><i class="icon-google"></i></div>구글+			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="band" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons band"><i class="icon-band"></i></div>네이버밴드			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="blog" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>네이버블로그			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="pholar" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons pholar"><i class="icon-pholar"></i></div>네이버폴라			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="pinterest" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" type="button">
+<div class="sns-btn-icons pinterest"><i class="icon-pinterest"></i></div>핀터레스트			</button>
+<button class="sns-btns" data-desc="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%B4%205%EC%9D%BC%20%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC%20%EC%82%AC%EC%97%85%EC%84%B1%EA%B3%BC%EC%97%90%20%EA%B8%B0%EB%B0%98%ED%95%9C%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%EB%A5%BC%20%EC%8B%A4%EC%8B%9C%ED%96%88%EB%8B%A4.%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EC%9D%80%20%EC%98%AC%ED%95%B4%EB%B6%80%ED%84%B0%20%EC%97%B0%EB%A7%90%20%EC%A0%95%EA%B8%B0%20%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC%20%EB%8C%80%EC%8B%A0%2C%20%EA%B2%BD%EC%98%81%ED%99%98%EA%B2%BD%20%EB%B0%8F%20%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%B0%EA%B3%84%ED%95%9C%20%EC%97%B0%EC%A4%91%20%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%20%EC%B2%B4%EC%A0%9C%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%96%88%EB%8B%A4.%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EC%9E%A5%20%ED%95%98%EC%96%B8%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%8A%B9%EC%A7%84%ED%95%98%EA%B3%A0%2C%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%ED%95%9C%EB%8B%A4.%20%EC%8B%A0%EC%9E%84%20%ED%95%98%EC%96%B8%ED%83%9C%20%EC%82%AC%EC%9E%A5%EC%9D%80%201986%EB%85%84%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%20%EC%9E%85%EC%82%AC%20%EC%9D%B4%ED%9B%84%2030%EB%85%84%EA%B0%84%20%EC%99%84%EC%84%B1%EC%B0%A8%20%EC%83%9D%EC%82%B0%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EA%B2%BD%ED%97%98%ED%95%9C%20%EC%83%9D%EC%82%B0%20%EB%B6%84%EC%95%BC%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A1%9C%20%EA%BC%BD%ED%9E%8C%EB%8B%A4.%20%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9D%84%20%EA%B2%B8%EC%A7%81%2C%20%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%9E%A5%EA%B3%BC%20%EC%95%84%EC%82%B0%EA%B3%B5%EC%9E%A5%2C%20%EC%A0%84%EC%A3%BC%EA%B3%B5%EC%9E%A5%20%EB%93%B1%20%EA%B5%AD%EB%82%B4%20%EA%B3%B5%EC%9E%A5%20%EC%9A%B4%EC%98%81%EC%9D%84%20%EC%B4%9D%EA%B4%84%ED%95%9C%EB%8B%A4.%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%AF%B8%EA%B5%AD%20%EC%A1%B0%EC%A7%80%EC%95%84%EA%B3%B5%EC%9E%A5%28KMMG%20%3A%20Kia%20Motors%20M" data-image="http://www.autoherald.co.kr/news/photo/201912/36645_61349_1921.jpg" data-sharesns="http" data-title="%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%9E%84%EC%9B%90%20%EC%9D%B8%EC%82%AC%2C%20%ED%95%98%EC%9B%90%ED%83%9C%20%EB%B6%80%EC%82%AC%EC%9E%A5%20%EC%82%AC%EC%9E%A5%20%EC%8A%B9%EC%A7%84%20%EB%93%B1" data-url="http%3A%2F%2Fwww.autoherald.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D36645" id="sns-url-copy-button" type="button">
+<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL복사			</button>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= '';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+
+		$('#article-sns').on('click', '.sns-btns', function(e) {
+			
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				if(!site_ismobile) {
+					alert("PC 웹에서 지원하지 않습니다.");
+					return false;
+				}
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+				new Clipboard('#sns-url-copy-button', {
+					text: function(trigger) {
+						return decodeURIComponent($(trigger).data('url'));
+					}
+				});
+				alert("클립보드에 복사되었습니다. \nCtrl+v해서 원하는 곳에 붙여넣으세요.");
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+	});
+</script> </div>
+</section>
+<!-- close //-->
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+</div>
+</section>
+</header>
+<!--// 기사본문 상단 -->
+<hr/>
+<!-- article view wrapper //-->
+<div class="user-content">
+<!-- 기사본문 내용 //-->
+<section class="user-snb">
+<div class="user-snb-wrapper">
+<!-- contents //-->
+<article class="article-veiw-body view-page">
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+<div class="" id="article-view-content-div" itemprop="articleBody">
+<div style="text-align:center">
+<figure class="photo-layout image photo_61349 max-width-960 float-center" data-idxno="61349" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/201912/36645_61349_1921.jpg"/>
+<figcaption></figcaption>
+</figure><center style="width:670px;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9007384535186942" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="7435503402" style="display:block; text-align:center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+</div>
+<p style="text-align: justify;">현대자동차그룹이 5일 전문성과 사업성과에 기반한 임원인사를 실시했다. 현대차그룹은 올해부터 연말 정기 임원인사 대신, 경영환경 및 사업전략 변화와 연계한 연중 수시인사 체제로 전환했다.</p>
+<p>현대자동차 울산공장장 하언태 부사장이 사장으로 승진하고, 국내생산담당을 겸직한다. 신임 하언태 사장은 1986년 울산공장 입사 이후 30년간 완성차 생산기술 및 공장 운영을 경험한 생산 분야 전문가로 꼽힌다. 국내생산담당을 겸직, 울산공장과 아산공장, 전주공장 등 국내 공장 운영을 총괄한다.</p>
+<p>기아자동차 미국 조지아공장(KMMG : Kia Motors Manufacturing Georgia) 법인장인 신장수 전무는 부사장으로 승진했다. 신장수 부사장은 2017년 말 조지아공장장으로 부임했으며, 미국 대형 SUV 시장에서 돌풍을 일으키고 있는 텔루라이드의 유연 생산체계 구축과 품질 개선 등을 추진하면서 북미사업 판매 및 수익성 확보에 기여한 것으로 평가된다.</p>
+<p>현대·기아자동차 홍보2실장 이영규 전무는 부사장으로 승진하고, 홍보실장에 보임됐다. 이영규 부사장은 홍보 및 커뮤니케이션 분야 전문가로, 그룹 및 현대·기아차의 비전을 대내외에 알리고 적극 소통할 것으로 기대된다. 현대·기아자동차 정책지원팀 서경석 전무는 부사장으로 승진하고, 현대건설 커뮤니케이션담당에 보임됐다. 서경석 부사장은 국내/해외 영업 및 대외협력 분야를 두루 거쳤으며, 현대건설의 홍보 채널 전략 수립 및 활발한 대외 소통을 담당한다.<br/>
+<br/>
+현대모비스 경영지원본부장 정수경 전무와 현대건설 주택사업본부장 윤영준 전무는 각각 부사장으로 승진했다. 정수경 부사장은 현대모비스 사업 전반에 대한 높은 이해를 바탕으로 자동차 산업 패러다임 변화에 대응한 조직 체계 혁신을 이끌었다. 윤영준 부사장은 현장 중심의 풍부한 공사관리 경험을 갖춘 주택사업 전문가로, 현대건설의 주택사업 수주 실적 향상에 기여했다.</p>
+<p>현대자동차 고객채널서비스사업부장 김민수 상무는 전무로 승진하고, 해비치호텔&amp;리조트 대표이사에 내정됐다. 김민수 전무는 마케팅 전문가로서, 시장과 고객에 대한 차별화된 시각과 이해를 토대로 해비치호텔&amp;리조트의 고객만족 제고에 기여할 적임자로 평가된다.<br/>
+<br/>
+한편, 현대차그룹은 올 초부터 급변하는 기술 및 시장환경에 대응한 조직체계 혁신과 미래 경쟁력 강화를 위해 연중 수시인사 체제로 전환한 바 있다. 올해 들어 현대차 북미권역(5월, 호세 무뇨스 사장), 현대차 국내사업(11월, 장재훈 부사장) 및 현대·기아차 중국사업(9월, 리펑 총경리 / 11월, 이광국 사장) 등 주요 부문 리더십을 교체했으며, 현대제철(2월, 안동일 사장), 현대엔지니어링(4월, 김창학 사장) 등 주요 그룹사 임원인사를 기 시행했다.</p>
+<p>주요 임원의 프로필은 다음과 같다.<br/>
+<br/>
+하언태 (河彦泰) 사장 : 현대자동차 국내생산담당 (울산공장장 겸직)<br/>
+1962년생 (57세)<br/>
+아주대 산업공학 학사<br/>
+주요 경력<br/>
+- 현대자동차 울산공장장 (부사장)<br/>
+- 현대자동차 울산공장부공장장 (전무)<br/>
+- 현대자동차 종합생산관리사업부장, 생산운영실장 (상무)<br/>
+<br/>
+신장수 (申長壽) 부사장 : 기아자동차 KMMG 법인장<br/>
+1961년생 (58세)<br/>
+울산대 기계공학 학사<br/>
+주요 경력<br/>
+- 기아자동차 KMMG 법인장 (전무)<br/>
+(KIA Motors Manufacturing Georgia)<br/>
+- 기아자동차 생산기획사업부장, 동풍열달기아공장관리팀장,<br/>
+조지아공장관리팀장, 소하리2공장장 (상무)<br/>
+<br/>
+이영규 (李鍈圭) 부사장 : 현대·기아자동차 홍보실장 (홍보2실장 겸직)<br/>
+1965년생 (54세)<br/>
+고려대 신문방송학 학사<br/>
+주요 경력<br/>
+- 현대·기아자동차 홍보2실장 (전무)<br/>
+- 현대·기아자동차 방송외신홍보팀장 (상무)<br/>
+- 현대·기아자동차 홍보2팀장 (책임)<br/>
+<br/>
+서경석 (徐慶錫) 부사장 : 현대건설 커뮤니케이션담당<br/><center style="position:relative; margin-bottom:15px; width:670px;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9007384535186942" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="7435503402" style="display:block; text-align:center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+1957년생 (62세)<br/>
+성균관대 산업공학 학사<br/>
+주요 경력<br/>
+- 현대·기아자동차 정책지원팀 (전무)<br/>
+- 현대·기아자동차 정책지원팀,<br/>
+기아자동차 광주전남지역본부장, CS경영실장 (상무)<br/>
+- 기아자동차 중남미팀장, 수출관리실장, 유럽팀장, 영국판매법인 (책임)<br/>
+<br/>
+정수경 (鄭洙京) 부사장 : 현대모비스 경영지원본부장<br/>
+1966년생 (53세)<br/>
+한양대 기계공학 석사/학사<br/>
+주요 경력<br/>
+- 현대모비스 경영지원본부장, 기획실장 (전무)<br/>
+- 현대모비스 기획담당, MSK 법인장, 김천공장장,<br/>
+부품사업관리실장, 전장사업관리실장,<br/>
+모듈사업관리실장 (상무)<br/>
+<br/>
+윤영준 (尹泳俊) 부사장 : 현대건설 주택사업본부장<br/>
+1957년생 (62세)<br/>
+연세대 환경학 석사<br/>
+청주대 행정학 학사<br/>
+주요 경력<br/>
+- 현대건설 주택사업본부장, 공사지원사업부장 (전무)<br/>
+- 현대건설 사업관리실장 (상무)<br/>
+- 현대건설 현장소장 (광장동 힐스테이트, 분당선 왕십리-선릉 間<br/>
+복선전철노반신설공사, 강남순환고속도로 外) (부장)</p>
+<p>김민수 (金旻洙) 전무 : 해비치호텔&amp;리조트 대표이사 내정<br/>
+1968년생 (51세)<br/>
+University of Michigan 경영학 석사<br/>
+서울대 경영학 학사<br/>
+주요 경력<br/>
+- 현대자동차 고객채널서비스사업부장, 마케팅사업부장<br/>
+- 현대자동차 브랜드전략실장, 스페이스마케팅실장 (상무)<br/>
+- 현대자동차 해외마케팅실장, 해외프로모션팀장 (책임)</p><br/>
+<div class="tag-group">
+<div class="tag-group-title">Tag</div>
+<a class="tag-button" href="/news/articleList.html?sc_area=A&amp;sc_word=현대차임원인사">#현대차임원인사</a>
+</div>
+<div class="view-copyright">저작권자 © 오토헤럴드 무단전재 및 재배포 금지</div>
+<div class="view-editors">
+<div class="float-right">
+<div class="profile-images">
+<img alt="김흥식 기자" src="/news/photo/member/khs1963_20180510081804.jpg"/>
+</div>
+<a class="names" href="mailto:reporter@autoherald.co.kr"><strong>김흥식 기자</strong></a>
+<a class="articles" href="/news/articleList.html?sc_area=I&amp;sc_word=khs1963">다른기사 보기</a> </div>
+</div>
+</div>
+<!-- 편집패널 //-->
+<div class="clearfix">
+<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 기사하단(반응형)
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9007384535186942"
+     data-ad-slot="1302500442"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> -->
+</div>
+<!--// 편집패널 -->
+</article>
+<!--// contents -->
+<hr/>
+<!-- 관련기사 //-->
+<article class="article-relation user-view">
+<header class="title"><strong>관련기사</strong></header>
+<section class="container">
+<article class="contents">
+<!-- 이미지 -->
+<a class="float-left auto-images cover line width-90 height-60 auto-maright-12" href="/news/articleView.html?idxno=36644" style="background-image:url(/news/thumbnail/201912/36644_61347_457_v150.jpg)" target="_self">
+<img alt="제네시스 첫 전기차 2021년 출시 'e+모델명' 6건 상표 등록" src=""/>
+</a>
+<div class="size-14 line-height-3-3x">
+<a class="auto-fontA onload" href="/news/articleView.html?idxno=36644" target="_self">제네시스 첫 전기차 2021년 출시 'e+모델명' 6건 상표 등록</a>
+</div>
+</article>
+<article class="contents">
+<!-- 이미지 -->
+<a class="float-left auto-images cover line width-90 height-60 auto-maright-12" href="/news/articleView.html?idxno=36643" style="background-image:url(/news/thumbnail/201912/36643_61343_3015_v150.jpg)" target="_self">
+<img alt="올해 마지막 신차 " gv80ㆍ기아차="" k5'="" src="" 뒤집나"="" 제네시스="" 판도=""/>
+</a>
+<div class="size-14 line-height-3-3x">
+<a class="auto-fontA onload" href="/news/articleView.html?idxno=36643" target="_self">올해 마지막 신차 "제네시스 GV80ㆍ기아차 K5' 판도 뒤집나</a>
+</div>
+</article>
+<article class="contents">
+<!-- 이미지 -->
+<a class="float-left auto-images cover line width-90 height-60 auto-maright-12" href="/news/articleView.html?idxno=36641" style="background-image:url(/news/thumbnail/201912/36641_61339_910_v150.jpg)" target="_self">
+<img alt="현대차 고성능 콘셉트카 'RM19' 통해 예상 가능한 변화" src=""/>
+</a>
+<div class="size-14 line-height-3-3x">
+<a class="auto-fontA onload" href="/news/articleView.html?idxno=36641" target="_self">현대차 고성능 콘셉트카 'RM19' 통해 예상 가능한 변화</a>
+</div>
+</article>
+<article class="contents">
+<!-- 이미지 -->
+<a class="float-left auto-images cover line width-90 height-60 auto-maright-12" href="/news/articleView.html?idxno=36638" style="background-image:url(/news/thumbnail/201912/36638_61336_517_v150.jpg)" target="_self">
+<img alt="[기자수첩] 허술한 보안에 맥 빠진 신차 제네시스 GV80" src=""/>
+</a>
+<div class="size-14 line-height-3-3x">
+<a class="auto-fontA onload" href="/news/articleView.html?idxno=36638" target="_self">[기자수첩] 허술한 보안에 맥 빠진 신차 제네시스 GV80</a>
+</div>
+</article>
+<article class="contents">
+<!-- 이미지 -->
+<a class="float-left auto-images cover line width-90 height-60 auto-maright-12" href="/news/articleView.html?idxno=36636" style="background-image:url(/news/thumbnail/201912/36636_61324_5028_v150.jpg)" target="_self">
+<img alt="N  배지 달고 290마력, 쏘나타 N 라인 고화질 스파이샷" src=""/>
+</a>
+<div class="size-14 line-height-3-3x">
+<a class="auto-fontA onload" href="/news/articleView.html?idxno=36636" target="_self">N  배지 달고 290마력, 쏘나타 N 라인 고화질 스파이샷</a>
+</div>
+</article>
+</section>
+</article>
+<!--// 관련기사 -->
+<hr/>
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+<div class="vote-container"></div>
+<script src="http://www.autoherald.co.kr/vote/vote.js" type="text/javascript"></script>
+<script>
+	jQuery( document ).ready(function() {
+		vote.voteCheck(
+			jQuery('#reply-write-btn, .reply-container'),			// 폐쇄시 제거할 영역
+			'S',													// 실명제 구분값
+			'/news/articleView.html'						// 리턴URL
+		);
+	});
+</script>
+<!-- 댓글삭제 //-->
+<div class="reveal gray" data-reveal="" id="reply-delete-modal">
+<header class="reveal-header">
+<div class="reveal-title">댓글삭제</div>
+</header>
+<section class="reveal-container">
+<!-- msg //-->
+<div class="reveal-msg">
+			삭제한 댓글은 다시 <span class="user-point">복구할 수 없습니다.</span><br/>
+			그래도 삭제하시겠습니까?
+		</div>
+<!--// msg -->
+<form action="articleReplyDelete.php" id="reply-delete-form" method="post" name="replyForm">
+<input id="reply-delete-mode" name="mode" placeholder="삭제모드" type="hidden" value="">
+<input id="reply-delete-idxno" name="idxno" placeholder="삭제번호" type="hidden" value="">
+<input id="reply-delete-reply-parent-idxno" name="reply_parent_idxno" placeholder="삭제부모번호" type="hidden" value="">
+<input id="reply-delete-parent-idxno" name="parent_idxno" placeholder="기사번호" type="hidden" value="36645">
+<input id="reply-delete-reply-page" name="reply_page" placeholder="페이징" type="hidden" value="1">
+<input id="reply-delete-reply-all" name="replyAll" placeholder="전체보기" type="hidden" value="">
+<input id="reply-delete-reply-sc-order-by" name="reply_sc_order_by" placeholder="댓글정렬" type="hidden" value="I">
+<!-- 비밀번호 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse" id="delete-password-field">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="password"><strong class="key-point">비밀번호</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<input class="required" id="password" maxlength="20" name="password" placeholder="비밀번호 입력" title="비밀번호" type="password"/>
+</div>
+</fieldset>
+<!--// 비밀번호 -->
+<footer class="clearfix">
+<div class="float-right small-float-center">
+<button class="button user-bg small-expanded"><i class="fa fa-trash-o fa-fw"></i> <strong>삭제</strong></button>
+</div>
+</footer>
+</input></input></input></input></input></input></input></form>
+</section>
+<!-- 닫기 //-->
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// 닫기 -->
+</div>
+<!--// 댓글삭제 -->
+<!-- 댓글 //-->
+<article class="article-reply" id="reply">
+<header class="reply-header">
+<strong>댓글</strong>
+<span class="text-muted">0</span> </header>
+<!-- 댓글쓰기 //-->
+<button class="reply-trick" data-mode="reply" id="reply-write-btn" type="button">댓글입력</button>
+<section class="reply-container" id="reply-container" style="display:none">
+<div class="reply-comment">
+<form action="articleReply.php" id="reply-form" method="post" name="replyForm">
+<input id="reply-insert-article-idxno" name="parent_idxno" type="hidden" value="36645">
+<input id="reply-insert-user-id" name="user_id" type="hidden" value="">
+<input id="reply-insert-mode" name="mode" type="hidden" value="input">
+<input id="g-recaptcha-response" name="g-recaptcha-response" type="hidden" value="">
+<input id="reply-page" name="reply_page" placeholder="페이징" type="hidden" value="1">
+<input id="reply-all" name="replyAll" placeholder="전체보기" type="hidden" value="">
+<input id="reply-sc-order-by" name="reply_sc_order_by" placeholder="댓글정렬" type="hidden" value="I">
+<header class="cmt-header">
+<!-- 로그인버튼 //-->
+<div class="logbox">
+<a class="logbox-btn active" href="/member/login.html?backUrl=/news/articleView.html?idxno=36645#reply"><i class="login-logo"></i><span class="show-for-sr">로그인</span></a>
+<!--<button type="button" class="logbox-btn"><i class="icon-facebook fa-fw"></i><span class="show-for-sr">페이스북</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-twitter fa-fw"></i><span class="show-for-sr">트위터</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-naver fa-fw"></i><span class="show-for-sr">네이버</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-talk fa-fw"></i><span class="show-for-sr">카카오</span></button>-->
+</div>
+<!--// 로그인버튼 -->
+<!-- 로그인 이름 //-->
+<div class="login-member" id="login-member"></div>
+<!--// 로그인 이름 -->
+<div class="float-right reply-name" style="display:none">
+<span class="dis-inblock reply-write-name">
+<label class="sr-only" for="name">이름</label>
+<input id="reply-insert-name" name="name" placeholder="이름" size="10" title="이름" type="text" value=""/>
+</span>
+<span class="dis-inblock reply-write-password">
+<label class="sr-only" for="password">비밀번호</label>
+<input id="reply-insert-password" name="password" placeholder="비밀번호" size="10" title="비밀번호" type="password" value=""/>
+</span>
+</div>
+</header>
+<!-- 댓글입력 //-->
+<section class="cmt-container">
+<label class="sr-only" for="content">내용</label>
+<textarea class="min-height-80 reply-content required" id="content" name="content" placeholder="권리침해, 욕설 및 특정 대상을 비하하는 내용을 게시할 경우 이용약관 및 관련법률에 의해 제해될 수 있습니다. 공공기기에서는 사용 후 로그아웃 해주세요." rows="3" title="내용"></textarea>
+</section>
+<!--// 댓글입력 -->
+<!-- 댓글등록버튼 //-->
+<footer class="cmt-footer">
+<span class="reply-textnum text-muted"><strong id="reply-cur-text">0</strong> / 400</span>
+<button class="button user-bg" type="submit"><i class="fa fa-comments-o fa-fw"></i> 등록</button>
+</footer>
+<!--// 댓글등록버튼 -->
+</input></input></input></input></input></input></input></form>
+</div>
+</section>
+<!--// 댓글쓰기 -->
+<!-- 댓글쓰기인증 //-->
+<div class="reveal gray" data-reveal="" id="reply-modal">
+<header class="reveal-header">
+<div class="reveal-title">댓글쓰기</div>
+</header>
+<section class="reveal-container">
+<!-- msg //-->
+<div class="reveal-msg">
+					계정을 선택하시면 <span class="user-point">로그인·계정인증</span>을 통해<br/> 댓글을 남기실 수 있습니다.
+				</div>
+<!--// msg -->
+<div class="reply-login">
+<div class="button-group nd-white large">
+<a class="button expanded" href="/member/login.html?backUrl=/news/articleView.html?idxno=36645#reply" id="btn-login" type="button"><i class="login-logo"></i>회원 로그인</a>
+<!--<button type="button" class="button expanded"><i class="icon-facebook fa-fw"></i>페이스북</button>
+						<button type="button" class="button expanded"><i class="icon-twitter fa-fw"></i>트위터</button>
+						<button type="button" class="button expanded"><i class="icon-naver fa-fw"></i>네이버</button>
+						<button type="button" class="button expanded"><i class="icon-talk fa-fw"></i>카카오</button>-->
+<button class="button expanded" id="btn-nomember-write" type="button"><i class="icon-chat fa-fw user-point"></i>비회원 글쓰기</button>
+</div>
+<div class="clearfix" id="nomember-info" style="display:none">
+<hr>
+<!-- 이름 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="name"><strong class="key-point">이름</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<input class="required auto-marbtm-5" id="nomember-name" maxlength="20" name="name" placeholder="이름" title="이름" type="text"/>
+</div>
+</fieldset>
+<!--// 이름 -->
+<!-- 비밀번호 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="password"><strong class="key-point">비밀번호</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<input class="required auto-marbtm-5" id="nomember-password" maxlength="20" name="password" placeholder="비밀번호" title="비밀번호" type="password"/>
+</div>
+</fieldset>
+<!--// 비밀번호 -->
+<!-- 캡챠 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="kcaptcha"><strong class="key-point">자동등록방지</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<div class="input-group auto-marbtm-5">
+<script type="text/javascript">
+									var captchaContainer = null;
+									var reCapVal;
+									var loadCaptcha = function() {
+										grecaptcha.render('captcha_container', {
+											'sitekey' : '6LeKMzsUAAAAAG_x58ZH6MxMhkrXkPPIo2s9ba4T',
+											'callback' : function(response) {												
+												reCapVal = response;	
+												$("#nomember-captcha").val( reCapVal );
+											}
+										});
+									};
+									</script>
+<!-- Google reCAPTCHA HEAD script S -->
+<div id="captcha_container"></div><!-- Google reCAPTCHA weiget -->
+<input id="nomember-captcha" name="captcha" title="구글캡차" type="hidden"/>
+<!-- Google reCAPTCHA FOOTER script S -->
+<script async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=loadCaptcha&amp;render=explicit"></script>
+</div>
+</div>
+</fieldset>
+<!--// 캡챠 -->
+<hr/>
+<footer class="clearfix">
+<div class="float-right small-float-center">
+<button class="button user-bg small-expanded" id="no-member-write"><i class="fa fa-plus-circle fa-fw"></i> <strong>확인</strong></button>
+</div>
+</footer>
+</hr></div>
+</div>
+</section>
+<!-- 닫기 //-->
+<button aria-label="Close modal" class="close-button" data-close="" id="login-close-button" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// 닫기 -->
+</div>
+<!--// 댓글쓰기인증 -->
+<!-- 댓글 리스트 //-->
+<section class="reply-list">
+<!-- header //-->
+<header class="header">
+<div class="list-category">
+<a class="active" href="/news/articleView.html?idxno=36645&amp;replyAll=&amp;reply_sc_order_by=I#reply"><i class="s7-check"></i> 최신순</a>
+<a href="/news/articleView.html?idxno=36645&amp;replyAll=&amp;reply_sc_order_by=C#reply"><i class="s7-check"></i> 추천순</a>
+</div>
+</header>
+<!--// header -->
+<section class="container">
+</section>
+</section>
+<!--// 댓글 리스트 -->
+<hr/>
+<!-- page //-->
+<!--// page -->
+</article>
+<!--// 댓글 -->
+<script src="http://www.autoherald.co.kr/script/reply.js"></script>
+<script>		
+	reply.parent_idxno = "36645";										// 게시글 번호
+	reply.captchaEnable = "Y";								// 캡차사용여부 		
+
+	reply.replyAll = "";											// 전체보기 		
+	reply.reply_sc_order_by = "I";						// 정렬
+	reply.reply_page = "1";										// 페이지
+	
+	$("#reply-write-btn").on('click', {reply_parent_idxno:''}, reply.replyWrite);		// 댓글쓰기 이벤트 
+	$("#no-member-write").on('click',reply. noMemberCheck);								// 비회원 글쓰기 이벤트
+	$("#btn-nomember-write").on('click', function(){$("#nomember-info").show()});		// 비회원 글쓰기 SHOW 
+	$(".comments-more-btn").on('click', reply.viewOption);								// 댓글옵션보이기 이벤트
+	$(".reply-delete-btn").on('click', reply.setDeleteOption);							// 댓글삭제 이벤트
+	$(".vote-btn").on('click', reply.setVote);											// 추천반대 이벤트
+	$(".comments-reply").on('click', reply.getSubReplyView);							// 답글보기 이벤트		
+	$("#content").on("keyup", {reply_parent_idxno:''}, reply.getTextLength);			// 글자계산
+	$(document).on('closed.zf.reveal', '[data-reveal]', reply.modalCloser);				// 모달 CLOSE	이벤트 핸들러	
+</script>
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+</div>
+</section>
+<!--// 기사본문 내용 -->
+<!-- 기사본문 우측 //-->
+<aside class="user-aside">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 우측배너 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9007384535186942" data-ad-slot="7936497781" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br/><br/><!--불란서 자동차--><script type="text/javascript">var ___BANNER = "ban_1537158547";</script><script charset="utf-8" id="ban_1537158547" src="http://www.autoherald.co.kr/bannerpop/uploads/js/14.js?1537158547" type="text/javascript"></script><!--//불란서 자동차--><article class="box-skin design-7">
+<header class="header"><strong>인기기사</strong></header>
+<section class="content"><div class="auto-article auto-db01">
+<ul><li class="clearfix"><div class="number count1 user-bg">1</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36604" target="_top">제네시스 GV80 '이 정도면 공식 공개 수준' SNS 실차 도배</a></li>
+<li class="clearfix auto-martop-8"><div class="number count2 user-bg">2</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36665" target="_top">전혀 어색하지 않아, 도로 주행 중 포착된 테슬라 사이버 트럭</a></li>
+<li class="clearfix auto-martop-8"><div class="number count3 user-bg">3</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36638" target="_top">[기자수첩] 허술한 보안에 맥 빠진 신차 제네시스 GV80</a></li>
+<li class="clearfix auto-martop-8"><div class="number count4 default-bg">4</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36606" target="_top">포드 F 시리즈 또 망신, 1.3톤에 뒤틀린 적재함 '테슬라는 어때?'</a></li>
+<li class="clearfix auto-martop-8"><div class="number count5 default-bg">5</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36662" target="_top">신형 쏘렌토의 적중율 높은 예상도, 간결해진 외관에 독특한 램프</a></li>
+<li class="clearfix auto-martop-8"><div class="number count6 default-bg">6</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36636" target="_top">N  배지 달고 290마력, 쏘나타 N 라인 고화질 스파이샷</a></li>
+<li class="clearfix auto-martop-8"><div class="number count7 default-bg">7</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36643" target="_top">올해 마지막 신차 "제네시스 GV80ㆍ기아차 K5' 판도 뒤집나</a></li>
+<li class="clearfix auto-martop-8"><div class="number count8 default-bg">8</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36616" target="_top">탈삼성, 2020년 상반기 출시 QM3 풀체인지는 '르노 캡처'</a></li>
+<li class="clearfix auto-martop-8"><div class="number count9 default-bg">9</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36627" target="_top">트레일블레이저 2만 달러 이하, 국내 가격 투싼보다 저렴 '희망'</a></li>
+<li class="clearfix auto-martop-8"><div class="number count10 default-bg">10</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36644" target="_top">제네시스 첫 전기차 2021년 출시 'e+모델명' 6건 상표 등록</a></li>
+</ul>
+</div></section>
+</article><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="215" src="https://www.youtube.com/embed/J8kqBp9Cy6g" width="300"></iframe><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 우측배너 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9007384535186942" data-ad-slot="7936497781" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br/><br/><article class="box-skin design-7">
+<header class="header"><strong>최신기사</strong></header>
+<section class="content"><div class="auto-article auto-dl04">
+<ul><li class="auto-column">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36695" target="_top">국토부, 자율주행 윤리 가이드라인 발표...내년 최종안 고시</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36695" style="background-image:url(/news/thumbnail/201912/36695_61496_2848_v150.jpg)" target="_top">
+<img alt="국토부, 자율주행 윤리 가이드라인 발표...내년 최종안 고시" src="/news/thumbnail/201912/36695_61496_2848_v150.jpg"/>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36692" target="_top">기아차, 보고ㆍ타고ㆍ모는 즐거움을 주는 '3세대 K5' 출시</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36692" style="background-image:url(/news/thumbnail/201912/36692_61495_2715_v150.jpg)" target="_top">
+<img alt="기아차, 보고ㆍ타고ㆍ모는 즐거움을 주는 '3세대 K5' 출시" src="/news/thumbnail/201912/36692_61495_2715_v150.jpg"/>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36693" target="_top">벤츠, 컴팩트 카와 SUV 장점을 하나로 '더 뉴 GLA' 최초 공개</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36693" style="background-image:url(/news/thumbnail/201912/36693_61488_2054_v150.jpg)" target="_top">
+<img alt="벤츠, 컴팩트 카와 SUV 장점을 하나로 '더 뉴 GLA' 최초 공개" src="/news/thumbnail/201912/36693_61488_2054_v150.jpg"/>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36685" target="_top">[송년특집 #4] 하이브리드카 급증, 내수 부진에도 친환경차는 달렸다.</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36685" style="background-image:url(/news/thumbnail/201912/36685_61469_55_v150.jpg)" target="_top">
+<img alt="[송년특집 #4] 하이브리드카 급증, 내수 부진에도 친환경차는 달렸다." src="/news/thumbnail/201912/36685_61469_55_v150.jpg"/>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36691" target="_top">캐딜락, 신형 에스컬레이드 '공장에서 촬영 SNS로 확산'</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36691" style="background-image:url(/news/thumbnail/201912/36691_61481_4120_v150.jpg)" target="_top">
+<img alt="캐딜락, 신형 에스컬레이드 '공장에서 촬영 SNS로 확산'" src="/news/thumbnail/201912/36691_61481_4120_v150.jpg"/>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36690" target="_top">쉐보레 '트레일블레이저' 美서 한화 2387만원, 투싼과 엇비슷</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36690" style="background-image:url(/news/thumbnail/201912/36690_61479_5033_v150.jpg)" target="_top">
+<img alt="쉐보레 '트레일블레이저' 美서 한화 2387만원, 투싼과 엇비슷" src="/news/thumbnail/201912/36690_61479_5033_v150.jpg"/>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36689" target="_top">'디젤에서 전기차로 차선변경' 유럽 최대 EV시장으로 부상한 독일</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36689" style="background-image:url(/news/thumbnail/201912/36689_61477_5511_v150.jpg)" target="_top">
+<img alt="'디젤에서 전기차로 차선변경' 유럽 최대 EV시장으로 부상한 독일" src="/news/thumbnail/201912/36689_61477_5511_v150.jpg"/>
+</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-35"></div>
+</aside>
+<!--// 기사본문 우측 -->
+</div>
+<!--// article view wrapper -->
+<!-- 편집패널 //-->
+<div class="auto-martop-20 clearfix">
+<div class="auto-marbtm-20" style="text-align:center;">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 기사하단(반응형) -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9007384535186942" data-ad-format="link" data-ad-slot="1302500442" style="display:block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<!--// 편집패널 -->
+</div>
+</section>
+<!--// container -->
+<!-- footer //-->
+<footer class="user-style-default" id="user-footer">
+<div class="float-center width-1080">
+<div class="footer-menu">
+<!-- logo //-->
+<div class="footer-columns user-logo"><img alt="오토헤럴드" src="/image/logo/downlogo_20190507035219.png"/></div>
+<!--// logo -->
+<!-- nav //-->
+<nav class="footer-columns user-nav">
+<a class="deco-none" href="/com/com-1.html"><strong>신문사소개</strong></a>
+<a class="deco-none" href="/com/jb.html"><strong>기사제보</strong></a>
+<a class="deco-none" href="/com/ad.html"><strong>광고문의</strong></a>
+<a class="deco-none" href="/com/bp.html"><strong>불편신고</strong></a>
+<a class="deco-none" href="/com/privacy.html"><strong>개인정보취급방침</strong></a>
+<a class="deco-none" href="/com/youthpolicy.html"><strong>청소년보호정책</strong></a>
+<a class="deco-none" href="/com/emailno.html"><strong>이메일무단수집거부</strong></a>
+<a class="deco-none" href="/rss/"><strong>RSS</strong></a>
+</nav>
+<!--// nav  -->
+</div>
+<address class="user-address">
+<ul class="no-bullet">
+<li class="bars">서울특별시 금천구 가산동 345-50 아이티프리미어타워 2003호(20F)</li>
+<li class="bars">대표전화 : 070-7382-0066</li>
+<li>청소년보호책임자 : 김아영</li>
+<li class="bars clear">명칭 : 자잔미디어</li>
+<li class="bars">제호 : 오토헤럴드</li>
+<li class="bars">등록번호 : 군포 가 00007</li>
+<li class="bars">등록일 : 2011-09-06</li>
+<li class="bars">발행일 : 2011-09-06</li>
+<li>발행·편집인 : 김흥식</li>
+<li class="clear">오토헤럴드 모든 콘텐츠(영상,기사, 사진)는 저작권법의 보호를 받은바, 무단 전재와 복사, 배포 등을 금합니다.</li>
+<li class="clear">C<a class="deco-none" href="http://www.autoherald.co.kr/admin/adminLoginForm.html">o</a>pyright © 2011-2019 오토헤럴드. <a href="http://www.autoherald.co.kr/news/articleView.html?idxno=36645" onclick="setCookie('view_pc', 'n', 1);">All</a> rights reserved. mail to <a class="deco-none" href="mailto:webmaster@autoherald.co.kr">webmaster@autoherald.co.kr</a></li>
+</ul>
+<a class="ndsoft" href="http://www.ndsoft.co.kr/" target="_blank"><img alt="ND소프트" src="/image/ndsoft.gif"/></a> </address>
+</div>
+</footer>
+<!--// footer -->
+<!-- 하단 HTML //-->
+<!--// 하단 HTML -->
+<!-- back to the top //-->
+<button class="back-to-top" id="back-to-top" title="위로" type="button"><i class="s7-angle-up"></i><span class="show-for-sr">위로</span></button>
+<!--// back to the top -->
+</div>
+<!--// wrap -->
+</div>
+</div>
+</div>
+<script>
+// Popup Json
+var ___popup = [];
+bannerpop.popup();
+</script>
+<script type="text/javascript">
+<!--
+// back to the top		
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){	
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+</body>

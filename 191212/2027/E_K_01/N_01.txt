@@ -1,0 +1,36 @@
+'벌새', 한국영화제작가협회상 작품상...감독상 '기생충' 봉준호
+<body id="newsis"><!--<![endif]-->
+<div id="wrap" style="height: auto;">
+<a class="skip" href="#container">본문영역 바로가기</a>
+<div id="header">
+<div class="hd_rellink">
+<div class="bxcn1">
+<div class="lgroup">
+<span class="date"></span>
+<span class="weather">
+</span>
+<div class="cboth"></div>
+</div>
+<div class="rgroup">
+<ul class="sitelink lgroup">
+<li><a class="c1" href="http://k-artprice.newsis.com" target="_blank"><strong>K-Artprice</strong></a></li>
+<li><a class="c1" href="/msi"><strong>MSI</strong></a></li>
+<li><a class="c1" href="http://prime.newsis.com" target="_blank"><strong>프라임뉴스</strong></a></li>
+<li><a class="c1" href="http://weekly.newsis.com" target="_blank"><strong>위클리</strong></a></li>
+<li><a href="/m_service/web/">모바일</a></li>
+</ul>
+<ul class="sociallink lgroup">
+<li><a href="https://www.facebook.com/newsis.news?sk=wall" target="_blank"><img alt="페이스북" src="http://image.newsis.com/new_www/homepage/icon_social_facebook.png"/></a></li>
+<li><a href="https://twitter.com/newsis" target="_blank"><img alt="트위터" src="http://image.newsis.com/new_www/homepage/icon_social_twitter.png"/></a></li>
+<li><a href="http://newsstand.naver.com/?pcode=003&amp;list=ct1" target="_blank"><img alt="네이버" src="http://image.newsis.com/new_www/homepage/icon_social_naver.png"/></a></li>
+<!-- 						<li class="last"><a href="http://www.google.com/newsstand/s/CAowl7jyCg" target="_blank"><img src="http://image.newsis.com/new_www/homepage/icon_social_google.png" alt="구글"></a></li> -->
+<li class="last"><a href="https://www.youtube.com/channel/UCAKGKvxlNWuWn1wGXZnr01Q" target="_blank"><img alt="유튜브" src="http://image.newsis.com/new_www/homepage/icon_social_youtube.png?dt=201909301350"/></a></li>
+</ul>
+</div>
+<div class="cboth"></div>
+</div>
+</div>
+<div class="bxcn1">
+<div class="logobx">
+<a class="logo" href="/"><img alt="공감언론 뉴시스 newsis" src="http://image.newsis.com/new_www/homepage/logo.gif"/></a>
+<a href="#"><span class="banner1" id="header_left_ad0"></span></a><a href="#"><span class="banner1" id="header_left_ad1"></span></a><a href="#"><span class="banner1" id="header_left_ad2"></span></a><a href="#"><span class="banner1" id="header_left_ad3"></span></a><a href="#"><span class="banner1" id="header_left_ad4"></span></a><a href="#"><span class="banner1" id="header_left_ad5"></span></a><a href="#"><span class="banner1" id="header_left_ad6"></span></a><a href="#"><span class="banner1" id="header_left_ad7"></span></a><a href="#"><span class="banner1" id="header_left_ad8"></span></a> <a class="banner2" href="http://smile.seoul.kr/moduschool" target="_blank"><img align="absmiddle" border="0" height="60" src="http://image.newsis.com/new_www/advertise/2019/11/21/AD_20191121_001468_1574317589.gif" width="260"/></a></div></div></div></div></body>

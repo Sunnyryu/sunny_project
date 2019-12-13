@@ -1,0 +1,957 @@
+[단독] 와이파이 때문에 집회 연 현대차노조
+<body>
+<div id="wrap">
+<div class="view" id="inner">
+<!-- 스킵네비게이션 -->
+<div class="skip_navi">
+<a href="#container">본문 바로가기</a>
+</div>
+<!-- //스킵네비게이션 -->
+<div class="chscgnb_header" id="header">
+<div class="wrap_header">
+<div id="gnb">
+<!-- <button type="button" class="ico btn_menu"><span class="hide">전체메뉴 열고닫기</span></button> -->
+<a class="ico btn_menu" href="https://www.hankyung.com/sitemap"><span class="hide">전체메뉴 열고닫기</span></a>
+<div class="layer_menu">
+<div class="site_index main_site">
+<div class="column column-news">
+<h2 class="category_tit"><a href="https://www.hankyung.com/all-news">뉴스</a></h2>
+<ul class="category_list">
+<li><a href="https://www.hankyung.com/all-news">전체뉴스</a><!--<span class="ico ico_new"></span>--></li>
+<li><a href="https://www.hankyung.com/opinion">오피니언</a></li>
+<li><a href="https://www.hankyung.com/economy">경제</a></li>
+<li><a href="https://www.hankyung.com/politics">정치</a></li>
+<li><a href="https://www.hankyung.com/society">사회</a></li>
+<li><a href="https://www.hankyung.com/finance">증권</a></li>
+<li><a href="https://www.hankyung.com/realestate">부동산</a></li>
+<li><a href="https://www.hankyung.com/international">국제</a></li>
+<li><a href="https://www.hankyung.com/it">IT·과학</a></li>
+<li><a href="https://www.hankyung.com/life">생활·문화</a></li>
+<li><a href="https://www.hankyung.com/golf">골프</a></li>
+<li><a href="https://www.hankyung.com/sports">스포츠</a></li>
+<li><a href="https://www.hankyung.com/entertainment">연예</a></li>
+</ul>
+</div>
+<div class="column column-stock">
+<h2 class="category_tit"><a href="http://stock.hankyung.com/">증권</a></h2>
+<ul class="category_list">
+<li><a href="http://stock.hankyung.com/news/app/newslist.php?cid=01">전체뉴스</a></li>
+<li><a href="http://stock.hankyung.com/apps/stockinfo.kospi">국내증시</a></li>
+<li><a href="http://stock.hankyung.com/global/">해외증시</a></li>
+<li><a href="http://stock.hankyung.com/apps/bond.interestrate_main">채권</a></li>
+<li><a href="http://stock.hankyung.com/coin">가상화폐</a></li>
+<li class="mobile_hide"><a href="http://stock.hankyung.com/financial">한경금리봇</a></li>
+<li><a href="http://money.hankyung.com">한경머니</a></li>
+<li><a href="http://consensus.hankyung.com/">컨센서스</a></li>
+<li><a href="http://stock.hankyung.com/apps/rank.panel_sub?market=1">전종목 시세</a></li>
+</ul>
+</div>
+<div class="column column-land">
+<h2 class="category_tit"><a href="http://land.hankyung.com/">부동산</a></h2>
+<ul class="category_list">
+<li><a href="http://land.hankyung.com/news/app/newslist.php?cid=03">전체뉴스</a></li>
+<li><a href="http://land.hankyung.com/news/app/tag.article.list.php?slug=%EC%A7%91%EC%BD%94%EB%85%B8%EB%AF%B8">집코노미</a></li>
+<li><a href="http://land.hankyung.com/news/app/tag.article.list.php?slug=%EC%96%BC%EB%A7%88%EC%A7%91">얼마집</a></li>
+<li><a href="http://land.hankyung.com/board/list.php?id=land_schedule">분양</a></li>
+<li><a href="http://land.hankyung.com/offering/">매물</a></li>
+<li><a href="http://land.hankyung.com/transaction/">거래속보</a></li>
+<li><a href="http://land.hankyung.com/apps/findapt.main">아파트 찾기</a></li>
+<li><a href="http://maemul.hankyung.com/mmc/">매물관리센터</a></li>
+<li><a href="http://rschool.hankyung.com/">부동산스쿨</a></li>
+</ul>
+</div>
+<div class="column column-auto">
+<h2 class="category_tit"><a href="http://auto.hankyung.com/">자동차</a></h2>
+<ul class="category_list">
+<li><a href="http://auto.hankyung.com/autonews">전체뉴스</a></li>
+<li><a href="http://auto.hankyung.com/ev">전기차</a></li>
+<li><a href="http://auto.hankyung.com/autoreview">시승기</a></li>
+<li><a href="http://auto.hankyung.com/news/racingmodel">레이싱모델</a></li>
+<li><a href="http://auto.hankyung.com/autophoto">포토</a></li>
+<li><a href="http://auto.hankyung.com/section/cartok">신차정보</a></li>
+</ul>
+</div>
+<div class="column column-enter">
+<h2 class="category_tit"><a href="http://hei.hankyung.com/">연예</a></h2>
+<ul class="category_list">
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?cid=20">전체뉴스</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?cid=2001">연예가화제</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?cid=2002,2003">방송/TV</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?cid=2004">드라마</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?cid=2005">영화</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?cid=2006">뮤직</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?category=photo">포토</a></li>
+<li><a href="http://hei.hankyung.com/news/app/newslist.php?category=photoSlide">포토슬라이드</a></li>
+</ul>
+</div>
+<div class="column column-etc">
+<ul class="category_list">
+<li><a href="https://www.hankyung.com/video">VIDEO</a>
+<li><a href="https://www.hankyung.com/tag/한경·네이버-FARM">FARM</a></li>
+<li><a href="https://www.hankyung.com/poll">POLL</a></li>
+<li><a href="http://starwars.hankyung.com/">스타워즈</a><span class="ico ico_new"></span></li>
+<li><a href="https://www.hankyung.com/health">한경헬스</a></li>
+<li><a href="https://www.hankyung.com/edge">엣지</a></li>
+<li><a href="http://newslabit.hankyung.com/">뉴스래빗</a></li>
+<li><a href="https://www.hankyung.com/thepen">The pen</a></li>
+<li><a href="http://dic.hankyung.com/">한경용어사전</a></li>
+<li><a href="http://live.hankyung.com/">한경라이브</a></li>
+<li><a href="http://itcampus.hankyung.com/">교육센터</a></li>
+<li><a href="https://www.hankyung.com/podcast">한소리</a></li>
+<li><a href="https://event.hankyung.com/">이벤트</a></li>
+</li></ul>
+</div>
+<div class="column column-rel">
+<ul class="category_list">
+<li><a href="http://autotimes.hankyung.com/" target="_blank">오토타임즈</a></li>
+<li><a href="http://bntnews.hankyung.com/" target="_blank">bntnews</a></li>
+<li><a href="http://gametoc.hankyung.com/" target="_blank">게임톡</a></li>
+<li><a href="http://kizmom.hankyung.com/" target="_blank">키즈맘</a></li>
+<li><a href="http://starn.hankyung.com/" target="_blank">스타엔</a></li>
+<li><a href="http://spoon.hankyung.com" target="_blank">스포 TV</a></li>
+</ul>
+</div>
+</div>
+<div class="link_rel">
+<a class="rel_logo hk_tv" href="http://www.wowtv.co.kr/" target="_blank">한국경제TV</a>
+<a class="rel_logo hk_mgz" href="http://magazine.hankyung.com" target="_blank">한국경제 매거진</a>
+<a class="rel_logo hk_book" href="http://bp.hankyung.com" target="_blank">BOOK</a>
+<a class="rel_logo hk_acdm" href="http://ac.hankyung.com/main/" target="_blank">한경아카데미</a>
+<a class="rel_logo asia10" href="http://tenasia.hankyung.com" target="_blank">텐아시아</a>
+<a class="rel_logo sangle" href="http://sgsg.hankyung.com" target="_blank">생글생글</a>
+<a class="rel_logo tesat" href="http://www.tesat.or.kr" target="_blank">TESAT</a>
+<a class="rel_logo ncs" href="http://www.fintest.or.kr" target="_blank">금융NCS</a>
+<a class="rel_logo worklab" href="http://gwp.hankyung.com" target="_blank">좋은일터연구소</a>
+<a class="rel_logo mkinsite" href="http://marketinsight.hankyung.com" target="_blank">마켓인사이트</a>
+<a class="rel_logo movie29" href="http://www.29sfilm.com" target="_blank">29초영화제</a>
+</div>
+<div class="btm_menu">
+<div class="subs">
+<a class="lang" href="http://jp.hankyung.com/" target="_blank">日本語</a>
+<a class="lang part" href="http://www.koreaninvestors.com" target="_blank">Korean Investors</a>
+<a href="http://hk.hankyung.com/" target="_blank">구독신청</a>
+<a href="http://plus.hankyung.com/apps/newspaper.view" target="_blank">지면보기</a>
+<a href="https://www.hankyung.com/realtime" target="_blank">실시간 속보창</a>
+<a href="http://stock.hankyung.com/apps/rank.panel_sub?market=1" target="_blank">전종목 시세판</a>
+</div>
+<div class="sns">
+<a class="link_facebook" href="https://www.facebook.com/hankyungmedia/"><span class="ico gnb_sns_fb"></span>페이스북</a>
+<a class="link_twit" href="https://twitter.com/hankyungmedia"><span class="ico gnb_sns_tw"></span>트위터</a>
+</div>
+<div class="wrap_btn">
+<a class="btn_close_menu" href="#"><span class="ico btn_menuc"></span>닫기</a>
+</div>
+</div>
+</div>
+<!--<span class="ico ico_new"></span>-->
+</div>
+<!--
+<span class="ico ico_new"></span>
+-->
+<script>
+$(function(){
+
+$('.btn_menu, .btn_close_menu').click(function(e){
+	e.preventDefault();
+	if($('.layer_menu').hasClass('on')){
+		$('.layer_menu').removeClass("on");
+	}else{
+		$('.layer_menu').addClass("on");
+	}
+
+});//전체메뉴 열고닫기
+
+$(document).on('mouseup',function(e){
+	if (!$(e.target).hasClass('layer_menu') && !$(e.target).parents().hasClass('layer_menu') && !$(e.target).hasClass('btn_menu')){
+		$('.layer_menu').removeClass("on");
+	}
+});//전체메뉴 레이어팝업 외부 클릭시 레이어팝업 닫기
+
+});
+</script>
+<h1 class="logo">
+<a href="https://www.hankyung.com/"><img alt="한국경제" src="/resource/images/w/hk_logo.png"/></a>
+</h1>
+<h2 class="view_category">
+<a class="sub_tag" href="https://www.hankyung.com/economy">경제</a>
+</h2>
+<div class="wrap_user">
+<a class="search" href="#"><span class="ico search"></span>검색</a>
+<div class="layer_search" style="display: none;">
+<form action="//search.hankyung.com/apps.frm/search.total" target="_blank">
+<input class="search_box" name="query" placeholder="검색어를 입력해주세요" type="text"/>
+<input class="btn_search" type="submit" value="검색"/>
+<input class="btn_close_search" type="button" value="검색창 닫기"/>
+</form>
+</div>
+</div>
+<script>
+$(function(){
+
+$('.wrap_user a.search, .btn_close_search').click(function(e){
+	e.preventDefault();
+	$('.layer_search').toggle();
+	if($('.layer_search').css('display') != 'none'){
+		$('.layer_search input[name=query]').focus();
+	}else{
+		$('.layer_search input[name=query]').val('');
+	}
+});
+$(document).on('mouseup',function(e){
+	if (!$(e.target).parents().hasClass('layer_search')){
+		$('.layer_search').hide();
+		$('.layer_search input[name=query]').val('');
+	}
+});//검색 레이어팝업 외부 클릭시 레이어팝업 닫기
+
+});
+</script>
+</div>
+</div>
+<div class="ad_top">
+<div id="div-gpt-ad-1494204547300-1" style="height:90px; width:970px;"></div>
+</div>
+<div id="container">
+<div class="article_top" itemprop="article_top">
+<h1 class="title" itemprop="title">[단독] 와이파이 때문에 집회 연 현대차노조</h1>
+<div class="date_info">
+<span class="date-published" itemprop="datepublished">입력<span class="num">2019.12.09 15:07</span></span>
+<span class="date-modify">수정<span class="num">2019.12.10 01:54</span></span>
+<span class="paper">지면<span class="num">A15</span></span>
+</div>
+</div>
+<div class="wrap_container">
+<div class="wrap_view">
+<div class="article_info">
+<div class="utility">
+<div class="box_clean_view">
+<a class="btn_clean_view" href="https://www.hankyung.com/economy/article/201912092053i">클린뷰</a>
+</div>
+<div class="articlecategory" itemprop="articlecategory">
+<a class="tit" href="https://www.hankyung.com/economy/0402">산업</a>
+</div>
+<div class="moveLeft">
+<div class="control">
+<button class="utility_btn btnprint print " data-aid="201912092053i" title="프린트" type="button"></button>
+<button class="utility_btn btnfontbig" itemprop="btnfontbig" title="글씨 크게" type="button"></button>
+<button class="utility_btn btnfontsmall" itemprop="btnfontsmall" title="글씨 작게" type="button"></button>
+<button class="utility_btn btncomment" itemprop="btncomment" title="댓글" type="button"></button>
+<button class="utility_btn btngood active" itemprop="btngood" title="공감" type="button"><span class="num"></span></button>
+<button class="utility_btn btnbad active" itemprop="btnbad" title="비공감" type="button"><span class="num"></span></button>
+<button class="utility_btn btnsnskakao" onclick="sendLinkKakao();" title="카카오톡 공유하기" type="button"></button>
+<button class="utility_btn btnsnsfacebook" onclick="openSNS('facebook','https://www.hankyung.com/economy/article/201912092053i','');" title="페이스북 공유하기" type="button"></button>
+<button class="utility_btn btnsnstwitter" onclick="openSNS('twitter','https://www.hankyung.com/economy/article/201912092053i','');" title="트위터 공유하기" type="button"></button>
+<button class="utility_btn btnsnsnaver " onclick="openSNS('navershare','https://www.hankyung.com/economy/article/201912092053i','');" title="네이버" type="button"></button>
+<button class="utility_btn btnsnsband " onclick="openSNS('naverband','https://www.hankyung.com/economy/article/201912092053i','');" title="밴드" type="button"></button>
+<button class="utility_btn btnsnsmail btn-email " data-aid="201912092053i" title="메일보내기" type="button"></button>
+<button class="utility_btn btncopyurl " data-clipboard-text="https://www.hankyung.com/economy/article/201912092053i" id="clipboardUrl" title="URL복사" type="button"></button>
+</div>
+<div class="articlebanner" itemprop="articlebanner">
+<div id="div-gpt-ad-1497834120315-1"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap_article">
+<div class="articlebody ga-view" id="newsView" itemprop="articleBody">
+<div class="summary editoropinions" itemprop="editoropinions">'근무시간 접속제한'에 반발<br/>
+"노조탄압" 주장하며 특근 거부</div>
+<div id="articletxt">
+								현대자동차 노동조합이 근무 시간 중 와이파이 접속을 제한하겠다는 회사 결정에 반발해 특근을 거부하기로 했다. 와이파이 접속 시간 조정이 ‘노조 탄압’이라며 항의 집회도 열었다. “근무 시간에 휴대전화로 동영상을 보거나 게임을 하게 해달라”는 노골적인 요구라는 지적이 나온다.<br/><br/>9일 업계에 따르면 현대차는 지난 6일 울산공장 내 와이파이 접속 시간을 제한하기로 결정하고 이를 노조 등에 통보했다. 기존에는 울산공장 내에서 와이파이를 24시간 쓸 수 있었지만, 이날부터는 쉬는 시간과 식사 시간 등에만 제한적으로 쓸 수 있도록 했다. 회사 측은 “근무 시간에 와이파이를 사용하면 작업자의 안전에 문제가 발생할 수 있고, 품질불량 발생 가능성도 높아져 접속 시간을 조정해야 한다”고 설명했다.<br/><br/>회사의 결정에 노조는 거세게 반발했다. 노조는 이날 울산공장 본관 앞에서 항의집회를 열었다. 한 노조 간부는 “와이파이 접속 제한은 사측의 도발”이라며 “사측이 일방적으로 조합원의 기득권을 빼앗는다면 강력하게 투쟁해야 한다”고 주장했다. 노조는 집회 직후 긴급 운영위원회 회의까지 열었다. 노조 집행부는 오는 14일 예정된 특근을 거부하고, 10일부터 네 차례 항의집회를 하기로 결정했다. 18일까지 회사가 와이파이 제한 결정을 철회하지 않으면 투쟁 강도를 높이겠다는 경고도 내놓았다.<br/><br/>자동차업계 관계자는 “근무 시간에 스마트폰으로 동영상을 보는 등의 행동을 당연하게 여기는 현대차 노조의 행태는 이해하기 힘들다”고 꼬집었다.<br/><br/>도병욱 기자 dodo@hankyung.com
+								</div>
+<div class="articletag" itemprop="articletag">
+<a href="/tag/현대자동차">#현대자동차</a>
+<a href="/tag/현대차-노조">#현대차 노조</a>
+</div>
+<div class="article_btm_box">
+<div class="hk-news-link">
+<a href="http://plus.hankyung.com/apps/service.payment" target="_blank">모바일한경 구독신청</a>
+<a href="http://hk.hankyung.com" target="_blank">지면 구독신청</a>
+</div>
+<p class="copy">ⓒ 한경닷컴, 무단전재 및 재배포 금지</p>
+</div>
+<div id="admaru_osv" style="position:relative;width:300px;height:250px;margin:0 auto;display:none;">
+<script src="//imasdk.googleapis.com/js/sdkloader/ima3.js" type="text/javascript"></script>
+<script type="text/javascript">var _c = new Date().getTime();document.write('<script src="//ads.admaru.com/js/hankyung_admaru_incontentvideo.js?t='+_c+'"><\/script>');</script>
+</div>
+<script src="https://marketingking.co.kr/pr/s_ad.js" type="text/javascript"></script>
+</div>
+<div class="editor_wrap">
+<div class="editor">
+<div class="name" itemprop="name">
+<a class="colm_ist" href="https://www.hankyung.com/reporter/dodo">
+<span class="ist_img">
+</span>
+<span class="txt">도병욱 기자</span>
+</a>
+<div class="wrap_editor_wrap">
+<button class="btn_info">정보보기</button>
+<div class="box_editor_info">
+<a class="colm_ist" href="https://www.hankyung.com/reporter/dodo">
+<span class="ist_img">
+</span>
+<span class="txt_box">
+<span class="txt">도병욱 기자</span>
+<span class="part">한국경제신문 산업부</span>
+</span>
+</a>
+<p class="editor_info">산업부에서 자동차 관련 산업을 맡고 있습니다. </p>
+</div>
+</div>
+</div>
+</div>
+<div class="box_related_list">
+<h2 class="list_tit">기자의 인기글</h2>
+<ul class="list_related gtmReporterPopular">
+<li><h3 class="rel_news_tit"><a href="https://www.hankyung.com/economy/article/2019091626231">기업 감원 칼바람…"연말이 더 두렵다"</a></h3></li>
+<li><h3 class="rel_news_tit"><a href="https://www.hankyung.com/economy/article/2019091884911">박용만 "기업 침몰하는데…경제, 버려진 자식 됐다"</a></h3></li>
+<li><h3 class="rel_news_tit"><a href="https://www.hankyung.com/economy/article/2019092494881">車도 구독하는 시대! 렌터카 절반 가격에 골라타는 재미까지</a></h3></li>
+</ul>
+</div>
+</div>
+<div class="isuue_plus_module hotissue-slide">
+<div class="tit_box">
+<h2 class="tit_module">
+<span class="tit_in">핫이슈</span>
+</h2>
+<div class="paging-pie">
+<span class="num"><strong>1</strong>/<span style="vertical-align: baseline;">2</span></span>
+<span class="arr-paging">
+<button class="ico prev" style="border-right: 1px solid rgb(229, 229, 229); display: block;" type="button">이전</button>
+<button class="ico next" style="display: block;" type="button">다음</button>
+</span>
+</div>
+</div>
+<div class="isuue_slide_wrap gtmhotissue">
+<ul class="thumb_card type_vertical">
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/entertainment/article/201912129583H"><img alt='허재, 예능 출연 잦더니 파격 결정…"이럴수가"' src="https://img.hankyung.com/photo/201912/01.21195563.3.jpg"/></a>
+</div>
+<div class="text_box">
+<h3 class="tit"><a href="https://www.hankyung.com/entertainment/article/201912129583H">허재, 예능 출연 잦더니 파격 결정…"이럴수가"</a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/entertainment/article/201912129329H"><img alt='방은희 "남편이 재혼생활 숨막히게…" 반전고백' src="https://www.hankyung.com/photo/pubdata/4b7daf7c6e18b0b7f34ba007651476c9.jpg"/></a>
+</div>
+<div class="text_box">
+<h3 class="tit"><a href="https://www.hankyung.com/entertainment/article/201912129329H">방은희 "남편이 재혼생활 숨막히게…" 반전고백</a></h3>
+</div>
+</div>
+</li>
+<li style="overflow:hidden;">
+<div id="div-gpt-ad-1538977711415-0"></div>
+</li>
+</ul>
+<ul class="thumb_card type_vertical">
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/life/article/201912129670H"><img alt="48억에 산 김준수 자택, 2년 만에 집값이…'대박'" src="https://www.hankyung.com/photo/pubdata/5be90e34a94b106565a211336ff9be48.jpg"/></a>
+</div>
+<div class="text_box">
+<h3 class="tit"><a href="https://www.hankyung.com/life/article/201912129670H">48억에 산 김준수 자택, 2년 만에 집값이…'대박'</a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/life/article/201912120039H"><img alt='"소개팅 부담스럽다"…호란, 방송 中 깜짝고백' src="https://www.hankyung.com/photo/pubdata/dda6bb0d6ffca5faa60228daa92b5d0c.jpg"/></a>
+</div>
+<div class="text_box">
+<h3 class="tit"><a href="https://www.hankyung.com/life/article/201912120039H">"소개팅 부담스럽다"…호란, 방송 中 깜짝고백</a></h3>
+</div>
+</div>
+</li>
+<li style="overflow:hidden;">
+<div id="div-gpt-ad-1545023923006-0"></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="isuue_plus_module">
+<strong class="tit_module"><span class="tit_in">조이인포<span class="txt_ad">AD</span></span></strong>
+<div class="list_ad">
+<iframe frameborder="0" height="84" scrolling="no" src="https://www.sunnyworks.co.kr/data/HK127656N.html" width="100%"></iframe>
+</div>
+</div>
+<div class="ad_module_wrap">
+<div class="" style="float:left;">
+<div id="div-gpt-ad-1532656521693-0" style="height:250px; width:300px;"></div>
+</div>
+<div class="" style="float:right;">
+<iframe allowtransparency="true" frameborder="0" height="250" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//ad.reople.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0BEx&amp;out=iframe" vspace="0" width="310"></iframe>
+</div>
+</div>
+<div class="reply_box" id="comment">
+<button class="btn_reply" type="button">이 기사에 대해 한마디 남기기<span class="ico arr_reply"></span></button>
+<div class="reply">
+<div data-id="hk_biz" data-uid="MTEvMTMvMTI=" id="lv-container">
+<script type="text/javascript">
+											window.livereOptions = {
+												refer:"news.hankyung.com/article/201912092053i"
+											};
+											var activeLivere = false;
+											$('.btn_reply').click(function(){
+												$(this).toggleClass('on');
+												$(this).siblings('.reply').toggle();
+												if(activeLivere){
+													return false;
+												}
+												
+												activeLivere = true;
+												var j, e = document.getElementsByTagName('script')[0];
+												if (typeof LivereTower === 'function') { return; }
+												j = document.createElement('script');
+												j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+												j.async = true;
+												e.parentNode.insertBefore(j, e);
+											});
+
+										</script>
+</div>
+</div>
+</div>
+<div class="isuue_plus_module">
+<h2 class="tit_module"><a class="tit_in" href="https://www.hankyung.com/issue/">이슈+</a></h2>
+<ul class="thumb_card type_right_thumb gtmisuueplus">
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/society/article/2019121292407"><img alt="준비 덜 됐다vs예외 조건 많다…주 52시간제 놓고 정부-노동계 충돌" src="//img.hankyung.com/photo/201912/ZA.21188112.3.jpg"/></a>
+</div>
+<div class="text_box">
+<a class="origin" href="https://www.hankyung.com/issue/20191212095350I">주52시간 보완 대책</a>
+<h3 class="tit"><a href="https://www.hankyung.com/society/article/2019121292407">준비 덜 됐다vs예외 조건 많다…주 52시간제 놓고 정부-노동계 충돌</a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/politics/article/2019121299437"><img alt="짬짬이 예산 비판한 기사 공유하며 예산 확보 자랑한 박지원" src="//img.hankyung.com/photo/201912/ZA.20946603.3.jpg"/></a>
+</div>
+<div class="text_box">
+<a class="origin" href="https://www.hankyung.com/issue/20191212095559I">'강행처리 예산안' 논란</a>
+<h3 class="tit"><a href="https://www.hankyung.com/politics/article/2019121299437">짬짬이 예산 비판한 기사 공유하며 예산 확보 자랑한 박지원</a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/economy/article/201912120387Y"><img alt="김우중 사람들, '세계 경영' 유지 계승해 활동 계속한다" src="//img.hankyung.com/photo/201912/ZK.21197390.3.jpg"/></a>
+</div>
+<div class="text_box">
+<a class="origin" href="https://www.hankyung.com/issue/20191211101925I">김우중 前회장 타계…비운의 개척자</a>
+<h3 class="tit"><a href="https://www.hankyung.com/economy/article/201912120387Y">김우중 사람들, '세계 경영' 유지 계승해 활동 계속한다</a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="issue_in">
+<div class="thumb">
+<a href="https://www.hankyung.com/politics/article/2019121055001"><img alt="방치된 740兆…지자체 재산관리 '구멍'" src="//img.hankyung.com/photo/201912/01.21185982.3.jpg"/></a>
+</div>
+<div class="text_box">
+<a class="origin" href="https://www.hankyung.com/issue/20191211102200I">뻥 뚫린 지자체 재산관리</a>
+<h3 class="tit"><a href="https://www.hankyung.com/politics/article/2019121055001">방치된 740兆…지자체 재산관리 '구멍'</a></h3>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="ad_module_wrap">
+<div class="ad_img ad_aside03">
+<div id="div-gpt-ad-1494204547300-24"></div>
+</div>
+<div class="module_wrap poll">
+<div class="tit_box02">
+<strong class="tit"><a href="https://www.hankyung.com/poll">POLL</a></strong>
+<span class="sub">진행중 : 2019.12.12~2019.12.25</span>
+</div>
+<article class="articlepoll">
+<div class="articlepoll-title">
+<h3><a href="https://www.hankyung.com/poll/12664">중소기업 주 52시간, 어떻게 보십니까?</a></h3>
+</div>
+<div class="poll-qu">
+<p>정부가 내년 1월부터 주 52시간제가 적용되는 중소기업에 1년의 계도기간을 부여하자 찬반이 엇갈립니다. 핵심은 근로자 50∼299인 사이인 중소기업의 주 52시간제 시행을 미루자는 겁니다. 사업에 중대한 지장이나 손해가 있을 때 무제한 연장노동도 허용합니다. 이에 중소기업 사정을 고려한 옳은 결정이란 찬성, 연장근로 악용이 우려된다는 반대 의견이 맞섭니다. 중소기업 주 52시간 1년 유예, 어떻게 보십니까?</p>
+<div class="vote-poll">
+<a class="vote-btn poll-active" href="https://www.hankyung.com/poll/12664">투표하기</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="ad_module_wrap">
+<link href="//static.hankyung.com/ext/powerlink/powerlink.w.css" rel="stylesheet"/>
+<script src="https://ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js" type="text/javascript"></script>
+<div class="powerlink pc" id="powerLink"></div>
+<script src="//static.hankyung.com/ext/powerlink/powerlink.w.js" type="text/javascript"></script>
+<script>
+									NAVER_ADPOST_V2({
+										channel: "hankyung.ch2",
+										pageSize: 2 ,
+										keywordGroup: "한경닷컴_공통",
+										url: ""
+									});
+								</script>
+</div>
+</div>
+<div class="wrap_aside">
+<div class="inner_aside">
+<div class="asidemodule major" itemprop="asidemodule">
+<div class="tit_box">
+<h2 class="box_in">
+<strong class="tit_list">실시간 인기기사</strong>
+</h2>
+</div>
+<ol class="list_major gtmRealTimePopular">
+<li class="before">
+<em>1</em>
+<h3 class="aside_news_tit"><a data-aid="201912129221i" data-index="1" href="https://www.hankyung.com/politics/article/201912129221i">[박동휘의 베트남은 지금] 박항서와 삼성, 그리고 신남방정책</a></h3>
+</li>
+<li class="before">
+<em>2</em>
+<h3 class="aside_news_tit"><a data-aid="2019121181931" data-index="2" href="https://www.hankyung.com/economy/article/2019121181931">고효율 가전 20만원 환급 '이번주가 막차'</a></h3>
+</li>
+<li class="before">
+<em>3</em>
+<h3 class="aside_news_tit"><a data-aid="201912120031H" data-index="3" href="https://www.hankyung.com/society/article/201912120031H">"김건모, 팔다리 길쭉한 여자만 초이스…결혼하신 분과 닮아" 가세연, 목격담 공개[종합] </a></h3>
+</li>
+<li class="before">
+<em>4</em>
+<h3 class="aside_news_tit"><a data-aid="201912129583H" data-index="4" href="https://www.hankyung.com/entertainment/article/201912129583H">허재, 디모스트엔터와 전속계약 체결…예능인으로 제2전성기 노린다 [공식]</a></h3>
+</li>
+<li class="before">
+<em>5</em>
+<h3 class="aside_news_tit"><a data-aid="2019121182131" data-index="5" href="https://www.hankyung.com/realestate/article/2019121182131">무주택자 '로또 청약' 기다리고…집주인 稅부담 떠넘기고…전셋값 급등 확산</a></h3>
+</li>
+</ol>
+<div class="ad_list">
+<iframe allowtransparency="true" frameborder="0" height="58" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=02MG&amp;out=iframe" vspace="0" width="300"></iframe>
+</div>
+</div>
+<div class="ad_img ad_aside01">
+<div id="div-gpt-ad-1494204547300-5"></div>
+</div>
+<div class="asidemodule info_time">
+<div class="tit_box">
+<h2 class="box_in">
+<strong class="tit">이 시각 관심정보</strong>
+<a class="link_subscription" href="https://adtive.com/customer/inquire_write.html" target="_blank">AD</a>
+</h2>
+</div>
+<div class="ad_list">
+<iframe allowtransparency="true" frameborder="0" height="230" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//io1.innorame.com/imp/8bpDobPqyxdD.iframe" vspace="0" width="300"></iframe>
+</div>
+</div>
+<div class="asidemodule hot_today">
+<div class="tit_box">
+<h2 class="box_in">
+<strong class="tit">오늘의 핫 클릭</strong>
+<a class="link_subscription" href="https://www.imad.co.kr/contactus/adconsult.html" target="_blank">AD</a>
+</h2>
+</div>
+<div class="ad_list">
+<iframe frameborder="0" height="224" marginheight="0" marginwidth="0" scrolling="no" src="https://adv.imadrep.co.kr/874_05.html" title="광고" width="100%"></iframe>
+</div>
+</div>
+<div class="asidemodule aside_more_view side_standNews_module">
+<div class="tit_box">
+<h2 class="box_in">
+<strong class="tit_list">가장 많이 본 기사</strong>
+</h2>
+</div>
+<ul class="list_issue">
+<li>
+<span class="thumb">
+<a href="https://www.hankyung.com/politics/article/201912129221i"><img alt="박항서, 베트남 선수들에 '○○○ 금지령' 파격" src="https://img.hankyung.com/photo/201912/02.18428171.3.jpg"/></a>
+</span>
+<h3 class="read"><a href="https://www.hankyung.com/politics/article/201912129221i">박항서, 베트남 선수들에 '○○○ 금지령' 파격</a></h3>
+</li>
+<li>
+<h3 class="read"><a href="https://www.hankyung.com/economy/article/2019121181931">"20만원 환급해 드려요"…이번주가 마지막 기회</a></h3>
+</li>
+<li>
+<h3 class="read"><a href="https://www.hankyung.com/international/article/201912117503i">평균 연봉 1억7400만원…요즘 뜨는 직업이</a></h3>
+</li>
+<li>
+<span class="thumb">
+<a href="https://www.hankyung.com/economy/article/201912117918i"><img alt='"해외서, 한국 드라마 인기 끌자…" 대박난 韓 상품' src="https://www.hankyung.com/photo/pubdata/908092803d290f49554a41af79af7071.jpg"/></a>
+</span>
+<h3 class="read"><a href="https://www.hankyung.com/economy/article/201912117918i">"해외서, 한국 드라마 인기 끌자…" 대박난 韓 상품</a></h3>
+</li>
+<li>
+<h3 class="read"><a href="https://www.hankyung.com/it/article/2019121183271">"文정부, 변한 게 없다"­…한국, 골든타임 놓친다</a></h3>
+</li>
+<li>
+<h3 class="read"><a href="https://www.hankyung.com/life/article/2019121182471">"연 수익율 10%"…30대 직장인들에 '인기폭발'</a></h3>
+</li>
+<li>
+<h3 class="read"><a href="https://www.hankyung.com/society/article/2019121182071">"AI 면접서 불가능하다는 게…" 몰랐던 사실</a></h3>
+</li>
+</ul>
+</div>
+<div class="ad_img ad_aside_bottom">
+<div id="div-gpt-ad-1494204547300-8"></div>
+</div>
+<div class="asidemodule info_today">
+<div class="tit_box">
+<h2 class="box_in">
+<strong class="tit">오늘의 관심정보</strong>
+<a class="link_subscription" href="https://jadplus.com/" target="_blank">AD</a>
+</h2>
+</div>
+<div class="ad_list">
+<iframe allowtransparency="true" frameborder="0" height="226" hspace="0" id="adinc_08Vb" marginheight="0" marginwidth="0" scrolling="no" src="//ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08Vb&amp;out=iframe" vspace="0" width="100%"></iframe>
+</div>
+</div>
+<div class="asidemodule aside_reco_news">
+<div data-widget_id="37J1mGoN" id="dablewidget_37J1mGoN">
+<script>
+									(function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+									dable('renderWidget', 'dablewidget_37J1mGoN');
+									</script>
+</div>
+</div>
+<div class="ad_img">
+<div id="div-gpt-ad-1494204547300-10" style="height:600px; width:300px;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap_grid">
+<div class="inner_grid">
+<div class="bigfooter" itemprop="bigfooter">
+<div class="foot_module_top">
+<div class="module_wrap">
+<strong class="tit"><a class="tit_in" href="https://www.hankyung.com/thepen">The pen</a></strong>
+<ul class="thumb_list">
+<li>
+<div class="thumbtype">
+<div class="tit">
+<strong><a href="https://www.hankyung.com/thepen/article/102972">신입사원 강의</a></strong>
+</div>
+<div class="thumb">
+<a href="https://www.hankyung.com/thepen/article/102972">
+<img alt="" class="lazy" data-original="https://imgsnacker.hankyung.com/hk-content/2019/12/Screenshot_2-2-400x250.png" src=""/>
+</a>
+</div>
+</div>
+<p class="read">신입사원 강의 홍석환 대표(홍석환의 HR전략 컨설팅, no1gsc@naver.com) 2시간 신입사원 교육 특강을 받았다면? 팀장과 임원의 역할과 조직관리를 중심...</p>
+</li>
+<li>
+<div class="thumbtype">
+<div class="tit">
+<strong><a href="https://www.hankyung.com/thepen/article/102763">빈센트의 별밤(Stary Night)을 가슴에 품어보라!</a></strong>
+</div>
+<div class="thumb">
+<a href="https://www.hankyung.com/thepen/article/102763">
+<img alt="" class="lazy" data-original="https://imgsnacker.hankyung.com/hk-content/2019/11/러빙-포스트-대표-216x250.jpg" src=""/>
+</a>
+</div>
+</div>
+<p class="read"> &lt;프롤로그&gt; [빈센트 반 고흐(Vincent Van Gogh:네덜란드의 후기 인상주의 화가. 37년의 짧은 생애였지만 가장 유명한 불꽃의 화가로 남아있다. 초기...</p>
+</li>
+<li>
+<div class="thumbtype">
+<div class="tit">
+<strong><a href="https://www.hankyung.com/thepen/article/103108">착 붙는 중국어 회화: 약속이나 한 듯 같은 행동을 하다</a></strong>
+</div>
+<div class="thumb">
+<a href="https://www.hankyung.com/thepen/article/103108">
+<img alt="" class="lazy" data-original="https://imgsnacker.hankyung.com/hk-content/2019/12/북경겨울-400x250.jpg" src=""/>
+</a>
+</div>
+</div>
+<p class="read"> 不约而同 Bùyuē'értóng 약속이나 한 듯 같은 행동을 하다   A: 一夜之间突然降温。 A: Yí yè zhījiān tūrán jiàngwēn....</p>
+</li>
+</ul>
+</div>
+<div class="module_wrap hei">
+<h2 class="tit"><a class="tit_in" href="https://www.hankyung.com/entertainment">연예</a></h2>
+<ul class="thumb_card">
+<li>
+<div class="thumb">
+<a href="https://www.hankyung.com/entertainment/article/201912120154H">
+<img alt="" class="lazy" data-original="https://www.hankyung.com/photo/pubdata/0a7ca551cdfa9fcef5aea4127ec3ffb4.jpg" src=""/>
+</a>
+</div>
+<div class="tit">
+<a href="https://www.hankyung.com/entertainment/article/201912120154H">곽도원 '미투' 후 첫 등판<br/>"오랜만입니다"</a>
+</div>
+</li>
+<li>
+<div class="thumb">
+<a href="https://www.hankyung.com/life/article/201912117723H">
+<img alt="" class="lazy" data-original="https://img.hankyung.com/photo/201912/ZA.21138184.3.jpg" src=""/>
+</a>
+</div>
+<div class="tit">
+<a href="https://www.hankyung.com/life/article/201912117723H">전 세계 아미는 '왜' <br/>방탄소년단에 빠졌나</a>
+</div>
+</li>
+<li>
+<div class="thumb">
+<a href="https://www.hankyung.com/entertainment/article/201912129329H">
+<img alt="" class="lazy" data-original="https://www.hankyung.com/photo/pubdata/a945f3d6243ad57a747101d8747d4c80.jpg" src=""/>
+</a>
+</div>
+<div class="tit">
+<a href="https://www.hankyung.com/entertainment/article/201912129329H">방은희, 두 번 이혼한 이유<br/>"정말 살고 싶어서 "</a>
+</div>
+</li>
+</ul>
+<div class="ad_300">
+<div id="div-gpt-ad-1494204547300-23"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ad_img ad_bottom">
+<div id="div-gpt-ad-1494204547300-25"></div>
+</div>
+</div>
+<!-- footer -->
+<div class="footer_sitemap">
+<ul>
+<li><h2><a href="https://www.hankyung.com">홈페이지</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/opinion">오피니언</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/economy">경제</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/politics">정치</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/society">사회</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/finance">증권</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/realestate">부동산</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/international">국제</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/it">IT·과학</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/life">생활·문화</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/sports">골프·스포츠</a></h2></li>
+<li><h2><a href="https://www.hankyung.com/entertainment">연예</a></h2></li>
+</ul>
+</div>
+<div class="footer" id="footer">
+<div class="grd-row">
+<div class="ftr_nav">
+<dl class="hk">
+<dt>한국경제신문</dt>
+<dd>
+<a href="http://company.hankyung.com/etc/ked/" target="_blank">회사소개</a>
+<a href="http://hk.hankyung.com/" target="_blank">구독신청</a>
+<a href="https://member.hankyung.com/html/ombudsman.html" target="_blank">고충처리</a>
+<a href="http://company.hankyung.com/etc/ked/standard/ad.html" target="_blank">광고안내</a>
+<span>대표번호 : 02-3604-114</span>
+</dd>
+</dl>
+</div>
+<div class="ftr_nav">
+<dl class="dotcom">
+<dt>한경닷컴</dt>
+<dd>
+<a href="http://company.hankyung.com/introduce/" target="_blank">회사소개</a>
+<span>
+<!-- <a href="http://company.hankyung.com/etc/hkdc/ad/" target="_blank">광고</a> / -->
+<a href="http://company.hankyung.com/introduce/partnership/business/" target="_blank">제휴</a> /
+                    <a href="http://company.hankyung.com/introduce/partnership/contents/" target="_blank">콘텐츠구입</a>
+</span>
+<a href="https://id.hankyung.com/user/selectAuthAgree.do" target="_blank">이용약관</a>
+<a class="b" href="https://id.hankyung.com/user/selectPrivacy.do" target="_blank">개인정보처리방침</a>
+<a href="https://id.hankyung.com/user/selectYouthProtection.do" target="_blank">청소년보호정책(책임자 : 이상훈)</a>
+<a href="https://www.hankyung.com/sitemap.html" target="_blank">사이트맵</a>
+<a href="https://member.hankyung.com/html/webmaster.html" target="_blank">문의</a>
+<span>대표번호 : 02-3277-9900</span>
+</dd>
+</dl>
+</div>
+<div class="ftr_info">
+<span class="fst">서울시 중구 청파로 463 한국경제신문사</span>
+<span>사업자번호 : 104-81-47984</span>
+<span>인터넷신문등록번호 : 서울 아01035</span>
+<span>등록(발행)일자 : 2009.11.23</span>
+<span>발행·편집인 : 하영춘</span>
+<span class="b">ⓒ 한경닷컴</span>
+</div>
+<div class="ftr_nav">
+<dl class="hk">
+<dt>한국경제Family</dt>
+<dd>
+<a href="http://www.wowtv.co.kr/" target="_blank">한국경제TV</a>
+<a href="http://magazine.hankyung.com/" target="_blank">한국경제매거진</a>
+<a href="http://bp.hankyung.com/" target="_blank">Book</a>
+<a href="http://ac.hankyung.com/" target="_blank">한경아카데미</a>
+<a href="http://tenasia.hankyung.com/" target="_blank">텐아시아</a>
+</dd>
+</dl>
+</div>
+<div class="marketing_link">
+<a href="http://company.hankyung.com/etc/hkdc/ad/" target="_blank">
+			광고안내<span>Advertisement</span>
+</a>
+</div>
+</div>
+</div> <!-- //footer -->
+<!-- AD -->
+<div class="fltAd">
+<div class="left">
+<div>
+<div id="div-gpt-ad-1494204547300-2" style="height:600px; width:160px;"></div>
+</div>
+<div>
+<div id="div-gpt-ad-1494204547300-3" style="height:600px; width:160px;"></div>
+</div>
+</div>
+<div class="right" style="top:750px;right:-760px;">
+<div id="stickyAd_">
+<div id="div-gpt-ad-1494204547300-4" style="height:600px; width:160px;"></div>
+</div>
+</div>
+</div>
+<!-- //AD -->
+<!-- 상단 바로가기 버튼 -->
+<div class="btn_top_wrap">
+<div class="btn_position"><a class="ico btn_top" href="#">상단 바로가기</a></div>
+</div>
+</div>
+</div>
+<script src="/resource/js/w/view.gtmet.js?v=20191212" type="text/javascript"></script>
+<script src="/resource/js/w/view.latest.js?v=20191212" type="text/javascript"></script>
+<script>
+$(function(){
+////////////////////
+
+var relationNews = [{"url":"https:\/\/www.hankyung.com\/article\/201912091544o","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/BD.21168595.3.jpg","aid":"201912091544o","title":"\uc6b8\uc0b0\uc2dc, \uad50\ud1b5\uc548\uc804 \uccb4\ud5d8\uc2dc\uc124 '\ud0a4\uc988\uc624\ud1a0\ud30c\ud06c \uc6b8\uc0b0' \uc778\uae30","num":1},{"url":"https:\/\/www.hankyung.com\/article\/2019120800101","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/02.12609254.3.jpg","aid":"2019120800101","title":"\uadfc\ubb34\uc2dc\uac04 \uc640\uc774\ud30c\uc774 \ub048\ub2e4\uace0 \ud588\ub354\ub2c8\u2026\ud604\ub300\ucc28 \ub178\uc870 '\ubc1c\ub048'","num":2},{"url":"https:\/\/www.hankyung.com\/article\/2019120556961","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/AA.21145359.3.jpg","aid":"2019120556961","title":"\uc774\uc0c1\uc218 \ud604\ub300\ucc28 \uc0c8 \ub178\uc870\uc704\uc6d0\uc7a5\uc758 \ubc18\uc131\ubb38 \"\ub178\uc870\uc758 \ubb34\ubd84\ubcc4\ud55c \ud30c\uc5c5 \ub54c\ubb38\uc5d0 \uad6d\ubbfc\uc774 \ud604\ub300\u8eca \uc548\uc0ac\uac8c \ud574\uc120 \uc548\ub3fc\"","num":3}];
+var moreRelationNews = [{"url":"https:\/\/www.hankyung.com\/article\/2019120536486","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/01.21140598.3.jpg","aid":"2019120536486","title":"\"\ud604\ub300\ucc28, \uc2a4\ub9c8\ud2b8 \ubaa8\ube4c\ub9ac\ud2f0 \uc11c\ube44\uc2a4 \uccad\uc0ac\uc9c4 \uc81c\uc2dc\"-\uc774\ubca0\uc2a4\ud2b8","num":4},{"url":"https:\/\/www.hankyung.com\/article\/2019120428441","aid":"2019120428441","title":"\"\ud604\ub300\ucc28 \uadc0\uc871\ub178\uc870 \uc624\uba85 \ud0c8\ud53c\"\u2026\ub178\uc870\uc9c0\ubd80\uc7a5 6\ub144 \ub9cc\uc5d0 '\uc911\ub3c4\ud30c'","num":5},{"url":"https:\/\/www.hankyung.com\/article\/2019120429351","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/AA.21136235.3.jpg","aid":"2019120429351","title":"\ud604\ub300\ucc28 \"\u97d3\u00b7\uc778\ub3c4, \ud5c8\ube0c \uc0dd\uc0b0\uae30\uc9c0 \uc721\uc131\u2026\uc911\ub3d9\u00b7\uc544\ud504\ub9ac\uce74 \ub4f1 \u65b0\uc2dc\uc7a5 \uac1c\ucc99\"","num":6},{"url":"https:\/\/www.hankyung.com\/article\/2019120429321","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/AA.21136233.3.jpg","aid":"2019120429321","title":"\"\ub0b4\ub144 2\uc6d4\uae4c\uc9c0 \uc790\uc0ac\u682a 3\ucc9c\uc5b5 \ub9e4\uc785\u2026\uc8fc\uc8fc\uac00\uce58 \uc81c\uace0\ubc29\uc548 \ub610 \ub0b4\ub193\uaca0\ub2e4\"","num":7},{"url":"https:\/\/www.hankyung.com\/article\/2019120429331","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/AA.21136958.3.jpg","aid":"2019120429331","title":"\uc804\uae30\ucc28\u00b7AI\u00b7\ub85c\ubd07\uc5d0 20\u5146 \ud22c\uc790\u2026\ud604\ub300\ucc28 \"\ubaa8\ube4c\ub9ac\ud2f0 \ud68c\uc0ac\ub85c \ubcc0\uc2e0\"","num":8},{"url":"https:\/\/www.hankyung.com\/article\/201912042213g","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/01.21134950.3.jpg","aid":"201912042213g","title":"[\uc885\ud569] \uc815\uc758\uc120, \uac1c\uc778\uc6a9 \ube44\ud589\uae30 \ub9cc\ub4e0\ub2e4\u2026\ubca0\uc77c\ubc97\uc740 '\ud604\ub300\ucc28 \ubaa8\ube4c\ub9ac\ud2f0'","num":9},{"url":"https:\/\/www.hankyung.com\/article\/201912041565g","thumbimg":"\/\/img.hankyung.com\/photo\/201912\/01.21133184.3.jpg","aid":"201912041565g","title":"[\uc18d\ubcf4] \ud604\ub300\ucc28, 2025\ub144\uae4c\uc9c0 \ubbf8\ub798\uae30\uc220 20\uc870 \ub4f1 \ucd1d 61\uc870 \ud22c\uc790","num":10}];
+
+var articleRelationNewsHtml = '\
+<div class="box_related_list gtmRelateNews">\
+	<h2 class="list_tit list_toggle">관련기사</h2>\
+	<ul class="list_related show"></ul>\
+	<ul class="list_related more" style="display:none;margin-top:0;"></ul>\
+	<div class="rel_ad">\
+		<div id="div-gpt-ad-1543477546262-0" style="width:590px;"></div>\
+	</div>\
+</div>\
+';
+
+
+
+var constents = $('#articletxt').contents();
+var constentsLength = constents.length;
+var paragraph = 0;
+for(i = 0; i < constentsLength; i++){
+	if((constents[i].localName == 'br' && constents[i].previousSibling.localName == 'br' && constents[i].nextSibling.localName != 'br') || (constents[i].nodeName == 'BR' && constents[i].previousSibling.nodeName == 'BR' && constents[i].nextSibling.nodeName != 'BR')){
+		$(constents[i]).addClass('paragraph').attr('data-index',paragraph);
+		paragraph++;
+	}
+}
+
+if(paragraph < 3){
+	if($('#articletxt > p').length == 1 && $('#articletxt > p > br').length > 4){
+		$('#articletxt .paragraph').removeAttr('data-index').removeClass('paragraph');
+		
+		constents = $('#articletxt > p').contents();
+		constentsLength = constents.length;
+		paragraph = 0;
+		for(i = 0; i < constentsLength; i++){
+			if((constents[i].localName == 'br' && constents[i].previousSibling.localName == 'br' && constents[i].nextSibling.localName != 'br') || (constents[i].nodeName == 'BR' && constents[i].previousSibling.nodeName == 'BR' && constents[i].nextSibling.nodeName != 'BR')){
+				$(constents[i]).addClass('paragraph').attr('data-index',paragraph);
+				paragraph++;
+			}
+		}
+	}else if($('#articletxt > div').length == 1 && $('#articletxt > div > br').length > 4){
+		$('#articletxt .paragraph').removeAttr('data-index').removeClass('paragraph');
+		
+		constents = $('#articletxt > div').contents();
+		constentsLength = constents.length;
+		paragraph = 0;
+		for(i = 0; i < constentsLength; i++){
+			if((constents[i].localName == 'br' && constents[i].previousSibling.localName == 'br' && constents[i].nextSibling.localName != 'br') || (constents[i].nodeName == 'BR' && constents[i].previousSibling.nodeName == 'BR' && constents[i].nextSibling.nodeName != 'BR')){
+				$(constents[i]).addClass('paragraph').attr('data-index',paragraph);
+				paragraph++;
+			}
+		}
+	}
+}
+
+if(paragraph > 2){
+	$('br.paragraph[data-index=2]').hide().prev('br').hide();
+	$('br.paragraph[data-index=2]').before(articleRelationNewsHtml);
+}else if(paragraph == 0){
+	$('#articletxt').append(articleRelationNewsHtml);
+}else{
+	$('br.paragraph[data-index='+(paragraph - 1)+']').hide().prev('br').hide();
+	$('br.paragraph[data-index='+(paragraph - 1)+']').before(articleRelationNewsHtml);
+}
+
+
+$.each(relationNews, function(index, value){
+	$('.box_related_list ul.list_related.show').append('<li class="article_relate"><h3 class="rel_news_tit"><a href="'+value.url+'" data-index="'+value.num+'">'+value.title+'</a></h3></li>');
+});
+$.each(moreRelationNews, function(index, value){
+	$('.box_related_list ul.list_related.more').append('<li class="article_relate"><h3 class="rel_news_tit"><a href="'+value.url+'" data-index="'+value.num+'">'+value.title+'</a></h3></li>');
+});
+
+
+if(paragraph >= 6){
+	$('br.paragraph[data-index=2]').before('<div id="teads_slot" style="text-align:center;"></div>');
+}
+
+if(paragraph >= 3){
+	//$('br.paragraph[data-index='+(paragraph - 2)+']').hide().next('br').hide();
+	$('br.paragraph[data-index='+(paragraph - 2)+']').after("<div class='ad_box' style='margin:-15px auto 20px;text-align:center;'><div id='div-gpt-ad-1494204547300-12'></div></div>");
+}
+
+if(paragraph >= 9){
+	//$('br.paragraph[data-index='+(paragraph - 5)+']').hide().next('br').hide();
+	$('br.paragraph[data-index=5]').after("<div class='ad_box' style='margin:-15px auto 20px;text-align:center;'><div id='div-gpt-ad-1536888768560-0'></div></div>");
+}
+
+googletag.cmd.push(function() {
+	googletag.display('div-gpt-ad-1494204547300-1'); 
+	googletag.display('div-gpt-ad-1494204547300-5'); 
+});
+
+////////////////////
+});
+
+$(function(){
+	googletag.cmd.push(function() {
+		googletag.display('div-gpt-ad-1543477546262-0');
+		googletag.display('div-gpt-ad-1494204547300-8'); 
+		googletag.display('div-gpt-ad-1494204547300-10'); 
+		googletag.display('div-gpt-ad-1494204547300-23'); 
+		googletag.display('div-gpt-ad-1494204547300-24'); 
+		googletag.display('div-gpt-ad-1494204547300-25');
+		googletag.display('div-gpt-ad-1497834120315-1'); 
+		googletag.display('div-gpt-ad-1532656521693-0');
+		googletag.display('div-gpt-ad-1494204547300-12');
+		googletag.display('div-gpt-ad-1536888768560-0');
+		googletag.display('div-gpt-ad-1538977711415-0');
+		googletag.display('div-gpt-ad-1545023923006-0');
+
+		googletag.display('div-gpt-ad-1494204547300-2'); //좌측날개 상
+		googletag.display('div-gpt-ad-1494204547300-3'); //좌측날개 하
+		googletag.display('div-gpt-ad-1494204547300-4'); //우측날개 일반
+		googletag.display('div-gpt-ad-1549938286436-0'); //우측날개 부동산
+	});
+});
+
+</script>
+<script>
+(function(){var d=!1,e="//www.mediacategory.com/servlet/iadbn?from="+escape(document.referrer)+"&s=8595&psb=99",c=function(){d=!0;var a=document.createElement("iframe");a.src=e;a.width="0";a.height="0";a.frameBorder=0;a.marginWidth=0;a.marginHeight=0;a.scrolling="no";a.async?a.async=!0:a.defer&&(a.defer=!0);if(document.body)document.body.appendChild(a);else{var b=document.getElementsByTagName("html")[0],c=document.createElement("body");b.appendChild(c);c.appendChild(a)}};try{var f=setTimeout(c,1E3),
+g=document.getElementsByTagName("head").item(0),b=document.createElement("script");b.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";b.type="text/javascript";b.async?b.async=!0:b.defer=!0;b.onload=function(){!0!==d&&(clearTimeout(f),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("ico"),enlipleMBSHandler.getWebCode(),8595).appendICover(e))};g.appendChild(b)}catch(a){c()}})();
+</script>
+<div class="iwm_ba" data-ad="{'id':'3F82356F'}" style="display:inline-block;width:0;height:0;"></div>
+<script async="" src="//cdn.interworksmedia.co.kr/js/tm/ba/latest/ba.js" type="text/javascript"></script>
+<script async="true" src="//a.teads.tv/page/27520/tag"></script>
+<iframe frameborder="0" height="0" src="https://www.hankyung.com/pageviews/201912092053i?nv=" width="0"></iframe>
+</body>

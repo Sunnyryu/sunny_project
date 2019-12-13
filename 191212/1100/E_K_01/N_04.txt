@@ -1,0 +1,815 @@
+우유철 현대로템 부회장 용퇴…"후배 경영진 중심 혁신 위해"
+<body>
+<header>
+<container class="ad-head">
+<ad alt="a1001" class="ad-head h90px inews">
+<iframe frameborder="no" framespacing="0" height="90" leftmargin="0" marginheight="0" marginwidth="0" name="inews24_p_at_t_a01_728x90" scrolling="no" src="//kitweb.tadapi.info/network/adapi.php?a=inews24_p_at_t_a01_728x90&amp;refercheck=101" topmargin="0" width="728"></iframe> </ad>
+</container>
+<nav class="head-default-2019">
+<a class="icon svg-joynews24 " href="http://www.joynews24.com/" style="margin:0px;" target="joynews24.com"></a>
+<a class="icon svg-inews24tv " href="/tv/"></a>
+<span class="nav float-right">
+<a alt="로그인" class="icon svg-login" href="/customer/member/login/" target="_customer"></a>
+<a alt="뉴스레터" class="icon svg-subscription" href="/customer/newsletter" target="_customer"></a>
+<a alt="고객센터" class="icon svg-customer-center" href="/customer/" target="_customer"></a>
+<a alt="facebook" class="icon svg-facebook" href="https://www.facebook.com/inews24" target="_blank"></a>
+<a alt="조이뉴스24 youtube" class="icon svg-youtube" href="https://www.youtube.com/channel/UCS20cKwE_uhnkeiuUHNsclQ" target="_blank"></a>
+<a alt="검색" class="icon svg-search" href="/search/" target="_search"></a>
+</span>
+</nav>
+<!--Google analytics-->
+<ad alt="a1057" class="">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146082941-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146082941-1');
+</script></ad>
+<!--Naver analytics-->
+<ad alt="a2301" class="">
+<script src="//wcs.naver.net/wcslog.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "12aae58b98dff2";
+wcs_do();
+</script>
+</ad>
+<hr/>
+<script> var anaLog='eyJ2ZXJzaW9uIjoxMywic2VydmVyIjp7IkhUVFBfSE9TVCI6Ind3dy5pbmV3czI0LmNvbSIsIkhUVFBfVVNFUl9BR0VOVCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzc3LjAuMzg2NS45MCBTYWZhcmlcLzUzNy4zNiIsIkhUVFBfUkVGRVJFUiI6bnVsbCwiUkVNT1RFX0FERFIiOiIyMjIuMTA3LjIzOC4xMjUiLCJSRU1PVEVfUE9SVCI6IjU2NjE0IiwiUkVRVUVTVF9NRVRIT0QiOiJHRVQiLCJSRVFVRVNUX1VSSSI6Ilwvdmlld1wvMTIyODAyNCIsIlJFUVVFU1RfVElNRSI6MTU3NjExOTYwMywiSFRUUF9DT09LSUUiOnsiT0NTU0lEIjoiZjU4MTVjNmQ0M2ZmMzY0NWIwM2I4ZmNmMGNjYTM1NWQifSwiUEhQX1NFTEYiOiJcL3ZpZXdcL2luZGV4LnBocCIsIlFVRVJZX1NUUklORyI6Imdfc2VyaWFsPTEyMjgwMjQifSwiZ2V0Ijp7Imdfc2VyaWFsIjoiMTIyODAyNCJ9LCJwb3N0IjpbXSwiUFBTU0lEIjoiYWNjZTlmM2ZkODg2MjdmNjY5YTFlOTIxYTFjMDJlNDcifQ==';</script>
+<script src="http://static.1.inews24.com/js/ana-04.js" type="text/javascript"></script><style>
+
+    nav.inews-www-hover{
+        position:relative;
+    }
+
+    a.inews-www-hover {
+        display:inline-block;
+        position:relative;
+        font-weight: 600;
+        font-size: 18px;
+    }
+
+    menu.inews-www-hover{
+        position:absolute;
+        z-index:1;
+        background-color:white;
+        border:1px solid #e6e6e6;
+        padding:0px 20px;
+        height:40px;
+        line-height:40px;
+        border-radius:4px;
+        top:55px;
+        display:none;
+        box-shadow: 2px 2px rgba(0,0,0,0.2);
+        font-size:0px;
+     
+    }
+
+    menu.inews-www-hover.active{
+        display:inline-block;
+    }
+
+    menu.inews-www-hover > a{
+        display: inline-block;
+        height: 100%;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: normal;
+        padding: 0px 10px;
+        
+    }
+    nav.inews-www-hover > div:first-of-type >  menu{
+      
+        left:20px;
+    }
+    nav.inews-www-hover > div:last-of-type > menu{
+        right:20px;
+    }
+
+    nav.inews-www-hover > div:nth-of-type(2) > menu{
+        left:calc(200px  -  (333px/2) );
+       
+    }
+    nav.inews-www-hover > div:nth-of-type(3) > menu{
+        left:calc(296px  - (190px/2));
+     
+    }
+    nav.inews-www-hover > div:nth-of-type(4) > menu{
+        left:calc(380px  - (292px/2));
+    }
+    
+    nav.inews-www-hover > div:nth-of-type(5) >  menu{
+        left:calc(481px  - (350px/2)); 
+    }
+    /*문화*/
+    nav.inews-www-hover > div:nth-of-type(6) >  menu{
+        left:calc(595px  - (350px/2));
+    
+    }
+    nav.inews-www-hover > div:nth-of-type(7) >  menu{
+        left:calc(725px  - (170px/2));
+       
+    }
+    /*연예 스포츠*/
+    nav.inews-www-hover > div:nth-of-type(8) >  menu{
+        left:calc(851px  - (137px/2));
+ 
+    }
+
+    div.inews-www-hover {
+        display:inline;
+        font-size:0px;
+
+    }
+</style>
+<nav class="inews-www-2019 first" style="">
+<span style="position:absolute; left:0px; bottom:0px; top:0px;">
+<a href="http://www.inews24.com/customer/notice/711">
+<img height="60" src="http://image7.inews24.com/www/event/lefttop_kimjanghoon.jpg" width="260"/>
+</a> </span>
+<a href="/"><img height="34" src="/images/logo.svg" style="background-color:transparent;"/></a>
+<span style="position:absolute; right:0px; bottom:0px; top:0px; font-weight:bold;">
+<a class="inews-www-2019" href="/phototv/">포토·영상</a>
+<a class="inews-www-2019" href="/special/">스페셜</a>
+</span>
+</nav>
+<hr/>
+<nav class="menu inews-www-2019 second inews-www-hover" id="inews-www-mouse-over" style="">
+<a class="font red " href="/list/inews">
+<span>최신</span>
+</a>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/it">
+<span>IT·과학</span>
+</a>
+<menu class="inews-www-hover" style="">
+<a href="/list/020100">IT정책</a>
+<a href="/list/020310">인터넷</a>
+<a href="/list/020300">통신/방송</a>
+<a href="/list/020200">컴퓨팅/보안</a>
+<a href="/list/020800">IT기기</a>
+<a href="/list/020810">부품</a>
+<a href="/list/020500">게임</a>
+<a href="/list/020400">과학</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover active" href="/list/industry">산업</a>
+<menu class="inews-www-hover" style="">
+<a href="/list/022620">재계</a>
+<a href="/list/022100">중기/벤처</a>
+<a href="/list/022500">생활경제</a>
+<a href="/list/022200">자동차</a>
+<a href="/list/022700">부동산</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/economy">경제</a>
+<menu class="inews-www-hover">
+<a href="/list/022600">경제정책</a>
+<a href="/list/022300"> 증권</a>
+<a href="/list/022400">금융</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/politics">정치</a>
+<menu class="inews-www-hover">
+            
+            &lt;<a href="/list/050210">청와대</a>
+<a href="/list/050220">국회/정당</a>
+<a href="/list/050240">외교안보</a>
+<a href="/list/050200">정치일반</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/social">사회</a>
+<menu class="inews-www-hover">
+<a href="/list/050320">사건사고</a>
+<a href="/list/050330">교육</a>
+<a href="/list/050380">지역</a>
+<a href="/list/050300">사회일반</a>
+<a href="/list/announce">인사/부음/동정</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/culturelife">문화·생활</a>
+<menu class="inews-www-hover">
+<a href="/list/023130">공연/전시</a>
+<a href="/list/023120">출판</a>
+<a href="/list/024600">여행/레저</a>
+<a href="/list/life">라이프</a>
+<a href="/list/023100">문화일반</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/world">글로벌</a>
+<menu class="inews-www-hover">
+<a href="/list/022610">국제경제</a>
+<a href="/list/026500">국제일반</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/entersport">연예·스포츠</a>
+<menu class="inews-www-hover">
+<a href="/list/ienter">연예</a>
+<a href="/list/isport">스포츠</a>
+</menu>
+</div>
+<div class="inews-www-hover">
+<a class="inews-www-hover " href="/list/opinion">오피니언</a>
+<menu class="inews-www-hover">
+<a href="/list/desk">데스크칼럼</a>
+<a href="/list/reporter">기자수첩</a>
+<a href="/list/expert">전문가기고</a>
+</menu>
+</div>
+</nav>
+<hr/>
+<nav class="menu third active">
+<a alt="022620" class="navbar active" href="/list/022620">재계</a>
+<a alt="022100" class="navbar " href="/list/022100">중기/벤처</a>
+<a alt="022500" class="navbar " href="/list/022500">생활경제</a>
+<a alt="022200" class="navbar " href="/list/022200">자동차</a>
+<a alt="022700" class="navbar " href="/list/022700">부동산</a>
+</nav>
+<hr class="third active"/>
+</header>
+<link href="http://static.1.inews24.com/view/css/default-09.css" rel="stylesheet" type="text/css"/>
+<script>
+    var g_title = "우유철 현대로템 부회장 용퇴…\"후배 경영진 중심 혁신 위해\"";
+    var g_summary="[아이뉴스24 서민지 기자] 우유철 현대로템 부회장이 대표이사 중심의 경영혁신 가속화를 위해 용퇴한다.9일 현대차그룹에 따르면 이날 퇴임하는 우 부회장을 고문으로 위촉할 예정이다. 우 부회장은 지난해 12월 현대로템 부회장으로 부임해 1년여간 이건용 대표이";
+    var g_url="http://www.inews24.com/view/1228024";
+    var g_serial="1228024";
+</script>
+<!-- beforeunload popup  관련 -->
+<script>
+	var is_beforeunload=true;
+	$(function(){
+		$("a").click(function(){ is_beforeunload=false; });
+	});
+
+	$(document).keydown(function( event ) {
+		event = event || window.event;
+		var keyID = (event.which) ? event.which : event.keyCode;
+		if(keyID==116) is_beforeunload=false;
+	});
+
+</script>
+<script>
+
+is_beforeunload=false;
+$(window).on("beforeunload", function (event){
+	if(is_beforeunload==true){
+		window.open("http://www.inews24.com/","_blank");
+	}
+});
+</script>
+<!-- //beforeunload popup  관련 -->
+<main class="view">
+<container class="view">
+<section class="body">
+<header class="view">
+<h1>우유철 현대로템 부회장 용퇴…"후배 경영진 중심 혁신 위해"</h1>
+<h2>현대차그룹, 우유철 부회장 고문 위촉 예정</h2>
+<time>입력 2019.12.09 16:03</time>
+</header>
+<hr/>
+<article class="view" id="articleBody" itemprop="articleBody">
+<ad alt="a1007" class="view200">
+<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="200" marginheight="0" marginwidth="0" scrolling="no" src="//tm.interworksmedia.co.kr/ads.sx/559A1CCA" width="200"></iframe> </ad>
+<p>[아이뉴스24 서민지 기자] 우유철 현대로템 부회장이 대표이사 중심의 경영혁신 가속화를 위해 용퇴한다.</p><p>9일 현대차그룹에 따르면 이날 퇴임하는 우 부회장을 고문으로 위촉할 예정이다. 우 부회장은 지난해 12월 현대로템 부회장으로 부임해 1년여간 이건용 대표이사(부사장)와 함께 경영 전반을 총괄해 왔다.</p><figure><img src="http://img.lb.inews24.com/image_joy/201912/1575874229889_1_155107.jpg"/><figcaption>9일 현대차그룹에 따르면 우유철 현대로템 부회장이 용퇴했다. [사진=현대자동차그룹]</figcaption></figure><p></p><p>우 부회장은 최근까지 현대로템의 비전과 전략 방향을 제시하고 해외 수주를 강화하는 등 경영 개선을 위한 적극적인 행보를 보인 바 있다. 그러나 후배 경영진 중심의 경영 혁신 추진을 더욱 공고히 하기 위해 퇴임을 결심했다.</p><p>우 부회장은 철강 부문 전문가로서, 현대제철 일관제철소 건설을 주도하는 등 현대차그룹의 철강 부문 발전에 기여한 것으로 평가된다.</p><address><a author="서민지" href="mailto:jisseo@inews24.com">서민지기자</a> jisseo@inews24.com</address>
+<h1 class="photo-list">관련기사</h1>
+<ul class="related">
+<a href="/view/1227031">
+<figure class="related">
+<img src="http://static.1.inews24.com/images/blank.svg" style="background-image:url('http://img.5.inews24.com/85x75/image_gisa/thumbnail/201912/1575439644678_1_150833.jpg');"/>
+<h1 class="elli1">  현대차, '모빌리티 솔루션기업' 변신 가속도…6년간 61.1조 투자</h1>
+<figcaption class="elli2 related">현대자동차가 스마트 모빌리티 솔루션 기업으로 빠르게 변신을 시도하고 있다. 이를 위해 오는 2025년까지 61조1천억 원을 투자하고, 영업이익률은 8%로 끌어올린다는 목표다.현대차는 4일 여의도 콘래드 서울 호텔에서 '최고경영자(CEO)</figcaption>
+</figure>
+</a>
+<a href="/view/1227307">
+<figure class="related">
+<img src="http://static.1.inews24.com/images/blank.svg" style="background-image:url('http://img.5.inews24.com/85x75/image_joy/thumbnail/201912/1575514608608_1_115855.jpg');"/>
+<h1 class="elli1">현대차, 영종도에 버스 호출서비스…정의선式 '모빌리티' 첫 시동</h1>
+<figcaption class="elli2 related">현대자동차가 인천과 서울에서 교통체계 혁신에 나선다. 대중교통 사각지대 주민들의 이동 편의를 높이고 기존 사업자와 상생하는 등 인간 중심 철학을 기반으로 새로운 모빌리티 서비스와 솔루션을 제공하는 방식이다. 현대차가 2025년</figcaption>
+</figure>
+</a>
+</ul>
+<ad alt="a1055" style="clear:both">
+<script> var g_menu = "022620";</script>
+<div style="margin-top:10px;background-color:#f4f4f4; border:1px solid #dfdfdf; text-align:center; padding:13px 18px;">
+<div style="float:left;text-overflow:ellipsis;white-space:nowrap;width:550px;overflow:hidden;margin-top:-3px;">
+<a href="javascript:comment_view()">
+<div id="comment_title" style="float:left;text-align:left;color:#000;font-size:14px;font-weight:bold;">이 기사에 댓글쓰기! </div>
+<div id="comment_count" style="float:left;font-family:돋움,Dotum; font-size:12px; font-weight:bold;color:#0072bc"></div>
+</a>
+</div>
+<div style="font-size:12px; text-decoration:none;position:relative;margin-top:-3px;">
+<a href="javascript:comment_view()" style="text-decoration:none; color:#000">
+<div id="comment_v" style="color:#828282">펼치기▼</div>
+<div id="comment_d" style="color:#828282;display:none">접기▲</div>
+</a>
+</div>
+</div>
+<div style="padding-top:0px;clear:both"></div>
+<div data-id="inews24" data-uid="NTYxLzEzNzcwLzYyNw==" id="lv-container" style="display:none;">
+<script type="text/javascript"> 
+    
+var rv = "1";
+    
+function comment_re()
+{
+    window.livereOptions ={ 
+        refer: "inews24.com|g_menu="+g_menu+"|g_serial="+g_serial,
+        site: "http://www.inews24.com/view/"+g_serial,
+            bottomMargin: 0
+    }; 
+
+    (function(d,s){ 
+        var j, e=d.getElementsByTagName(s)[0]; 
+
+        if (typeof LivereTower === 'function') {return;}
+        j=d.createElement(s); 
+        j.src='https://cdn-city.livere.com/js/embed.dist.js';
+        j.async=true;
+
+    e.parentNode.insertBefore(j,e); 
+    })(document,'script'); 
+    
+    rv = "2";
+}
+    
+function comment_view(){
+	$("#lv-container").toggle();
+	$("#comment_v").toggle();
+	$("#comment_d").toggle();
+    if(rv == "1") { comment_re(); }
+}
+</script>
+</div> </ad>
+<aside class="quick">
+<button class="icon svg-facebook" onclick="return quick('facebook');"></button>
+<button class="icon svg-twitter" onclick="return quick('twitter');"></button>
+<button class="icon svg-band" onclick="return quick('band');"></button>
+<button class="icon svg-plus" onclick="return quick('plus');"></button>
+<button class="icon svg-minus" onclick="return quick('minus');"></button>
+<button class="icon svg-mail" onclick="return quick('email');"></button>
+<button class="icon svg-copy-url" onclick="return quick('copy');"></button>
+<button class="icon svg-print" onclick="return quick('print');"></button>
+</aside>
+</article>
+<ad alt="a1011" class="">
+<script src="http://js2.keywordsconnect.com/iconad_inews24.js" type="text/javascript"></script> </ad>
+<ad alt="a1023" class="">
+<script src="//js2.keywordsconnect.com/inspace_inews24.js" type="text/javascript"></script> </ad>
+<hr class="blank"/>
+<h1 class="photo-list">포토뉴스</h1>
+<container alt="포토뉴스" class="iframe photo-list">
+<iframe class="default" src="http://iframe.inews24.com/photo-news/"></iframe>
+</container>
+<hr class="ad"/>
+<ad alt="a2342" class="">
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+<div id="taboola-below-article-thumbnails-2nd"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-a',
+    container: 'taboola-below-article-thumbnails-2nd',
+    placement: 'Below Article Thumbnails 2nd',
+    target_type: 'mix'
+  });
+</script> </ad>
+<container class="h160px" style="display:none">
+<ad alt="a1014" class="ad w320px h160px float-left">
+<iframe frameborder="0" height="165" leftmargin="0" marginheight="0" marginwidth="0" noresize="" scrolling="no" src="http://iframe.inews24.com/ad/ma_w_10.php" width="330"></iframe> </ad>
+<ad alt="a1015" class="w300px h160px float-right" style="margin-top:10px;">
+<iframe frameborder="0" height="160" leftmargin="0" marginheight="0" marginwidth="0" noresize="" scrolling="no" src="http://iframe.inews24.com/ad/ma_w_9.php" width="320"></iframe> </ad>
+</container>
+<hr class="ad"/>
+<container class="h250px">
+<ad alt="a1016" class="w300px h250px float-left">
+<script>(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=35712&iwh=300_250&igb=74&cntad=1&cntsr=1",d=function(){b=!0;document.getElementById("mobonDivBanner_35712").innerHTML="<iframe name='ifrad' width='300' height='250' id='mobonIframe_35712' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<d"+"iv id='mobonDivBanner_35712'></d"+"iv>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0),a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),35712).createBanner(c,"300","250"))};f.appendChild(a)}catch(g){d()}})();</script> </ad>
+<ad alt="a1017" class="w300px h250px float-right">
+<iframe frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="http://ad1.adenc.co.kr/media/inews/inewsLCB.html" width="300"></iframe> </ad>
+</container>
+<hr class="ad"/>
+<ad alt="a1018" class="h60px">
+<iframe frameborder="0" height="60" leftmargin="0" marginheight="0" marginwidth="0" noresize="" scrolling="no" src="http://iframe.inews24.com/ad/ma_w_14.php" width="470"></iframe> </ad>
+<hr class="ad"/>
+<ad alt="a1019" class="h200px">
+<iframe frameborder="0" id="78100e03-a242-4bf6-9138-6af3c25933eb" marginheight="0" marginwidth="0" paddingheight="0" paddingwidth="0" scrolling="no" src="http://compass.adop.cc/RD/78100e03-a242-4bf6-9138-6af3c25933eb?type=iframe&amp;loc=&amp;size_width=680&amp;size_height=220" style="width: 680px; height: 220px;"></iframe> </ad>
+<hr class="ad"/>
+<container class="h250px">
+<ad alt="a1020" class="w300px h250px float-left">
+<iframe frameborder="no" framespacing="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" name="inews24_p_at_bl_a02_300x250" scrolling="no" src="//kitweb.tadapi.info/network/adapi.php?a=inews24_p_at_bl_a02_300x250&amp;refercheck=101" topmargin="0" width="300"></iframe> </ad>
+<ad alt="a1021" class="w300px h250px float-right">
+<iframe frameborder="no" framespacing="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" name="inews24_p_at_br_a02_300x250" scrolling="no" src="//kitweb.tadapi.info/network/adapi.php?a=inews24_p_at_br_a02_300x250&amp;refercheck=101" topmargin="0" width="300"></iframe> </ad>
+</container>
+<hr class="ad"/>
+<ad alt="a1022" class="">
+<script> 
+(function(){var d=!1,e="//www.mediacategory.com/servlet/iadbn?from="+escape(document.referrer)+"&s=20817&psb=99",c=function(){d=!0;var a=document.createElement("iframe");a.src=e;a.width="0";a.height="0";a.frameBorder=0;a.marginWidth=0;a.marginHeight=0;a.scrolling="no";a.async?a.async=!0:a.defer&&(a.defer=!0);if(document.body)document.body.appendChild(a);else{var b=document.getElementsByTagName("html")[0],c=document.createElement("body");b.appendChild(c);c.appendChild(a)}};try{var f=setTimeout(c,1E3), g=document.getElementsByTagName("head").item(0),b=document.createElement("script");b.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";b.type="text/javascript";b.async?b.async=!0:b.defer=!0;b.onload=function(){!0!==d&&(clearTimeout(f),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("ico"),enlipleMBSHandler.getWebCode(),20817).appendICover(e))};g.appendChild(b)}catch(a){c()}})(); 
+</script>
+</ad>
+</section>
+<aside class="view">
+<link href="http://static.1.inews24.com/aside/css/default-01.css" rel="stylesheet" type="text/css"/>
+<ad alt="a2343" style="height:550px">
+<div id="taboola-right-rail-stream"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-rr',
+    container: 'taboola-right-rail-stream',
+    placement: 'Right Rail Stream',
+    target_type: 'mix'
+  });
+</script> </ad>
+<container alt="아이뉴스TV" class="iframe h260px">
+<iframe class="default" src="http://iframe.inews24.com/side/joy/?g_menu=530008" style="overflow:hidden"></iframe>
+</container>
+<hr class="ad"/>
+<container alt="newsletter" class="iframe h115px">
+<iframe class="default" src="http://iframe.inews24.com/side/newsletter"></iframe>
+</container>
+<hr class="ad"/>
+<ad alt="a1024" class="h125px">
+<iframe frameborder="0" height="125" leftmargin="0" marginheight="0" marginwidth="0" noresize="" scrolling="no" src="http://iframe.inews24.com/ad/right_file_banner_125.php?mains=News" width="260"></iframe> </ad>
+<hr class="ad"/>
+<ad alt="a1025" class="h250px">
+<iframe frameborder="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" noresize="" scrolling="no" src="http://m.inews24.com/ad/i_1025.php" width="260"></iframe> </ad>
+<hr class="ad"/>
+<!--
+    <container class="iframe h110px" alt="카드뉴스">	
+        <iframe class="default" src="http://iframe.inews24.com/cardnews-side/"></iframe>
+    </container>
+    <hr class="ad">
+-->
+<ad alt="a1028" class="h50px" style="height:0px !important">
+</ad>
+<!--<hr class="ad">-->
+<ad alt="a1030" class="h250px">
+<script>(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=75531&iwh=250_250&igb=61&cntad=3&cntsr=3",d=function(){b=!0;document.getElementById("mobonDivBanner_75531").innerHTML="<iframe name='ifrad' width='250' height='250' id='mobonIframe_75531' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<d"+"iv id='mobonDivBanner_75531'></d"+"iv>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0),a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),75531).createBanner(c,"250","250"))};f.appendChild(a)}catch(g){d()}})();</script> </ad>
+<hr class="ad"/>
+<!--
+    <ad class="ad" alt="a1031" style="overflow:visible">
+            </ad>
+    <hr class="ad">
+-->
+<ad alt="a1032" class="ad h250px">
+<center><iframe frameborder="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="http://adex.ednplus.com/xc/h/FzfzmTde" topmargin="0" width="250"></iframe></center> </ad>
+<hr class="ad"/>
+<ad alt="a1043" class="ad h340px" style="width:261px;">
+<iframe allowtransparency="true" frameborder="0" height="390" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//io1.innorame.com/imp/pyq00ABDaP64.iframe" style="z-index: 2147483647;" vspace="0" width="261"></iframe> </ad>
+<hr class="ad"/>
+<ad alt="a1033" class="h250px">
+<iframe frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="http://ad1.adenc.co.kr/media/inews/inewsRT.html" width="250"></iframe> </ad>
+<hr class="ad"/>
+<ad alt="a1034" class="h250px">
+<iframe frameborder="no" framespacing="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" name="inews24_p_at_r_a01_250x250" scrolling="no" src="//kitweb.tadapi.info/network/adapi.php?a=inews24_p_at_r_a01_250x250&amp;refercheck=101" topmargin="0" width="250"></iframe>
+<script src="http://check.tadapi.info/?sid=inews24.com"></script> </ad>
+<hr class="ad"/>
+<!--
+    <container class="iframe h240px" alt="칼럼/연재">
+        <iframe class="default" src="http://iframe.inews24.com/opinion-side/"></iframe>
+    </container>
+    <hr class="ad">
+-->
+<ad alt="a1035" class="h250px">
+<script> 
+(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=20822&iwh=250_250&igb=61&cntad=3&cntsr=3",d=function(){b=!0;document.getElementById("mobonDivBanner_20822").innerHTML="<iframe name='ifrad' width='250' height='250' id='mobonIframe_20822' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<div id='mobonDivBanner_20822'></div>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0), 
+a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),20822).createBanner(c,"250","250"))};f.appendChild(a)}catch(g){d()}})(); 
+</script> </ad>
+<hr class="ad"/>
+<!--
+    <ad class="h250px" alt="a1036">
+            </ad>
+    <hr class="ad">
+    -->
+<ad alt="a1037" class="h250px">
+<iframe frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="http://ad1.adenc.co.kr/media/inews/inewsRM.html" width="250"></iframe> </ad>
+<hr class="ad"/>
+</aside>
+</container>
+<section class="left-wing">
+<ad alt="a1002" class="h130px">
+<iframe frameborder="0" height="130" leftmargin="0" marginheight="0" marginwidth="0" noresize="" scrolling="no" src="http://iframe.inews24.com/ad/wing_banner.php" width="100"></iframe> </ad>
+<hr class="ad"/>
+<ad alt="a1003" class="h150px">
+<!--<a href="http://www.inews24.com/tv/530004" title="아이뉴스24 TV"><img src="http://image7.inews24.com/www/tv/image/inewstv_wing1.jpg" width="100" height="100" border="0" alt="아이뉴스24 TV"></a>-->
+<a href="http://www.inews24.com/customer/notice/711"><img src="http://image7.inews24.com/www/event/20191120.jpg"/></a> </ad>
+<hr class="ad"/>
+<ad alt="a1083" class="h150px">
+<a href="http://www.inews24.com/special/travel/201911/"><img src="http://image7.inews24.com/www/event/travel2/20th_travel_wing-2.png"/></a> </ad>
+<hr class="ad"/>
+<!--
+            <ad class="h260px" alt="a1006" style="overflow:visible">
+                <?//=$ad[1006]['tag']?>
+            </ad>
+
+            <hr class="ad">
+-->
+<ad alt="a1012" class="" style="overflow:visible !important;margin-left:-60px;top:-150px;">
+</ad>
+<hr class="ad"/>
+<ad alt="a1009" class="h600px" style="margin-left:-60px;width:160px;">
+<iframe frameborder="0" id="a634187a-f034-4fdb-9014-efb7d82129c4" marginheight="0" marginwidth="0" paddingheight="0" paddingwidth="0" scrolling="no" src="http://compass.adop.cc/RD/a634187a-f034-4fdb-9014-efb7d82129c4?type=iframe&amp;loc=&amp;size_width=160&amp;size_height=600" style="width: 160px; height: 600px;"></iframe> </ad>
+</section>
+<section class="right-wing">
+<ad alt="a1008" class="h600px">
+<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="//tm.interworksmedia.co.kr/ads.sx/2FA14069" width="120"></iframe> </ad>
+<hr class="ad"/>
+<ad alt="a1010" class="h600px">
+<script> 
+(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=20819&iwh=160_600&igb=69&cntsr=3",d=function(){b=!0;document.getElementById("mobonDivBanner_20819").innerHTML="<iframe name='ifrad' width='160' height='600' id='mobonIframe_20819' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<div id='mobonDivBanner_20819'></div>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0), 
+a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),20819).createBanner(c,"160","600"))};f.appendChild(a)}catch(g){d()}})(); 
+</script> </ad>
+</section>
+</main>
+<script src="http://static.1.inews24.com/view/js/default-01.js" type="text/javascript"></script>
+<ad alt="a1056">
+<script src="https://s3.ap-northeast-2.amazonaws.com/adpick.co.kr/apis/apTracker.v3.js" type="text/javascript"></script></ad>
+<style>
+
+    /*footer*/
+
+copyright{
+ 
+    font-size:12px;
+    color:#999;
+    line-height:14px;
+    display:inline-block;
+    margin-left:30px;
+    height:28px;
+    vertical-align:middle;
+}
+
+footer.default{
+
+    
+    margin:0px auto;
+        
+    font-size:11px;
+    
+    color:#999;
+    margin-bottom:20px;
+}
+
+nav.footer{
+ 
+    height:40px;
+    line-height:39px;
+    padding:0px 10px;
+    width:1001px;
+    margin:0px auto;
+
+	
+    
+}
+
+nav.footer a{
+    
+    text-decoration:none;
+    color:#666;
+    font-size:12px;
+    margin:0px 10px;
+
+    
+}
+
+span.side{
+ 
+    float:right;
+
+}
+
+span.bar{
+    
+    font-size:0p;
+    display:inline-block;
+    height:10px;
+    width:1px;
+    background-color:#666;
+}
+
+span.link{
+	display:inline-flex;
+}
+
+a.privacy{
+ 
+    font-weight:bold;
+    
+}
+
+aside.footer{
+ 
+    height:67px;
+    line-height:67px;
+    padding-left:10px;
+    width:1001px;
+    margin:0px auto;
+    
+}
+span.side > button{
+ 
+    margin:0px 10px;
+    
+}
+address.footer{
+ 
+    font-style:normal;
+    position:relative;
+    height:60px;
+  
+    width:1001px;
+    margin:10px auto;
+    
+}
+ul.footer{
+ 
+    position:absolute;
+    margin:0px;
+    left:0px;
+    top:0px;
+    bottom:0px;
+    width:620px;
+    padding:5px;
+    
+}
+
+ul.footer > li{
+    padding:0px;
+    list-style:none;
+    font-size:11px;
+    color:#999;
+    line-height:20px;
+    height:20px;
+    
+}
+
+address.footer span.bar{
+ 
+    margin:0px 10px;
+    
+}
+
+aside.sitemap{
+    text-align:center;
+    position:abolute;
+    left:620px;
+    top:0px;
+    bottom:0px;
+    width:100px;
+    
+    display:inline-block;
+    position:relative;
+    
+}
+aside.sitemap a{
+ 
+    text-decoration:none;
+    color:#999;
+    
+}
+aside.sitemap a:hover{
+ 
+    text-decoration:underline;
+    
+}
+
+a.inc{
+    position:absolute;
+	top:0px;
+    right:0px;
+    display:inline-block;
+    bottom:0px;
+    
+}
+hr.footer-top{
+
+
+    height: 3px;
+    background-color: #6a6a6a;
+
+}
+/* footer base64 */
+footer.default hr:nth-of-type(3){
+
+    width:1100px;
+    margin: 0px auto;
+    
+
+}
+
+
+
+
+.svg-footer-logo-inews24-main {
+    width:160px;
+    height:21px;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxNjBweCIgaGVpZ2h0PSIyMXB4IiB2aWV3Qm94PSIwIDAgMTYwIDIxIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNjAgMjEiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiNBN0E5QUMiIGQ9Ik0xLjYwMiwyMC44MjJjLTAuNjktMS42MTUtMS4xNTgtMy4yODQtMS40MDYtNS4wMTJjLTAuMjQ1LTEuNzI4LTAuMjYyLTMuNDc2LTAuMDQyLTUuMjQ4YzAuMjI2LTEuNzQyLDAuNjkzLTMuNDgzLDEuNC01LjIyNmMwLjcwOC0xLjc0MSwxLjY3OS0zLjQzMiwyLjkxMy01LjA3Nkg3LjVDNi4yODcsMS45NzUsNS4zMjMsMy42NzEsNC42MSw1LjM1Yy0wLjcxMywxLjY3NS0xLjE4MiwzLjM2NC0xLjQwMiw1LjA2M2MtMC4yMTcsMS42NTktMC4yMDUsMy4zNDUsMC4wMzYsNS4wNjNjMC4yNDEsMS43MjIsMC43MDQsMy41MDUsMS4zOSw1LjM0N0gxLjYwMnoiLz48cGF0aCBmaWxsPSIjQTdBOUFDIiBkPSJNMTQuNzg0LDMuOTFIOS40NDVsMC4zODctMi43ODNoMTYuMTMxTDI1LjU3NywzLjkxaC01LjQ4MWMwLjE4NiwwLjQ4NSwwLjYxMywxLjAxLDEuMjc2LDEuNTc1YzAuNjY2LDAuNTYyLDEuNDUzLDEuMDM4LDIuMzY1LDEuNDI0YzAuNDMzLDAuMTg1LDAuODcyLDAuMzQ5LDEuMzE5LDAuNDkxYzAuNDQ3LDAuMTQ1LDAuNjg1LDAuMjI0LDAuNzEzLDAuMjM2bC0yLjA0LDIuNzIxYy0wLjAxNiwwLTAuMjE5LTAuMDUzLTAuNjA1LTAuMTYzYy0wLjM4OS0wLjEwNS0xLjA0Mi0wLjMzNi0xLjk1NS0wLjY5NGMtMS4zMzMtMC41NDItMi4zMzUtMS4xNTEtMy4wMDktMS44MmMtMC42NzUtMC42NzItMS4wMjMtMS4wMjktMS4wNDktMS4wNzFjLTAuMDM4LDAuMDQyLTAuNDgsMC4zOTYtMS4zMjEsMS4wNTljLTAuODQ2LDAuNjY0LTIuMDIsMS4yOS0zLjUyNiwxLjg3NWMtMC45NjYsMC4zNzEtMS42NjMsMC41OTktMi4wODUsMC42ODdjLTAuNDIzLDAuMDg0LTAuNjUxLDAuMTI4LTAuNjg1LDAuMTI4bC0xLjI4LTIuNzIxYzAuMDM0LTAuMDEyLDAuMjkyLTAuMDksMC43NzgtMC4yMjNjMC40ODYtMC4xMzgsMC45NzItMC4zMDYsMS40NTctMC41MDRjMC44OTUtMC4zODcsMS43MjktMC44MzMsMi41MTEtMS4zMzlDMTMuNzQ0LDUuMDY0LDE0LjM0OCw0LjUwOSwxNC43ODQsMy45MXogTTI1LjIxNCwxMS42MmwtMC4zODksMi43ODRoLTYuODc5bC0wLjgzNSw1Ljk5N2gtMy43OTdsMC44MzYtNS45OTdINy4yNzJsMC4zODctMi43ODRIMjUuMjE0eiIvPjxwYXRoIGZpbGw9IiNBN0E5QUMiIGQ9Ik0zMC42MzIsMC4yNjFjMC43NjcsMS42MTQsMS4yNjEsMy4yNzgsMS40ODYsNC45OTFjMC4yMjYsMS43MTMsMC4yMTksMy40MzMtMC4wMjEsNS4xNmMtMC4yNjYsMS44MDItMC43NjYsMy41NzgtMS40OTcsNS4zMzRjLTAuNzMxLDEuNzU2LTEuNjc1LDMuNDQ4LTIuODMxLDUuMDc1aC0zLjAzNmMxLjIyMS0xLjg3MSwyLjE5MS0zLjY3NCwyLjkxMi01LjQwNWMwLjcyMi0xLjczOCwxLjItMy40NDYsMS40MzMtNS4xMzJjMC4yMzYtMS42ODUsMC4yMzItMy4zNTQtMC4wMDctNS4wMTNjLTAuMjQzLTEuNjU1LTAuNzMyLTMuMzI3LTEuNDczLTUuMDExSDMwLjYzMnoiLz48Zz48Zz48cGF0aCBmaWxsPSIjQTdBOUFDIiBkPSJNNDkuMTkxLDIuNDIzYzAuOTY3LDEuMzc4LDEuMzE4LDMuMDQxLDEuMDQ2LDQuOTg1Yy0wLjI2NCwxLjktMS4wNzQsMy41MzEtMi40MjIsNC44OTJjLTEuNTAxLDEuNTE5LTMuMzI0LDIuMjgxLTUuNDc5LDIuMjgxYy0yLjE0OSwwLTMuNzY0LTAuNzYzLTQuODM5LTIuMjgxYy0wLjk1Ny0xLjM2MS0xLjMwMS0yLjk5MS0xLjAzOC00Ljg5MmMwLjI3MS0xLjk0NSwxLjA3NS0zLjYwNywyLjQxNC00Ljk4NWMxLjQ4Ni0xLjUzMywzLjMxMi0yLjMwMSw1LjQ4LTIuMzAxQzQ2LjUwMywwLjEyMiw0OC4xMTUsMC44OSw0OS4xOTEsMi40MjN6IE00MS41NjEsNC43ODFjLTAuNTU2LDAuNjk1LTAuOTA0LDEuNTY5LTEuMDUsMi42MjdjLTAuMTQ0LDEuMDI3LTAuMDMzLDEuODcxLDAuMzMyLDIuNTMyYzAuNDEzLDAuNzQ0LDEuMDc5LDEuMTE0LDEuOTkxLDEuMTE0YzAuOTMsMCwxLjcxMS0wLjM3LDIuMzQ5LTEuMTE0YzAuNTgyLTAuNjYyLDAuOTQxLTEuNTA1LDEuMDg2LTIuNTMyYzAuMTQ2LTEuMDU4LDAuMDIzLTEuOTMyLTAuMzY3LTIuNjI3Yy0wLjQyOC0wLjc1Ny0xLjEwNy0xLjEzNy0yLjAzNS0xLjEzN0M0Mi45NTQsMy42NDQsNDIuMTg1LDQuMDI0LDQxLjU2MSw0Ljc4MXogTTU1LjgzOCwxMC41MzRMNTQuNDEsMjAuNzg1aC0zLjk3MWwyLjg3Ny0yMC42NjRoMy45NzNsLTAuOTYxLDYuODg3aDIuNjY2bC0wLjQ5MSwzLjUyNUg1NS44Mzh6Ii8+PHBhdGggZmlsbD0iI0E3QTlBQyIgZD0iTTczLjMzMSwyLjQyM2MwLjk3LDEuMzc4LDEuMzE4LDMuMDQxLDEuMDUsNC45ODVjLTAuMjY2LDEuOS0xLjA3NCwzLjUzMS0yLjQyNCw0Ljg5MmMtMS41MDIsMS41MTktMy4zMjYsMi4yODEtNS40NzksMi4yODFjLTIuMTQ5LDAtMy43NjMtMC43NjMtNC44MzgtMi4yODFjLTAuOTU5LTEuMzYxLTEuMzAzLTIuOTkxLTEuMDM4LTQuODkyYzAuMjcxLTEuOTQ1LDEuMDc2LTMuNjA3LDIuNDE0LTQuOTg1YzEuNDg3LTEuNTMzLDMuMzEzLTIuMzAxLDUuNDc5LTIuMzAxQzcwLjY0NiwwLjEyMiw3Mi4yNTgsMC44OSw3My4zMzEsMi40MjN6IE02NS43LDQuNzgxYy0wLjU1MiwwLjY5NS0wLjkwMywxLjU2OS0xLjA0OSwyLjYyN2MtMC4xNDIsMS4wMjctMC4wMzQsMS44NzEsMC4zMzIsMi41MzJjMC40MTUsMC43NDQsMS4wOCwxLjExNCwxLjk5MywxLjExNGMwLjkyNiwwLDEuNzEtMC4zNywyLjM0OS0xLjExNGMwLjU3OS0wLjY2MiwwLjk0MS0xLjUwNSwxLjA4Ni0yLjUzMmMwLjE0Ni0xLjA1OCwwLjAyNC0xLjkzMi0wLjM2OS0yLjYyN2MtMC40MjktMC43NTctMS4xMDctMS4xMzctMi4wMzYtMS4xMzdDNjcuMDk3LDMuNjQ0LDY2LjMyNSw0LjAyNCw2NS43LDQuNzgxeiBNNzcuNDU5LDAuMTIyaDMuOTcyTDc4LjUyMSwyMWgtMy45N0w3Ny40NTksMC4xMjJ6Ii8+PHBhdGggZmlsbD0iI0E3QTlBQyIgZD0iTTk2LjY0NCwxMy44OTdoLTUuMDg1bC0wLjk2Miw2Ljg5NmgtMy45MjlsMC45NTgtNi44OTZIODMuODhsMC40OTYtMy41NjVoMjAuNDQxbC0wLjQ5NywzLjU2NWgtMy43NDhsLTAuOTYyLDYuODk2aC0zLjkzMkw5Ni42NDQsMTMuODk3eiBNOTAuNDYxLDAuMTIybC0wLjYzNiw0LjU2NGgxNS4xMzZsLTAuNDk4LDMuNTY2SDg3LjI1MWMtMC42MTEsMC0xLjA1Ni0wLjE1LTEuMzI3LTAuNDUzYy0wLjMxNC0wLjMzMi0wLjQyNC0wLjg2Mi0wLjMyMi0xLjU5MWwwLjg0Ny02LjA4Nkg5MC40NjF6Ii8+PHBhdGggZmlsbD0iI0E3QTlBQyIgZD0iTTEyOC4xMywxNi4xNzFsLTAuNDk0LDMuNTI0aC0yMC40NmwwLjQ4Ny0zLjUyNEgxMjguMTN6IE0xMjIuMjU1LDBjLTAuMzM4LDIuNDI1LDAuMDQ1LDQuMjQsMS4xNDksNS40NDZjMC45OTQsMS4wOTMsMi42NjMsMS43NjksNC45OTgsMi4wMjFsLTAuNTE5LDMuNzMzYy0yLjA2OC0wLjE3NS0zLjkwMS0wLjY0My01LjUxLTEuNDAzYy0xLjY5My0wLjgwNi0yLjc1MS0xLjc3Ni0zLjE3MS0yLjljLTAuNzc0LDEuMTU4LTIuMTE4LDIuMTMyLTQuMDM2LDIuOTI0Yy0xLjgwMiwwLjc0Ny0zLjc3LDEuMjA0LTUuODk2LDEuMzc4bDAuNTE3LTMuNzA4YzIuNDEtMC4yNyw0LjI2Ny0wLjk1Myw1LjU2NS0yLjA0NmMxLjQ2LTEuMjIyLDIuMzU0LTMuMDM2LDIuNjkxLTUuNDQ2SDEyMi4yNTV6Ii8+PC9nPjwvZz48Zz48Zz48cGF0aCBmaWxsPSIjQTdBOUFDIiBkPSJNMTMzLjM2LDE5LjUzNGwwLjUxMy0zLjcxNGw3LjM1NC03LjAyM2MwLjc0MS0wLjcwMiwxLjA0OS0xLjE1MywxLjE1NC0xLjkwNGMwLjEzNi0wLjk3OS0wLjMxNC0xLjY1OC0xLjM1Mi0xLjY1OGMtMC43NDQsMC0xLjY4MywwLjM1MS0xLjg3MiwxLjczMUgxMzUuMWMwLjQ5MS0zLjUxNCwzLjM3OC01LjQ0Myw2LjQ0Ny01LjQ0M2MzLjI1OSwwLDUuMzUsMi4wMzEsNC44ODUsNS4zOTJjLTAuMjYsMS44ODItMS4xNjMsMi44ODQtMi43ODIsNC4zOTJsLTQuODI5LDQuNTE0aDYuMzhsLTAuNTEzLDMuNzE0SDEzMy4zNnoiLz48cGF0aCBmaWxsPSIjQTdBOUFDIiBkPSJNMTU3LjkyMiwxNy4xNzZsLTAuMzI3LDIuMzU4aC0zLjg1OGwwLjMyNS0yLjM1OGgtNy4yOTRsMC41NDUtMy45MTFsNy40MzgtMTEuNTkxaDQuNDUxbC03LjQzOSwxMS41OTFoMi44NDNsMC40MTEtMi45ODJoMy44NTlsLTAuNDE1LDIuOTgySDE2MGwtMC41NDYsMy45MTFIMTU3LjkyMnoiLz48L2c+PC9nPjwvc3ZnPg==);
+}
+
+.svg-footer-logo-inews {
+    margin:10px;
+    width:87px;
+    height:21px;
+	background-image: url(/images/logo.svg);
+}
+
+.svg-footer-logo-joynews {
+    margin:10px;
+    margin-right: 13px;
+    width:80px;
+    height:21px;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI4MHB4IiBoZWlnaHQ9IjIxcHgiIHZpZXdCb3g9IjAgMCA4MCAyMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgODAgMjEiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGQ9Ik0yMy43MDcsNS42OTVjMC42MTcsMC44NzksMC44MzUsMS45NDIsMC42NTEsMy4xODRjLTAuMTc4LDEuMjEzLTAuNzA0LDIuMjU2LTEuNTc4LDMuMTI0Yy0wLjk3LDAuOTcyLTIuMTQ1LDEuNDU3LTMuNTI4LDEuNDU3Yy0xLjM4MSwwLTIuNDE0LTAuNDg1LTMuMDk4LTEuNDU3Yy0wLjYwOS0wLjg2OC0wLjgyNC0xLjkxMS0wLjY0Ni0zLjEyNGMwLjE4Mi0xLjI0MiwwLjcwNy0yLjMwNCwxLjU3Mi0zLjE4NGMwLjk2MS0wLjk4LDIuMTM4LTEuNDcsMy41MjktMS40N0MyMS45OTEsNC4yMjYsMjMuMDIzLDQuNzE1LDIzLjcwNyw1LjY5NSBNMTguNzg4LDcuMmMtMC4zNTYsMC40NDUtMC41ODYsMS4wMDUtMC42ODUsMS42NzljLTAuMDk4LDAuNjU3LTAuMDMsMS4xOTUsMC4yLDEuNjE5YzAuMjY0LDAuNDc0LDAuNjg4LDAuNzEyLDEuMjcyLDAuNzEyYzAuNTk3LDAsMS4xMDEtMC4yMzgsMS41MTUtMC43MTJjMC4zNzQtMC40MjQsMC42MS0wLjk2MiwwLjcwNy0xLjYxOWMwLjEtMC42NzQsMC4wMjUtMS4yMzQtMC4yMjItMS42NzljLTAuMjczLTAuNDgzLTAuNzA3LTAuNzI2LTEuMzAyLTAuNzI2QzE5LjY4OCw2LjQ3NCwxOS4xOTMsNi43MTcsMTguNzg4LDcuMiBNMjYuMzQ5LDQuMjI2aDIuNTQzTDI2LjkzNSwxNy41NGgtMi41NDNMMjYuMzQ5LDQuMjI2eiIvPjxwYXRoIGQ9Ik0zOC4wNDEsMTMuMDMyaC0zLjI2NWwtMC42NDYsNC4zOTZoLTIuNTI2bDAuNjQ2LTQuMzk2aC0yLjQwN2wwLjMzNS0yLjI4NGgxMy4xMjlsLTAuMzM0LDIuMjg0aC0yLjQwN2wtMC42NDYsNC4zOTZoLTIuNTI2TDM4LjA0MSwxMy4wMzIgTTM0LjEyOSw0LjIyNmwtMC40MjksMi45MWg5LjcxNUw0My4wOCw5LjQxOUgzMi4wMzFjLTAuMzk0LDAtMC42NzgtMC4wOTctMC44NTMtMC4yODljLTAuMjAxLTAuMjEzLTAuMjY3LTAuNTUzLTAuMTk5LTEuMDE5bDAuNTcxLTMuODg1SDM0LjEyOXoiLz48cGF0aCBkPSJNNTcuMDI3LDE0LjQ3N2wtMC4zMzMsMi4yNjhINDMuNTU5bDAuMzMzLTIuMjY4SDU3LjAyNyBNNTMuMzM2LDQuMTU3Yy0wLjIyOCwxLjU0NywwLjAxLDIuNzA1LDAuNzE2LDMuNDczYzAuNjMzLDAuNjk3LDEuNjk5LDEuMTI3LDMuMTk4LDEuMjlsLTAuMzQ5LDIuMzhjLTEuMzI1LTAuMTA5LTIuNTAzLTAuNDA4LTMuNTMtMC44OTVjLTEuMDg2LTAuNTE0LTEuNzY0LTEuMTMxLTIuMDMxLTEuODVjLTAuNTAzLDAuNzM5LTEuMzczLDEuMzYxLTIuNjA3LDEuODY2Yy0xLjE2LDAuNDc2LTIuNDI0LDAuNzctMy43OTIsMC44NzlsMC4zNDctMi4zNjZjMS41NDktMC4xNywyLjc0Mi0wLjYwNiwzLjU4Mi0xLjMwNGMwLjk0My0wLjc3OCwxLjUyNi0xLjkzNSwxLjc1Mi0zLjQ3M0g1My4zMzZ6Ii8+PGc+PHBhdGggZD0iTTguNzUxLDExLjU3NmwtMC40NzUsMy4yM2g1LjQxOGwtMC4zMzYsMi4yODVIMGwwLjMzNC0yLjI4NWg1LjM4NmwwLjQ3NS0zLjIzSDguNzUxeiBNOS43NjMsNi43MzdjMC4wMzQsMC44MTcsMC4zOTEsMS40NiwxLjA3MSwxLjkzYzAuNjcsMC40NywxLjY0NCwwLjc1NSwyLjkyMSwwLjg1N2wtMC4zNDksMi4zNzNjLTEuMzAzLTAuMDctMi40NzktMC4zMzgtMy41My0wLjc5N2MtMS4wODItMC40NTgtMS43NzQtMS4wMTQtMi4wNzktMS42NjhjLTAuNTA4LDAuNjY0LTEuMzcxLDEuMjI1LTIuNTg2LDEuNjg0Yy0xLjE4NCwwLjQ1LTIuNDQ0LDAuNzExLTMuNzc3LDAuNzgxTDEuNzgsOS41NGMxLjMwOC0wLjEwMiwyLjM2Ni0wLjM5NCwzLjE3NS0wLjg3M2MwLjgwOC0wLjQ2OSwxLjM0My0xLjExMiwxLjYwNy0xLjkzSDIuMjk5bDAuMzM1LTIuMjgzaDExLjc1N2wtMC4zMzUsMi4yODNIOS43NjN6Ii8+PC9nPjxnPjxwYXRoIGZpbGw9IiNFQjAwOEIiIGQ9Ik03NS4zNjksMTguMzc5bDEuODQ0LTAuNTUxYzEuNTQ3LTAuNDYxLDIuNTk5LTEuNzksMi43ODctMy4zaC0zLjk2N0w3NS4zNjksMTguMzc5eiIvPjxwYXRoIGZpbGw9IiNFQjAwOEIiIGQ9Ik02Ny4xMjUsNy41ODdjLTAuMzY3LTAuNjI4LTEuOTQxLTEuMDgtNC45MDksMS4wMjlsLTEuMDYyLTEuNDE3bDAuNTc4LTAuMzA5YzAsMCwzLjMxNy0xLjgyLDYuMzYxLTEuMDk3YzIuNjcsMC42MzYsMi40NzUsMi42MTgsMC44MTMsNC4wNjZjLTEuOTQsMS42ODgtNC43MjcsMi45NjMtNS40ODMsMy4yNTNoNC45NTFsOC45NjUtOC43MDNsLTAuNDcxLTEuNTgzYy0wLjYyMy0yLjA5Mi0yLjgyLTMuMjgzLTQuOTA4LTIuNjU5TDYxLjg5OCwzLjE3MWMtMi4wODgsMC42MjMtMy4yNzcsMi44MjQtMi42NTQsNC45MTdsMS40ODksNS4wMWMxLjM4OC0wLjY1OSwzLjE4MS0xLjYxLDQuNDU2LTIuNTEyQzY2Ljk1OCw5LjMzMyw2Ny40OTIsOC4yMTUsNjcuMTI1LDcuNTg3eiIvPjxwYXRoIGZpbGw9IiNFQjAwOEIiIGQ9Ik03OS45MTgsMTMuMTE0Yy0wLjAxOC0wLjA2Ny0wLjAzLTAuMTM2LTAuMDUxLTAuMjA1bC0yLjI2My03LjYxbC0xLjMzMSw3LjgxNUg3OS45MTh6Ii8+PHBhdGggZmlsbD0iI0VCMDA4QiIgZD0iTTYxLjE2LDE0LjUzMmwxLjA4MiwzLjY0MWMwLjYyMywyLjA5NCwyLjgxOSwzLjI4NCw0LjkwOCwyLjY2Mmw1Ljg0Mi0xLjc0NmwwLjc5NC00LjU1N0g2MS4xNnoiLz48cG9seWdvbiBmaWxsPSIjRUIwMDhCIiBwb2ludHM9Ijc0LjAzLDEzLjExNCA3NC44MTksOC40MTMgNzAuMjUyLDEzLjExNCAiLz48L2c+PC9nPjwvc3ZnPg==);
+}
+
+.svg-inc-logo {
+    margin-right: -10px;
+	width:250px;
+	height:56px;
+	background-image: url(data:image/jpeg;base64,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);
+}
+
+</style>
+<footer class="default">
+<hr class="footer-top"/>
+<nav class="footer" style="width:1100px;">
+<span class="link">
+<a href="/">뉴스</a>
+</span>
+        |
+        <span class="link">
+<a href="/phototv">포토ㆍ영상</a>
+</span>
+      
+        |
+        <span class="link">
+<a href="/opinion">오피니언</a>
+</span>
+        |
+        <span class="link">
+<a href="/special">스페셜</a>
+</span>
+<span class="side">
+<span class="link">
+<a href="/customer/company">회사소개</a>
+</span>
+				|
+			<span class="link">
+<a href="/customer">고객센터</a>
+</span>
+				|
+			<span class="link">
+<a href="/customer/marketing">광고안내</a>
+</span>
+				|
+			<span class="link">
+<a class="privacy" href="/customer/terms/privacy">개인정보취급방침</a>
+</span>
+</span>
+</nav>
+<hr/>
+<aside class="footer" style="width:1100px;">
+<a class="icon svg-footer-logo-inews24-main" href="/"></a>
+<copyright>Copyright(c) inews24.com. All Rights Reserved.<br/>Please read inews24’s privacy policy. Contact us for more information</copyright>
+<span class="side">
+<a class="icon svg-footer-logo-inews" href="/"></a>
+<a class="icon svg-footer-logo-joynews" href="http://joynews24.com" target="_blank"></a>
+</span>
+</aside>
+<hr/>
+<address class="footer" style="width:1100px;">
+<ul class="footer">
+<li>등록번호 : 서울아00107  |  등록연월일 : 2005년 4월 6일  |  사업자 등록번호 : 120-81-97512</li>
+<li>통신판매업 신고 : 강남-1298호  |  서울시 마포구 독막로19길 15 BR엘리텔 B동 3층  |  대표전화 : (02)3347-114</li>
+<li>발행인 : 이창호  |  편집인 : 이훈  |  개인정보관리 책임자 : 배석강  |  청소년보호 책임자 : 배석강</li>
+</ul>
+<aside class="sitemap">
+<p><a href="/transform/"><stron>모바일 웹 보기</stron></a></p>
+<p style="display:none;"><a href="/customer/sitemap">사이트맵</a></p>
+</aside>
+<a class="inc icon svg-inc-logo"></a>
+</address>
+<br>
+</br></footer>
+<ad alt="a2344" class="">
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script></ad>
+</body>

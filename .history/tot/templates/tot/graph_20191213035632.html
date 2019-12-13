@@ -1,0 +1,256 @@
+{% load static %}
+{% load value_idx %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Graph</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <style>
+    .abc { caption-side: top;
+    }
+    table {
+    /*width: 100%;*/
+    /*border: 1px solid #444444;*/
+    /*border-collapse: collapse;*/
+    font-size: 1.5em;
+    text-align: center;
+    margin-left: 10px; 
+    }
+    
+    th, td {
+    /*border: 1px solid #444444;
+    padding: 10px;*/
+  }
+  .img1{
+  background-image: url('/static/img/2.jpg');
+  /*background-image: url("{#% static 'img/4.jpg' %}");*/
+      height: 100vh;
+      width: 100vw;
+      background-size: cover;
+      z-index:1;
+      /*background-repeat: no-repeat;*/
+      
+    }
+  body
+  {
+  line-height: 1.6em;
+  }
+
+
+  #hor-zebra
+  {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 20px;
+  margin: 45px;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  }
+  #hor-zebra th
+  {
+  font-size: 20px;
+  font-weight: normal;
+  padding: 10px 8px;
+  color: #039;  
+}
+  #hor-zebra td
+  {
+  font-size: 20px;
+  padding: 8px;
+  color: #669;
+  }
+  #hor-zebra .odd
+  {
+  background: #e8edff;
+  }
+
+
+  
+  
+    
+  </style>
+    {% autoescape off %}
+  <script>
+    window.onload = function () {
+
+      var chart = new CanvasJS.Chart("chartContainer", {
+        theme: "light2",
+        animationEnabled: true,
+        title: {
+          {% if word2 %}
+          text: "{{word1}}과 {{word2}}의 트렌드 " 
+          {% else %}
+          text: "{{word1}}의 트렌드" 
+          {% endif %}
+        },
+
+        axisX: {
+          labelFontStyle: "normal",
+          labelAngle: null,
+          interlacedColor: "#FFF0FB",
+
+        },
+        axisY: {
+          includeZero: false,
+          title: "트렌드 검색 수치",
+          maximum: 102,
+          gridColor: "orange",
+
+        },
+        toolTip: {
+          shared: "true"
+        },
+        legend: {
+          cursor: "pointer",
+          itemclick: toggleDataSeries
+        },
+        data: [{
+            type: "spline",
+            click: onClick,
+            showInLegend: true, // 그래프를 보여줌
+            yValueFormatString: "",
+            name: "{{word1}}",
+            dataPoints: {{ vw1 }}
+
+          },
+          {% if word2 %} 
+          {
+            type: "spline",
+            showInLegend: true, // 그래프를 보여줌
+            click: onClick,
+            yValueFormatString: "",
+            name: "{{word2}}",
+            dataPoints: {{ vw2 }}
+          } 
+          {% endif %}
+        ]
+
+      });
+
+      chart.render();
+      // 적용된 것을 랜더 시킴
+      function onClick(e) {
+
+        //window.open(e.dataPoint.link, '_blank');
+        //console.log(e.dataPoint.label);
+        //console.log(e.dataSeries.name);
+        //window.open('/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name, '_blank')
+        window.location.href = '/anal?date=' + e.dataPoint.label + '&' + 'keyword=' + e.dataSeries.name;
+
+      }
+
+
+      function toggleDataSeries(e) {
+        if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+          e.dataSeries.visible = false;
+          // 눌르면 어둡게 하면 .. 차트 사라짐
+        } else {
+          e.dataSeries.visible = true;
+          // 다시 밣히면 차트 보임
+        }
+        chart.render();
+      }
+
+    }
+  </script>
+  {% endautoescape %}
+  </head>
+<body style="background:aqua">
+  <nav class="navbar navbar-light bg-primary">
+   
+    <a class="navbar-brand text-white" href="{% url 'tot:index' %}">trend of tracer</a>
+  </nav>
+  
+  <div id="chartContainer" style="height: 400px; width: 100%;  margin-top:20px; margin-left:20px; margin-bottom:20px" ></div>
+   <hr>
+   {% if word2 %}
+   <div class="row">
+     <div class="col-md-6">
+       <table>
+         <caption class='abc'><a
+             href="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}&cd={{word1}}&date={{date}}"
+             onclick="this.parentNode.submit()">{{word1}}의 연관검색어</a></caption> <br />
+         <thead>
+           <tr>
+             <th>연관 검색어</th>
+             <th>검색어 지수</th>
+           </tr>
+         </thead>
+         <tbody>
+           {% for i,v in newdict1.query.items %}
+           <!--{#{ newdict1.value|value_by_key:forloop.counter0 }}-->
+           <tr>
+             <th>{{v}}</th>
+             <th>{{newdict1.value|value_by_key:forloop.counter0}}</th>
+           </tr>
+           {% endfor %}
+         </tbody>
+       </table>
+     </div>
+     <div class="col-md-6">
+       <table>
+         <form action="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}" method="GET">
+           <caption class='abc'><a
+               href="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}&cd={{word2}}&date={{date}}"
+               onclick="this.parentNode.submit()">{{word2}}의 연관검색어</a></caption> <br />
+         </form>
+         <thead>
+           <tr>
+             <th>연관 검색어</th>
+             <th>검색어 지수</th>
+           </tr>
+         </thead>
+         <tbody>
+           {% for i,v in newdict2.query.items %}
+           <!--{#{ newdict1.value|value_by_key:forloop.counter0 }}-->
+           <tr>
+             <th>{{v}}</th>
+             <th>{{newdict2.value|value_by_key:forloop.counter0}}</th>
+           </tr>
+           {% endfor %}
+         </tbody>
+       </table>
+     </div>
+   </div>
+   {% else %}
+   <table id="hor-zebra" summary="Employee Pay Sheet">
+     <form action="{% url 'tot:search' %}?word1={{ word1 }}" method="GET">
+       <caption class='abc'><a href="{% url 'tot:search' %}?word1={{ word1 }}&cd={{word1}}&date={{date}}">{{word1}}의
+           연관검색어</a></caption> <br />
+     </form>
+     <thead>
+       <tr>
+         <th scope="col">연관 검색어</th>
+         <th scope="col">검색어 지수</th>
+       </tr>
+     </thead>
+     <tbody>
+       {% for i,v in newdict1.query.items %}
+       <!--{#{ newdict1.value|value_by_key:forloop.counter0 }}-->
+       <tr class="odd">
+         <th>{{v}}</th>
+         <th>{{newdict1.value|value_by_key:forloop.counter0}}</th>
+       </tr>
+       {% endfor %}
+     </tbody>
+   </table>
+   {% endif %}
+
+   <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+   </script>
+   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+   </script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+   </script>
+   </body>
+
+   </html>

@@ -1,0 +1,291 @@
+우유철 현대로템 부회장 퇴임…"대표 중심 경영 위해"
+<body>
+<script type="text/javascript"> 
+	var ArtID = "2019120901371",
+	    CatID = "71",
+	    OrgID = "",
+	    ArtTitle = "우유철 현대로템 부회장 퇴임…\'대표 중심 경영 위해\'";
+
+	if ( ArtTitle.length > 40 ){
+        var ArtTitleMin = ( ArtTitle.substring(0,40) + "..." );
+    } else {
+		var ArtTitleMin = ArtTitle;
+	};
+
+	var TempDate="입력 : 2019.12.09 12:02	 / 수정 : 2019.12.09 14:09";
+    var scrabYN = 'Y',
+        arrReferrers = "chosun.com";
+	function outlinkReferrer() {
+		var referrer = document.referrer;
+		if (referrer.indexOf(arrReferrers) >= 0){
+            return true;
+		}
+		return false;
+	};
+	var C1_rp = "산업",
+        C2_rp = "기업";
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-58940796-5', 'auto'); //Biz
+
+                ga('set', 'contentGroup1', '최지희 기자'); 
+                ga('set', 'dimension2', '최지희 기자');
+
+ga('set', 'dimension3', '산업');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+    ga('require', 'GTM-NLS4VW6');
+    ga('send', 'pageview');
+
+    ga('create', 'UA-58940796-24', 'auto',{'name':'chosun_total'});
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+    ga('chosun_total.send', 'pageview');
+</script>
+<div id="wrapper">
+<div id="header">
+<div class="simple_gnb">
+<script>
+                //chosun.com simple gnb var
+                var csmgsgnbWidth = "1196", //사이트 내 콘텐츠 너비값 (기본값 : 1196px)
+                    csmgsgnbLogin = "Y"; //로그인 버튼 사용 여부 (기본값 : N)
+                    csmgsgnbSearch = "N"; //검색 버튼 사용 여부 (기본값 : N)
+            </script>
+<script charset="utf-8" src="//news.chosun.com/ui/js/csmgs_simple_gnb.js"></script>
+</div><!-- simple_gnb -->
+<div class="ad_gg_top">
+<script type="text/javascript">
+                if(CatID.substring(0,1) == "4"){
+                    document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\' SRC=\'//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/realty@x01\'></IFRAME>');
+                }else{
+                    document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\' SRC=\'//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/article@x01\'></IFRAME>');
+                }
+            </script>
+</div><!--ad_gg_top-->
+<div class="header_cont">
+<script charset="utf-8" src="//biz.chosun.com/dhtm/2018/js/biz_gnb_art_2018.js?v20191002" type="text/javascript"></script>
+</div>
+</div><!-- #header -->
+<div id="csContent">
+<div class="biz_left_ad">
+<script type="text/javascript">
+                if(CatID.substring(0,1) == "4"){
+                    document.write('<IFRAME WIDTH=160 HEIGHT=600 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/realty/@x04"></IFRAME>');
+                }else{
+                    document.write('<iframe src="//adex.ednplus.com/xc/h/XQwV5Ede" width="160" height="600" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"></iframe>');
+                }
+            </script>
+</div>
+<div class="biz_right_ad">
+<script type="text/javascript">
+                if(CatID.substring(0,1) == "4"){
+                    document.write('<IFRAME WIDTH=160 HEIGHT=600 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\' SRC=\'//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/realty@x05\'></IFRAME>');
+                }else{
+                    document.write('<IFRAME WIDTH=160 HEIGHT=600 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\' SRC=\'//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/article@x05\'></IFRAME>');
+                }
+            </script>
+</div>
+<header class="news_title">
+<dl class="news_cat">
+<dd class="news_cat_other">
+<div class="news_cat_other_box int_target">
+<ul class="news_cat_other_list">
+</ul>
+</div>
+</dd>
+</dl><!-- news_cat -->
+<div class="news_title_text">
+<h1 id="news_title_text_id">우유철 현대로템 부회장 퇴임…"대표 중심 경영 위해"</h1>
+<div class="news_title_author">
+<!-- 기자채널 연동 기자인 경우 end -->
+<span class="news_author">
+<span class="author_source">조선비즈</span>
+<li id="j1">
+<a href="//nsearch.chosun.com/search/total.search?writer=최지희 기자&amp;biz_search=writtersinarticle" onclick="ga('send', 'event', 'BizArticle', 'ArtTitle', 'Art_Journalist');" target="_blank" title="이 기자의 다른 기사 보기(새창)">최지희 기자</a>
+</li>
+<!-- author encoded --> </span>
+</div>
+</div><!-- news_title_text -->
+<ul class="news_title_tools" id="news_title_tools_id">
+<!-- 현재 기사가 스크랩되어 있다면 '.saved' 클래스를 추가 -->
+</ul>
+</header><!-- news_title -->
+<div class="sticky_wrapper" id="sticky_wrapper_id">
+<article class="news_article">
+<div class="news_body_all">
+<div class="news_left_aside" id="news_left_aside_id">
+<ul class="news_left_aside_sns">
+<li><a class="count_cmt" href="#news_cmt_id" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_Comment');" title="">100자평 <span class="count" id="BBSCNT">0</span></a></li>
+<!-- 현재 기사가 '좋아요' 눌러져 있다면 '.liked' 클래스를 추가 -->
+<li><a class="count_like" onclick="javascript:csLike(); ga('send', 'event', 'Article', 'ArtShare', 'Art_Like');" rel="nofollow" title="">좋아요 <span class="count" id="CSCNT">0</span></a></li>
+<li><a class="share_fb" href="javascript:facebookOpen()" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_Facebook');" rel="nofollow" title="">페이스북 공유</a></li>
+<li><a class="share_tw" href="javascript:twitterOpen()" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_Twitter');" rel="nofollow" title="">트위터 공유</a></li>
+<li><a class="share_kas" href="javascript:kakaostoryOpen()" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_Kakao');" rel="nofollow" title="">카카오스토리 공유</a></li>
+<div class="news_left_aside_sns_more" id="news_left_aside_sns_more_id">
+<li><a class="share_gp" href="javascript:googleplusOpen()" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_Google');" rel="nofollow" title="">구글플러스 공유</a></li>
+<li><a class="share_nblog" href="#" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_Npost');" rel="nofollow" title="">네이버블로그 공유</a>
+<!-- <script type="text/javascript" src="//static.naver.net/blog/share/blog_sharebutton.js?v=2015120817" charset="utf-8"></script>
+                                    <script type="text/javascript">
+                                        var title1 = $('#news_title_text_id').text(),
+                                            title2 = encodeURIComponent(title1);
+                                        new ShareBlog.makeButton({"type": "c","title" : title2 });
+                                    </script>   -->
+</li>
+</div>
+<li><a class="share_url" href="#" id="share_url_id" onclick="ga('send', 'event', 'BizArticle', 'ArtShare', 'Art_URL');" rel="nofollow" title="">기사 URL공유</a><input class="art_share_url" id="art_share_url_id" readonly="" type="text"/></li>
+<li><a class="share_more int_rotate" href="#" id="share_more_id" rel="nofollow" title="">공유 더보기</a></li>
+</ul>
+</div><!-- news_left_aside -->
+<div class="news_body" id="news_body_id" itemprop="articleBody">
+<div class="news_date">입력 2019.12.09 12:02
+     | 수정 2019.12.09 14:09
+</div>
+<h3 class="news_subtitle"></h3>
+<!-- 기사 본문 start -->
+<!-- -->
+<div class="news_imgbox under300" style="width:199px"><!-- img option modified under300 right 20150828 -->
+<figure>
+<!-- img links has -->
+<!-- img links none -->
+<img alt="" src="https://image.chosun.com/sitedata/image/201912/09/2019120901362_0.png"/>
+</figure>
+</div>
+<!-- article text body 20151022 -->
+<div class="par">정몽구 현대자동차그룹 회장의 신임을 받아온 우유철 현대로템 부회장<strong>&lt;사진&gt;</strong>이 9일 퇴임했다. <br/><br/>현대로템은 이날 우 부회장이 대표이사를 중심의 경영 혁신을 가속화하기 위해 자리에서 물러난다고 밝혔다. 작년 12월 현대로템 부회장으로 임명된 지 1년 만에 퇴임한 우 부회장은 고문으로 위촉될 예정이며, 후임은 결정되지 않았다.  <br/><br/>우 부회장은 서울대 조선공학과를 졸업하고 뉴욕주립대 기계공학 박사학위를 받았다. 1983년 현대중공업에 입사한 뒤 현대로템을 거쳐 현대제철로 자리를 옮겼고 현대제철 기술개발<script src="//biz.chosun.com/dhtm/2018/js/biz_art_ad.js" type="text/javascript"></script>본부장, 기술연구소장, 당진제철소장, 대표이사를 역임하며 현대차그룹의 자동차 철강 소재 자체 생산을 이끌어왔다. <br/><br/>현대로템 관계자는 "우 부회장은 최근까지 현대로템의 비전과 전략 방향을 제시하고 해외 수주를 강화하는 등 경영 개선을 위한 적극적인 행보를 보였다"면서도 "후배 경영진 중심의 경영 혁신 추진을 더욱 공고히 하기 위해 퇴임을 결심했다"고 말했다. <br/><br/></div>
+<!-- 기사 본문 end -->
+<!-- realtyprice script -->
+<div class="news_like">
+<a class="count_like" onclick="javascript:csLike(); ga('send', 'event', 'Article', 'ArtShare', 'Art_Like_BT');">좋아요 <span class="count" id="CSCNT">0</span></a>
+</div>
+<div style="padding: 10px 0">
+<iframe bordercolor="#000000" frameborder="0" height="60" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/article/1@x12" vspace="0" width="650"></iframe>
+</div>
+<div class="news_copyright">
+<span class="news_copyright_source">Copyright ⓒ 조선비즈 &amp; Chosun.com</span>
+<span class="news_copyright_links">
+<a href="//biz.chosun.com/about/company_ad.html" target="_blank">제휴안내</a><a href="https://members.chosun.com/service/supp/pr_supp_1191_double.jsp" target="_blank">구독신청</a>
+</span>
+</div><!-- news_copyright -->
+<script src="//biz.chosun.com/dhtm/js/biz_art_adbot_2019.js?ver=20191206"></script>
+</div><!-- news_body -->
+<div class="clear"></div>
+</div><!-- news_body_all -->
+<!-- CMT changed ver2 start -->
+<!-- cmt yes! yes! yes! -->
+<div class="news_cmt" id="news_cmt_id">
+<a name="bbs"></a>
+<script type="text/javascript">
+                        var _100_SiteID = "CHOSUNBIZ";
+                        var _100_ArtID = "2019120901371";
+                        var _100_Ver = new Date().getTime();
+                        document.write ("<scr"+"ipt type='text/javascript' src='//m100.chosun.com/svc/guest/comment_news.js?v="+_100_Ver+"' charset='euc-kr'></"+"script>");
+                        </script>
+</div><!-- news_cmt -->
+</article><!-- news_article -->
+<aside class="news_aside" id="news_aside_id">
+<!--script src="http://biz.chosun.com/dhtm/2018/js/art_right.js"></script-->
+<div class="list_ad">
+<script type="text/javascript">
+                if(CatID.substring(0,1) == "4"){
+                    document.write('<IFRAME WIDTH=300 HEIGHT=250 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\' SRC=\'//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/realty@x03\'></IFRAME>');
+                }else{
+                    document.write('<IFRAME WIDTH=300 HEIGHT=250 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\' SRC=\'//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/article@x03\'></IFRAME>');
+                }
+            </script>
+</div>
+<div class="list_ly1" id="topnews">
+<h2 class="title">주요뉴스</h2>
+<ul class="list_cont">
+</ul>
+</div><!-- list_ly1 -->
+<script>getTopList();</script>
+<div class="hot_article tab1">
+<h2 class="title"><a href="//news.chosun.com/ranking/list.html?site=chosunbiz&amp;scode=index" target="cs_new">많이 본 뉴스</a></h2>
+<div class="ha_wrap">
+<div class="cate_list_wrap">
+<ul class="cate_list">
+<li class="chosunbiz cate active"><a href="#chosunbiz">조선비즈</a></li>
+<li class="chosun cate"><a href="#chosun">조선닷컴</a></li>
+</ul>
+<span class="bg_bar"></span>
+</div>
+<div class="tab_cont_wrap">
+</div>
+</div>
+<script>getRankList();</script>
+</div><!-- hot_article -->
+<div class="list_ad"><iframe bordercolor="#000000" frameborder="0" height="250" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/article@x06" vspace="0" width="300"></iframe></div>
+<div class="list_ly1" id="technbiz">
+<h2 class="title">Tech&amp;BIZ;</h2>
+<ul class="list_cont">
+</ul>
+</div><!-- list_ly1 -->
+<script>getTechnbiz();</script>
+<div class="list_ad full"><iframe bordercolor="#000000" frameborder="0" height="304" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08Uq&amp;out=iframe" vspace="0" width="100%"></iframe></div>
+<div class="list_ad list_ad300x600"><iframe bordercolor="#000000" frameborder="0" height="600" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/biz.chosun.com/article@x09" vspace="0" width="300"></iframe></div>
+</aside><!-- news_aside -->
+<div class="clear"></div>
+</div><!-- sticky_wrapper -->
+</div><!-- csContent -->
+<div class="bottom_art_list">
+<div class="cont_wrap">
+<div class="left">
+<ul class="thumb_list">
+</ul><!-- thumb_list -->
+<div class="left_bottom">
+<div class="news_area">
+</div>
+<div class="b_keyword">
+<ul>
+</ul>
+</div>
+</div>
+</div><!-- left -->
+<div class="right">
+<a class="tt" href="//biz.chosun.com/svc/section/index.html?catid=2">오피니언</a>
+<div class="slide_news">
+<div class="slide_cont">
+</div>
+</div><!-- slide_news -->
+<div class="b_talk">
+<ul></ul>
+</div><!-- b_talk -->
+</div><!-- right -->
+</div>
+</div><!-- bottom_art_list -->
+<script>getBottomArea();</script>
+<div id="footer">
+<script src="//biz.chosun.com/dhtm/2018/js/biz_footer_2018.js?v20190910" type="text/javascript"></script>
+</div><!-- #footer -->
+<div class="news_go" id="news_go_id">
+<a class="news_go_recent" href="#" id="news_go_recent_id" rel="nofollow"><span>내가 본 뉴스</span></a>
+<a class="news_go_top" href="#top" id="news_go_top_id" rel="nofollow"><span>맨 위로</span></a>
+</div><!-- news_go -->
+<div class="news_recent_read" id="news_recent_read_id">
+<h4>내가 본 뉴스 <a class="close int_rotate" href="#" id="news_recent_read_closd_id" title="닫기">닫기</a></h4>
+<script src="//news.chosun.com/dhtm18/js/art/cs_art_recentnews_2018.js"></script>
+</div><!-- news_recent_read -->
+<div class="under_notice" id="under_notice"></div>
+</div><!-- wrapper -->
+<script type="text/javascript">
+var _like_siteid = "CHOSUNBIZ";
+var _like_artid = "2019120901371";
+var _like_catid = "71";
+var _like_v = new Date().getTime();
+document.write ("<scr"+"ipt type='text/javascript' src='//like.chosun.com/like_art.js?v="+_like_v+"'></"+"script>");
+</script>
+<script src="//news.chosun.com/dhtm18/js/common/jquery.sticky-kit.min.js"></script>
+<script src="//news.chosun.com/dhtm18/js/common/jquery.scrollbar.min.js"></script>
+<script src="//news.chosun.com/dhtm18/js/common/jquery.bxslider.min_4212.js"></script>
+<script src="//news.chosun.com/dhtm18/js/common/screenfull.min.js"></script>
+<script src="//news.chosun.com/dhtm18/js/art/cs_art_2018_svc.js"></script>
+<script src="//biz.chosun.com/dhtm/2018/js/biz_art_2018.js?v20191206"></script>
+<script src="//biz.chosun.com/dhtm/2018/js/biz_left_menu.js?v20191118"></script>
+<script src="//biz.chosun.com/dhtm/2018/js/main.js" type="text/javascript"></script>
+</body>

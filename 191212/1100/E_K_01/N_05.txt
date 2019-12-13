@@ -1,0 +1,731 @@
+현대글로비스 지역아동센터 ‘희망선물’
+<body bgcolor="white" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<div align="center">
+<!--- ###TOP### ---><script src="http://www.munhwa.com/js/munhwa_search.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" height="0" width="950">
+<tr><td height="4"></td></tr>
+</table>
+<!-- 문화일보 웹 최상단 728x90	-->
+<!--<script  src='http://compass.adop.cc/assets/js/adop/adopJ.js?v=14' ></script><ins class='adsbyadop' _adop_zon = '1f58a143-5085-4da2-b8f2-ac47299f8459' _adop_type = 're' style='display:inline-block;width:728px;height:90px;' _page_url=''></ins>-->
+<iframe frameborder="0" id="1f58a143-5085-4da2-b8f2-ac47299f8459" marginheight="0" marginwidth="0" paddingheight="0" paddingwidth="0" scrolling="no" src="http://compass.adop.cc/RD/1f58a143-5085-4da2-b8f2-ac47299f8459?type=iframe&amp;loc=&amp;size_width=728&amp;size_height=90" style="width: 728px; height: 90px;"></iframe>
+<!-- // 문화일보 웹 최상단 728x90	-->
+<br/><br/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="72" width="950">
+<tr>
+<td width="190"><a href="http://www.munhwa.com" target="_top"><img src="http://image.munhwa.com/2011web/img/munhwa_logo_2014.gif"/></a></td>
+<td align="left" valign="top" width="390"><a href="http://www.munhwa.com"><img src="http://image.munhwa.com/gen_etc/hp_sp_img_1_s.jpg"/></a></td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td align="right" height="44" style="padding-top:5px;">
+<!-- 검색 -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<form method="post" name="frm" target="_top">
+<input name="sel" type="hidden" value="1"/>
+<tr>
+<td align="right"><input class="search" name="searchTerm" onkeypress="return handleEnter(1,event);" style="border:#999999 1px solid;width:180px;height:22px;ime-mode:active" type="text" value=""/></td>
+<td align="right" width="50"><img onclick="javaScript:searchChk();" onmouseover="this.style.cursor='hand';" src="http://image.munhwa.com/2011web/img/btn_search.gif"/></td>
+</tr>
+</form>
+</table>
+<!-- //검색 -->
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px;" width="100%">
+<tr>
+<td align="right"><a class="rt4" href="http://m.munhwa.com" target="_blank">모바일웹</a> <font color="#999999">|</font> <a class="rt4" href="http://pdf.munhwa.com">지면보기 PDF</a> <font color="#999999">|</font> <a class="rt4" href="http://search.munhwa.com">기사 상세 찾기</a> <font color="#999999">|</font> <font color="#333333"><b>2019.12.12 목요일</b></font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><script language="javascript"> 
+	function  menuBarShow(sec) {
+		if( sec == 1 ) { 
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_on.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+
+			menuBarLay1.style.display='block'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='none'; 		
+			menuBarLay8.style.display='none'; 			
+			 
+		}  else if( sec == 2 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_on.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+ 			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='block'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='none'; 			
+			menuBarLay8.style.display='none'; 				
+			 
+		}  else if( sec == 3 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_on.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+ 
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='block'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='none'; 			 
+			menuBarLay8.style.display='none'; 			
+			 
+		}  else if( sec == 4 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_on.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+ 
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='block'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='none'; 			 
+			menuBarLay8.style.display='none'; 				 
+
+		}  else if( sec == 5 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_on.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+ 
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='block'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='none'; 	
+			menuBarLay8.style.display='none'; 				
+			 
+		}  else if( sec == 6 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_on.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='block'; 
+			menuBarLay7.style.display='none'; 			 
+			menuBarLay8.style.display='none'; 			
+
+		}  else if( sec == 7 ) {
+
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_on.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='block'; 
+			menuBarLay8.style.display='none'; 			
+
+		}   else if( sec == 8 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_on.gif";
+
+			menuBarLay1.style.display='none'; 
+			menuBarLay2.style.display='none'; 
+			menuBarLay3.style.display='none'; 
+			menuBarLay4.style.display='none'; 
+			menuBarLay5.style.display='none'; 
+			menuBarLay6.style.display='none'; 
+			menuBarLay7.style.display='none'; 
+			menuBarLay8.style.display='block'; 	
+			 
+		}   else if( sec == 9 ) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+ 
+		}  else if( sec == 10) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+
+		} else if( sec == 11) {
+			document.getElementById("tab_1").src = "http://image.munhwa.com/2011web/img/btn_menu_news_off.gif";
+			document.getElementById("tab_2").src = "http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif";
+			document.getElementById("tab_3").src = "http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif";
+			document.getElementById("tab_4").src = "http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif";
+			document.getElementById("tab_5").src = "http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif";
+			document.getElementById("tab_6").src = "http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif";
+			document.getElementById("tab_7").src = "http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif";
+			document.getElementById("tab_8").src = "http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif";
+		}
+	}
+</script>
+<table background="http://image.munhwa.com/2011web/img/bg_menu.gif" border="0" cellpadding="0" cellspacing="0" height="39" width="950">
+<tr>
+<td width="18"><img src="http://image.munhwa.com/2011web/img/bg_menu_left.gif"/></td>
+<td width="64"><a href="http://www.munhwa.com" target="_top"><img id="tab_1" onmouseover="this.style.cursor='hand';menuBarShow(1);" src="http://image.munhwa.com/2011web/img/btn_menu_news_on.gif"/></a></td>
+<td width="94"><a href="http://www.munhwa.com/news/section.html?sec=opinion" target="_top"><img id="tab_2" onmouseover="this.style.cursor='hand';menuBarShow(2);" src="http://image.munhwa.com/2011web/img/btn_menu_opinion_off.gif"/></a></td>
+<td width="67"><a href="http://www.munhwa.com/photo/index.html" target="_top"><img id="tab_3" onmouseover="this.style.cursor='hand';menuBarShow(3);" src="http://image.munhwa.com/2011web/img/btn_menu_photo_off.gif"/></a></td>
+<td width="80"><a href="http://www.munhwa.com/news/section.html?sec=sports" target="_top"><img id="tab_4" onmouseover="this.style.cursor='hand';menuBarShow(4);" src="http://image.munhwa.com/2011web/img/btn_menu_sports_off.gif"/></a></td>
+<td width="65"><a href="http://www.munhwa.com/news/section.html?sec=ent" target="_top"><img id="tab_5" onmouseover="this.style.cursor='hand';menuBarShow(5);" src="http://image.munhwa.com/2011web/img/btn_menu_ent_off.gif"/></a></td>
+<td width="65"><a href="http://www.munhwa.com/travel/index.html" target="_top"><img id="tab_6" onmouseover="this.style.cursor='hand';menuBarShow(6);" src="http://image.munhwa.com/2011web/img/btn_menu_travel_off.gif"/></a></td>
+<td width="65"><a href="http://www.munhwa.com/reader/section_list.html" target="_top"><img id="tab_8" onmouseover="this.style.cursor='hand';menuBarShow(8);" src="http://image.munhwa.com/2011web/img/btn_menu_reader_off.gif"/></a></td>
+<td width="79"><a href="http://www.munhwa.com/reporter/reporter_list.html" target="_top"><img id="tab_7" onmouseover="this.style.cursor='hand';menuBarShow(7);" src="http://image.munhwa.com/2011web/img/btn_menu_reporter_off.gif"/></a></td>
+<td align="right">
+<!--- 외부컨텐츠 --->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right"><!--<a href="http://empire.goodgamestudios.com/?w=230010" target="_blank"><img src="http://image.munhwa.com/2011web/img/btn_menu_game1.gif"></a>--></td>
+<td width="14"><!--<img src="http://image.munhwa.com/2011web/img/bg_menu_dot.gif">--></td>
+<td><a href="http://www.munhwa.com/news/series.html?secode=1809" target="_top"><img src="http://image.munhwa.com/2011web/img/btn_menu_1809.gif"/></a></td>
+<td width="18"></td>
+</tr>
+</table>
+<!--- //외부컨텐츠 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_right.gif"/></td>
+</tr>
+</table>
+<span id="menuBarLay1" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=all&amp;class=0" target="_top">전체기사</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=politics&amp;class=0" target="_top">정치</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=economy&amp;class=0" target="_top">경제</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=society&amp;class=0" target="_top">사회</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=culture&amp;class=0" target="_top">문화</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=international&amp;class=0" target="_top">국제</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=people&amp;class=0" target="_top">인물</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section.html?sec=special" target="_top">기획/시리즈</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<span id="menuBarLay2" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:10px;">
+<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=0" target="_top">전체기사</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=1" target="_top">사설</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=3" target="_top">시론</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=12" target="_top">시평</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=2" target="_top">포럼</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=4" target="_top">뉴스와 시각</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=6" target="_top">오후여담</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=14" target="_top">world &amp; Idea</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=15" target="_top">한반도 정찰記</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=opinion&amp;class=17" target="_top">美國에서 본 한반도</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2140" target="_top">문화논단</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="260">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<span id="menuBarLay3" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="30"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=0" target="_top">전체기사</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=1" target="_top">정치</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=2" target="_top">경제</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=3" target="_top">사회</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=4" target="_top">문화</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=5" target="_top">스포츠</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=6" target="_top">국제</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=7" target="_top">인물</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=9" target="_top">삽화</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/photo/photo_list.html?class=10" target="_top">그래픽/표</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<span id="menuBarLay4" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="100"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=0" target="_top">전체기사</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=1" target="_top">스포츠일반</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=2" target="_top">야구</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=3" target="_top">축구</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=4" target="_top">농구</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=5" target="_top">골프</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=sports&amp;class=6" target="_top">배구</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<span id="menuBarLay5" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="230"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=ent&amp;class=0" target="_top">전체기사</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=ent&amp;class=1" target="_top">영화</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=ent&amp;class=2" target="_top">가요</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/section_list.html?sec=ent&amp;class=3" target="_top">방송/연예</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<span id="menuBarLay6" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="355"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/travel/travel_list.html" target="_top">전체리스트</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<span id="menuBarLay7" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/reporter/reporter_list.html?gubun=1" target="_top">전체 이름순</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=2" target="_top">정치부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=3" target="_top">경제산업부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=4" target="_top">사회부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=5" target="_top">전국부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=6" target="_top">국제부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=7" target="_top">문화부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=8" target="_top">체육부</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/reporter/divison_list.html?div_code=9" target="_top">사진부</a>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</td></tr>
+</table>
+</span>
+<span id="menuBarLay8" style="display:none">
+<table background="http://image.munhwa.com/2011web/img/bg_menu_sub.gif" border="0" cellpadding="0" cellspacing="0" height="34" width="950">
+<tr>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_left.gif"/></td>
+<td style="padding-left:34px;">
+<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2204" target="_top">별별 구독경제</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2210" target="_top">정형외과 운동법</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2213" target="_top">마음상담소</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2216" target="_top">올어바웃매너</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2222" target="_top">패밀리&amp;쿡</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2202" target="_top">결혼했습니다</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2203" target="_top">그립습니다</a>ㆍ<a class="g12_333" href="http://www.munhwa.com/news/series.html?secode=2224" target="_top">부고</a>
+</td>
+<td align="right">
+<!--- 회원가입$로그인 --->
+<table border="0" cellpadding="0" cellspacing="0" width="270">
+<tr>
+<td align="right" height="34" valign="middle"> <a href="http://www.munhwa.com/service/member_login.html" target="_top"><b>로그인</b></a>ㆍ<a href="http://www.munhwa.com/member/member_join.html" target="_top">회원가입</a>ㆍ<a href="https://www.munhwa.com/member/member_findid.html" target="_top">ID/PW 찾기</a>
+</td><td width="18"></td></tr></table>
+<!--- //회원가입$로그인 --->
+</td>
+<td width="2"><img src="http://image.munhwa.com/2011web/img/bg_menu_sub_right.gif"/></td>
+</tr>
+</table>
+</span>
+<script language="javascript"> 
+	menuBarShow(1) 
+</script>
+<!--- //###MENU### ---><table border="0" cellpadding="0" cellspacing="0" height="10"><tr><td></td></tr></table>
+<!--- ###CONTENTS### --->
+<table border="0" cellpadding="0" cellspacing="0" width="950">
+<tr>
+<td valign="top" width="680">
+<!--- 전광판&핫클릭 --->
+<table bgcolor="#D6D6D6" border="0" cellpadding="0" cellspacing="1" height="31" width="100%">
+<tr>
+<td bgcolor="#F7F7F7">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" style="padding:3 0 0 15" width="50%"><div class="mh_sokbo"><dl><dt><font color="#333"><b>전광판</b></font><img hspace="5" src="http://image.munhwa.com/2011web/img/ico_arr_hot.gif"/></dt><dd><ul><script language="javascript">
+				mh_sokbo_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121201070321084001' class=g12_333>‘北 크리스마스 선물’ 억제위해… 美, 외교..</a></li>");
+				mh_sokbo_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121201072503017001' class=g12_333>“脫원전에 수출기반 붕괴… 지원특별법 제..</a></li>");
+				mh_sokbo_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121201070621335001' class=g12_333>유재수 구속기소 임박… 연루 親文인사 신..</a></li>");
+				mh_sokbo_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121201070621335002' class=g12_333>‘신한銀 우리들병원 대출’에 금융권 차원 ..</a></li>");
+				mh_sokbo_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121201032139334001' class=g12_333>박항서호 금의환향… 총리 “이번 승리, 베..</a></li>");
+			mh_sokbo_news.start();</script></ul></dd></dl></div></td>
+<td align="left" style="padding:3 0 0 0" width="50%"><div class="mh_hot"><dl><dt><font color="#E85A28"><b>Hot Click</b></font><img hspace="5" src="http://image.munhwa.com/2011web/img/ico_arr_hot.gif"/></dt><dd><ul><script language="javascript">					mh_hot_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=20191211MW140125376377' class=g12_333>장희웅 “여동생 장지연 돌아이, 김건모는..</a></li>");
+					mh_hot_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121101032339321001' class=g12_333>“새끼 보호하는 닭처럼 싸웠다”… ‘퇴장당..</a></li>");
+					mh_hot_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=2019121101030127108001' class=g12_333>“근무중 와이파이 끊는다고 투쟁?… 현대..</a></li>");
+					mh_hot_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=20191210MW233434886336' class=g12_333>“정말 기적같다”… 60년만에 우승 베트남..</a></li>");
+					mh_hot_news.add("<li><a href='http://www.munhwa.com/news/view.html?no=20191212MW104446904564' class=g12_333>스튜어디스 출신 여교수, 학생들 원산폭격..</a></li>");
+
+						mh_hot_news.start();</script></ul></dd></dl></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--- //전광판&핫클릭 --->
+<!--- //전광판&핫클릭 --->
+<table border="0" cellpadding="0" cellspacing="0" height="3"><tr><td></td></tr></table> <!-- 2012-10-12 3으로 고치기-->
+<table border="0" cellpadding="0" cellspacing="0" width="110">
+<tr>
+<!--PC 기사 상단 하이라이트 1슬롯-->
+<td width="370"><iframe allowtransparency="true" frameborder="0" height="110" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//io1.innorame.com/imp/Ry5ZRKwDLg34.iframe" style="z-index: 2147483647;" vspace="0" width="370"></iframe></td>
+<!--// PC 기사 상단 하이라이트 1슬롯-->
+<!-- PC 기사 상단 텍스트 4슬롯 -->
+<td width="370"><iframe allowtransparency="true" frameborder="0" height="110" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//io1.innorame.com/imp/qyx4YywDLg34.iframe" style="z-index: 2147483647;" vspace="0" width="313"></iframe></td>
+<!-- // PC 기사 상단 텍스트 4슬롯 -->
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" height="5"><tr><td></td></tr></table>
+<!--- Location --->
+<script language="javascript">
+	  function news_send()
+	  {
+		window.open('http://www.munhwa.com/news/news_send.html?no=2019120901072939176001','_new_print','width=350,height=300,scrollbars=no,resizable=no');
+	  }
+	  function news_scrap()
+	  {
+		window.open('http://www.munhwa.com/news/news_scrap.html?no=2019120901072939176001','_new_print','width=350,height=213,scrollbars=no,resizable=no');
+	  }
+	  function news_print()
+	  {
+		window.open('http://www.munhwa.com/news/news_print.html?no=2019120901072939176001','_new_print','width=720,height=550,scrollbars=yes,resizable=no');
+	  }
+</script>
+<table border="0" cellpadding="0" cellspacing="0" height="30" width="680">
+<tr>
+<td align="center" background="http://image.munhwa.com/2011web/img/bg_tab_title.gif" style="padding:3px 0px 0px 0px" width="120"><font color="#60A9D8"><b>경제일반</b></font></td>
+<td align="right" background="http://image.munhwa.com/2011web/img/bg_section_list.gif" style="padding:0px 10px 0px 0px"><a href="javascript:news_scrap();"><img hspace="5" src="http://image.munhwa.com/2011web/img/btn_1_setup_scrap.gif"/></a><a href="javascript:news_send();"><img hspace="5" src="http://image.munhwa.com/2011web/img/btn_1_setup_email.gif"/></a><a href="javascript:news_print();"><img hspace="5" src="http://image.munhwa.com/2011web/img/btn_1_setup_print.gif"/></a><a href="javascript:fontPlus()"><img hspace="5" src="http://image.munhwa.com/2011web/img/btn_1_setup_zoomin.gif"/></a><a href="javascript:fontMinus()"><img hspace="5" src="http://image.munhwa.com/2011web/img/btn_1_setup_zoomout.gif"/></a></td>
+</tr>
+</table>
+<!--- //Location --->
+<!--- 제목 그룹 --->
+<table bgcolor="#F1F6F8" border="0" cellpadding="0" cellspacing="0" width="680">
+<tr>
+<td align="center" style="padding:20px 10px 10px 10px">
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tr>
+<!--	     <td><a href=http://www.munhwa.com/news/section_list.html?sec=economy&class=0 class=d14b_2F5>[경제]</a>&nbsp;<a href="http://www.munhwa.com/news/series.html?secode=" class="d14b_2F5"></a></td>-->
+<td align="left"><a class="d14b_2F5" href="http://www.munhwa.com/news/section_list.html?sec=economy&amp;class=0">[경제]</a> </td>
+<td align="right">게재 일자 : 2019년 12월 09일(月)</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tr>
+<td background="http://image.munhwa.com/2011web/img/bg_special_line.gif" height="9"></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tr>
+<td align="left" style="padding:10px 0px 7px 0px"><span class="title">현대글로비스 지역아동센터 ‘희망선물’</span></td>
+</tr>
+</table>
+<!-- sns 스크립트 -->
+<script language="javascript">
+			var sendUrl,nowUrl;
+			nowUrl = window.location.href;
+			
+			function openSNSWin(openUrl) {
+				var winObj;
+				winObj = window.open(openUrl,"sendSNSWin","width=1024, height=800");
+	}
+
+
+			function goYozmDaum(link, prefix, parameter) 
+			{
+				var href="http://yozm.daum.net/api/popup/prePost?link="+encodeURIComponent(link)+"&prefix="+encodeURIComponent(prefix)+"&parameter="+encodeURIComponent(parameter);
+				var a = window.open(href,'yozmSend','');
+
+				if(a) {
+					a.focus();
+				}
+			}
+
+			function sendTwitter(title, url) {
+				var wp = window.open("http://twitter.com/home?status="+encodeURIComponent(title)+" "+encodeURIComponent(url),'twitter','');
+
+				if(wp) {
+					wp.focus();
+				}
+			}
+
+
+			function sendMe2Day(title, url, tag) {
+				title="\""+title+"\":"+url;
+				var wp = window.open("http://me2day.net/posts/new?new_post[body]="+encodeURIComponent(title)+"&new_post[tags]="+encodeURIComponent(tag),'me2Day','');
+
+				if(wp) {
+					wp.focus();
+				}
+			}
+
+			function sendFaceBook(title,url) {
+			   var img = "http://image.munhwa.com/gen_news/201912/2019120901072939176001_b.jpg";
+			   var href = "http://www.facebook.com/sharer.php?u=" + encodeURIComponent(nowUrl) + "&t=" + encodeURIComponent(title)+ "&i=" + encodeURIComponent(img);
+			   var a = window.open(href, 'iscs', 'width=1000, height=500,scrollbars=yes,resizable=yes');
+				 
+			   if( a ){
+				  a.focus();
+			   }
+			}
+	
+
+			function sendCyWorld(url,title,thumbnail,summary) {
+
+				var wp = window.open("http://csp.cyworld.com/bl/bo_recommend_pop.php?url="+encodeURIComponent(url)+"&title="+encodeURIComponent(title)+"&thumbnail="+encodeURIComponent(url)+"&summary="+encodeURIComponent(summary),"xu",'');
+				if(wp) {
+					wp.focus();
+				}
+			}
+
+			function sendGoogle(title,url,labels) {
+
+				var wp = window.open("http://www.google.com/bookmarks/mark?op=add&title="+encodeURIComponent(title)+"&bkmk="+encodeURIComponent(url)+"&labels="+encodeURIComponent(labels),"google",'');
+				if(wp) {
+					wp.focus();
+				}
+
+			}
+
+			function sendCblog(title,url,thumbnail, summary, writer) {
+
+				var wp = 
+				window.open("http://csp.cyworld.com/bi/bi_recommend_pop.php?url="+encodeURIComponent(url)+"&title_nobase64="+encodeURIComponent(title)+"&thumbnail="+encodeURIComponent(thumbnail)+"&summary_nobase64="+encodeURIComponent(summary)+"&writer="+encodeURIComponent(writer)+"&corpid=65962485", "recom_icon_pop", "width=400,height=364,scrollbars=no,resizable=no");
+				if(wp) {
+					wp.focus();
+				}
+
+			}
+
+
+			function sendBand(title,url) {
+			   var href = "http://www.band.us/plugin/share?body=" + encodeURIComponent(nowUrl) + "&route=" + encodeURIComponent(title);
+			   var a = window.open(href, 'band', 'width=1000, height=500,scrollbars=yes,resizable=yes');
+				 
+			   if( a ){
+				  a.focus();
+			   }
+			}
+
+
+			</script>
+<!-- // sns 스크립트 -->
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tr>
+<td style="padding:5px 0px 7px 0px"><span class="sub_title"> </span></td>
+<td align="right" width="120"><a href="javascript:sendFaceBook('현대글로비스 지역아동센터 ‘희망선물’','http://www.munhwa.com/news/view.html?no=2019120901072939176001')"><img alt="페이스북" hspace="2" src="http://image.munhwa.com/2011web/img/btn_sns_facebook.gif" title="페이스북"/></a><a href="javascript:sendTwitter('현대글로비스 지역아동센터 ‘희망선물’','http://www.munhwa.com/news/view.html?no=2019120901072939176001')"><img alt="트위터" hspace="2" src="http://image.munhwa.com/2011web/img/btn_sns_twitter.gif" title="트위터"/></a><a href="javascript:sendBand('현대글로비스 지역아동센터 ‘희망선물’','http://www.munhwa.com/news/view.html?no=2019120901072939176001')"><img alt="밴드" height="16" hspace="2" src="http://image.munhwa.com/2011web/img/btn_sns_band.jpg" title="밴드" width="16"/></a><a href="javascript:sendGoogle('현대글로비스 지역아동센터 ‘희망선물’,','http://www.munhwa.com/news/view.html?no=2019120901072939176001','Munhwalibo News')"><img alt="구글" hspace="2" src="http://image.munhwa.com/2011web/img/btn_sns_google.gif" title="구글"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table bgcolor="#D7DFE2" border="0" cellpadding="0" cellspacing="0" height="1" width="100%"><tr><td></td></tr></table>
+<!--- //제목 그룹 --->
+<script src="http://www.munhwa.com/js/munhwa_view_setting.js"></script>
+<!--- 본문 그룹 --->
+<table border="0" cellpadding="0" cellspacing="0" width="680">
+<tr>
+<td align="center" style="padding:20px 10px 10px 10px">
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tr>
+<td align="left"><!--- 사진 --->
+<!-- 오른쪽 사진 -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="540">
+<tr>
+<td align="center"><img src="http://image.munhwa.com/gen_news/201912/2019120901072939176001_b.jpg" width="540"/></td>
+</tr>
+<tr><td height="20"></td></tr>
+<tr><td><iframe allowtransparency="true" frameborder="0" height="60" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08S7&amp;out=iframe" vspace="0" width="550"></iframe></td></tr>
+<tr><td height="20"></td></tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="body2" id="view_body" name="view_body">
+<!-- 데이타 웨이브 키워드 링크 광고 적용 div 20101201 by 김명준 -->
+<!--NewsAdContentStart-->
+<div id="NewsAdContent">
+<b>일일 산타변신 학용품 등 전달</b><br>
+<br>
+현대글로비스가 연말을 맞아 지역아동센터 어린이 300명에게 크리스마스 선물을 전달했다. 9일 현대글로비스에 따르면, 이 회사 임직원 30여 명과 대학생 홍보대사 ‘영글로비스’ 멤버들은 지난 6일 서울 구로구 비영리 사단법인 ‘함께하는 한숲’ 부설 ‘영문지역아동센터’에 모여 선물상자를 준비했다. 함께하는 한숲 관계자들과 함께 크리스마스 트리도 만들어 아이들에게 전달했다.(사진)<br/>
+<br/>
+선물상자는 연필·공책 등 학용품과 장갑·무릎담요 등 방한용품으로 구성됐다. 현대글로비스 직원들은 산타 모자를 쓰고 일일 산타클로스가 돼 아이들에게 선물을 나눠줬다.<br/>
+<br/>
+현대글로비스는 희망을 전달한다는 의미로 ‘We Deliver H.O.P.E.’를 올해 사회공헌 목표로 내걸고 체계적 나눔 활동을 펴고 있다. H.O.P.E는 Happiness(행복), Opportunity(기회), Prevention(예방), Education(교육)의 앞글자를 딴 합성어다. 이번 크리스마스 봉사활동 외에도 지역사회 어린이들과 함께하는 ‘사랑의 케이크 만들기’, 독거노인을 위한 ‘명절 음식 나누기’와 자매결연 농촌 일손 돕기 ‘1사 1촌 봉사’ 등의 프로그램을 진행해 왔다.  <br/>
+<br/>
+김성훈 기자 tarant@munhwa.com<br/>
+<script src="http://js2.keywordsconnect.com/inspace_munhwa.js" type="text/javascript"></script>
+</br></br></div>
+<!--NewsAdContentEnd-->
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--- //본문 그룹 --->
+<!--- 이 기자의 다른 기사보기 --->
+<table border="0" cellpadding="0" cellspacing="0" height="20"><tr><td></td></tr></table>
+<table bgcolor="#D6D6D6" border="0" cellpadding="3" cellspacing="1" width="100%">
+<tr>
+<td bgcolor="#F7F7F7">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="38"><a href="http://www.munhwa.com/reporter/reporter_news_list.html?usr_id=tarant"><img src="http://image.munhwa.com/www/people/mh_tarant.jpg" width="38"/></a></td>
+<td align="right" width="26"><a href="mailto:tarant@munhwa.com"><img alt="e-mail" hspace="2" src="http://image.munhwa.com/2011web/img/sns_email2.gif" title="e-mail"/></a></td>
+<td align="left" style="padding:4px 0px 0px 5px"><a class="g12_2F5" href="http://www.munhwa.com/reporter/reporter_news_list.html?usr_id=tarant"><b>김성훈 기자</b></a> / <a class="g12_2F5" href="http://www.munhwa.com/reporter/divison_list.html?div_code=003">경제산업부</a> <span class="title_ss">/ 차장</span></td>
+<td align="right" style="padding:3px 5px 0px 0px"><a class="g12_E85" href="http://www.munhwa.com/reporter/reporter_news_list.html?usr_id=tarant">김성훈 기자의 다른 기사보기</a></td>
+<td width="25"><a href="http://www.munhwa.com/reporter/reporter_news_list.html?usr_id=tarant"><img src="http://image.munhwa.com/2011web/img/btn_arr_rgt.gif"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--- //이 기자의 다른 기사보기 --->
+<table border="0" cellpadding="0" cellspacing="0" height="20"><tr><td></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="15" width="100%">
+<tr>
+<td align="left">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="left" style="line-height:24px;" valign="top">
+<span class="sub_title">[ 많이 본 기사 ]</span><br>
+<a class="d14b_2F5" href="http://www.munhwa.com/news/view.html?no=20191211MW140125376377">▶ 장희웅 “여동생 장지연 돌아이, 김건모는 기인”</a><br/>
+<a class="d14b_2F5" href="http://www.munhwa.com/news/view.html?no=2019121101032339321001">▶ “새끼 보호하는 닭처럼 싸웠다”… ‘퇴장당한 박항서’에 찬..</a><br/>
+<a class="d14b_2F5" href="http://www.munhwa.com/news/view.html?no=2019121101030127108001">▶ “근무중 와이파이 끊는다고 투쟁?… 현대차 노조원인게 부..</a><br/>
+<a class="d14b_2F5" href="http://www.munhwa.com/news/view.html?no=20191210MW233434886336">▶ “정말 기적같다”… 60년만에 우승 베트남 전역이 축제장</a><br/>
+<a class="d14b_2F5" href="http://www.munhwa.com/news/view.html?no=20191212MW104446904564">▶ 스튜어디스 출신 여교수, 학생들 원산폭격·성희롱</a><br/>
+</br></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" height="25"><tr><td></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<iframe allowtransparency="true" frameborder="0" height="120" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08S8&amp;out=iframe" vspace="0" width="430"></iframe>
+</td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top" width="1"><img height="280" src="http://image.munhwa.com/2011web/img/dot.gif" width="1"/></td>
+<td valign="top" width="170">
+<!-- 핫포토 -->
+<script language="javascript">
+ var CURRENT_DIV = 0;
+
+function hot_photo_next(tg) {
+	var obj='hot_photo_num';
+	var cnt=5;
+	NextPrePhotoView1 (tg, obj, cnt);
+	return;
+}
+
+var setRoll = 0;
+function setPhotoRolling () {
+	var tg, obj, cnt, timeLimit;
+
+	tg = 1; 
+	obj = 'hot_photo_num';
+	cnt = 5; 
+	timeLimit = 5000; 
+
+	if (setRoll == 0) {
+		setRoll = 1;
+		setTimeout("setPhotoRolling( "+tg+",'"+obj+"',"+cnt+","+timeLimit+")", timeLimit);
+		return
+	}
+	NextPrePhotoView(tg,obj,cnt);
+	setTimeout("setPhotoRolling( "+tg+",'"+obj+"',"+cnt+","+timeLimit+")", timeLimit);
+}
+
+function NextPrePhotoView1 (tg, obj, cnt) {
+	var i,n,c;
+	n = cnt;
+	if(tg == 1) { CURRENT_DIV += 1; } else { CURRENT_DIV = CURRENT_DIV + (n - 1); }
+	CURRENT_DIV %= n;
+	for(i = 0; i < n; i++) {
+		c = document.getElementById(obj + i);
+		if(i == CURRENT_DIV) { c.style.display = ''; } else { c.style.display = 'none'; }
+	}
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="180">
+<tr>
+<td align="left" width="15"><img onclick="javascript:hot_photo_next(0);" src="http://image.munhwa.com/2011web/img/hot_arr_left.gif" style="cursor:hand;"/></td></tr></table></td></tr></table></td></tr></table></div></body>

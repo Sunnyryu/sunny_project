@@ -1,0 +1,341 @@
+{% load static %}
+{% load value_idx %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Graph</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <style>
+    .abc { caption-side: top;
+    }
+    
+  /*
+  Side Navigation Menu V2, RWD
+  ===================
+  License:
+  https://goo.gl/EaUPrt
+  ===================
+  Author: @PableraShow
+
+  */
+
+  
+  @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+  @charset "UTF-8";
+  body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color: white;
+  background-color:#1F2739;
+  }
+
+  h1 {
+  font-size:3em;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+  }
+
+  h2 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #FB667A;
+  }
+
+  h2 a {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #FB667A;
+  text-decoration: none;
+  }
+
+  .blue { color: #185875; }
+  .yellow { color: #FFF842; }
+
+  .container th h1 {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  color: #185875;
+  }
+
+  .container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+  }
+
+  .container {
+  text-align: left;
+  overflow: hidden;
+  width: 80%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+  }
+
+  .container td, .container th {
+  padding-bottom: 2%;
+  padding-top: 2%;
+  padding-left:2%;
+  }
+
+  /* Background-color of the odd rows */
+  .container tr:nth-child(odd) {
+  background-color: #323C50;
+  }
+
+  /* Background-color of the even rows */
+  .container tr:nth-child(even) {
+  background-color: #2C3446;
+  }
+
+  .container th {
+  background-color: #1F2739;
+  }
+
+  .container td:first-child { color: #FB667A; }
+
+  .container tr:hover {
+  background-color: #464A52;
+  -webkit-box-shadow: 0 6px 6px -6px #0E1119;
+  -moz-box-shadow: 0 6px 6px -6px #0E1119;
+  box-shadow: 0 6px 6px -6px #0E1119;
+  }
+
+  .container td:hover {
+  background-color: #FFF842;
+  color: #403E10;
+  font-weight: bold;
+
+  box-shadow: #7F7C21 -1px 1px, #7F7C21 -2px 2px, #7F7C21 -3px 3px, #7F7C21 -4px 4px, #7F7C21 -5px 5px, #7F7C21 -6px
+  6px;
+  transform: translate3d(6px, -6px, 0);
+
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+  transition-property: all;
+  transition-timing-function: line;
+  }
+
+  @media (max-width: 800px) {
+  .container td:nth-child(4),
+  .container th:nth-child(4) { display: none; }
+  }
+
+  </style>
+    {% autoescape off %}
+  <script>
+    window.onload = function () {
+
+      var chart = new CanvasJS.Chart("chartContainer", {
+        theme: "light2",
+        animationEnabled: true,
+        backgroundColor: "#1F2739",
+        fontColor: "white",
+        
+        title: {
+          fontColor: "white",
+          {% if word2 %}
+          text: "{{word1}}과 {{word2}}의 트렌드 " 
+          {% else %}
+          text: "{{word1}}의 트렌드" 
+          {% endif %}
+        },
+
+        axisX: {
+          labelFontStyle: "normal",
+          labelAngle: null,
+
+        },
+        axisY: {
+          includeZero: false,
+          title: "트렌드 검색 수치",
+          maximum: 102,
+          gridColor: "black",
+          fontColor: "white",
+
+        },
+        toolTip: {
+          shared: "true"
+        },
+        legend: {
+          cursor: "pointer",
+          itemclick: toggleDataSeries,
+          fontColor: "white",
+        },
+        data: [{
+            type: "spline",
+            click: onClick,
+            showInLegend: true, // 그래프를 보여줌
+            yValueFormatString: "",
+            name: "{{word1}}",
+            fontColor: "white",
+            dataPoints: {{ vw1 }}
+
+          },
+          {% if word2 %} 
+          {
+            type: "spline",
+            showInLegend: true, // 그래프를 보여줌
+            click: onClick,
+            yValueFormatString: "",
+            name: "{{word2}}",
+            dataPoints: {{ vw2 }}
+          } 
+          {% endif %}
+        ]
+
+      });
+
+      chart.render();
+      // 적용된 것을 랜더 시킴
+      function onClick(e) {
+
+        //window.open(e.dataPoint.link, '_blank');
+        //console.log(e.dataPoint.label);
+        //console.log(e.dataSeries.name);
+        //window.open('/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name, '_blank')
+        window.location.href = '/anal?date=' + e.dataPoint.label + '&' + 'keyword=' + e.dataSeries.name;
+
+      }
+
+
+      function toggleDataSeries(e) {
+        if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+          e.dataSeries.visible = false;
+          // 눌르면 어둡게 하면 .. 차트 사라짐
+        } else {
+          e.dataSeries.visible = true;
+          // 다시 밣히면 차트 보임
+        }
+        chart.render();
+      }
+
+    }
+  </script>
+  
+  {% endautoescape %}
+  </head>
+<body>
+  <div id = 'loading'>
+    <img src='/static/img/2.jpg'>
+  </div>
+  <script>
+    $(function () {
+      $('#loading').css('visibility', 'hidden');
+    });
+  </script>
+
+  <nav class="navbar navbar-light bg-primary">
+    <a class="navbar-brand text-white" href="{% url 'tot:index' %}">trend of tracer</a>
+  </nav>
+  <div id="chartContainer" style="height: 400px; width: 100%;  margin-top:20px; margin-left:20px; margin-bottom:20px" ></div>
+   <hr>
+   {% if word2 %}
+   <div class="row">
+     <div class="col-md-6">
+       <table class="container">
+         <caption class='abc'><a
+             href="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}&cd={{word1}}&date={{date}}"
+             onclick="this.parentNode.submit()">{{word1}}의 유튜브 연관검색어</a></caption> <br />
+         <thead>
+           <tr>
+             <th>
+               <h1>구글 연관 검색어</h1>
+             </th>
+             <th><h1>검색어 지수</h1></th>
+           </tr>
+         </thead>
+         <tbody>
+           {% for i,v in newdict1.query.items %}
+           <!--{#{ newdict1.lue|value_by_key:forloop.counter0 }}-->
+           <tr>
+             <td>{{v}}</td>
+             <td>{{newdict1.value|value_by_key:forloop.counter0}}</td>
+           </tr>
+           {% endfor %}
+         </tbody>
+       </table>
+     </div>
+     <div class="col-md-6">
+       <table class="container">
+         <form action="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}" method="GET">
+           <caption class='abc'><a
+               href="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}&cd={{word2}}&date={{date}}"
+               onclick="this.parentNode.submit()">{{word2}}의 유튜브 연관검색어</a></caption> <br />
+         </form>
+         <thead>
+           <tr>
+             <th>
+               <h1>구글 연관 검색어</h1>
+             </th>
+             <th><h1>검색어 지수</h1></th>
+           </tr>
+         </thead>
+         <tbody>
+           {% for i,v in newdict2.query.items %}
+           <!--{#{ newdict1.value|value_by_key:forloop.counter0 }}-->
+           <tr>
+             <td>{{v}}</td>
+             <td>{{newdict2.value|value_by_key:forloop.counter0}}</td>
+           </tr>
+           {% endfor %}
+         </tbody>
+       </table>
+     </div>
+   </div>
+   {% else %}
+   <table class='container'>
+     <form action="{% url 'tot:search' %}?word1={{ word1 }}" method="GET">
+       <caption class='abc'><a href="{% url 'tot:search' %}?word1={{ word1 }}&cd={{word1}}&date={{date}}">{{word1}}의
+           연관검색어</a></caption> <br />
+     </form>
+     <thead>
+       <tr>
+         <th>
+           <h1>구글 연관 검색어</h1>
+         </th>
+         <th>
+           <h1>검색어 지수</h1>
+         </th>
+       </tr>
+     </thead>
+     <tbody>
+       {% for i,v in newdict1.query.items %}
+       <!--{#{ newdict1.value|value_by_key:forloop.counter0 }}-->
+       <tr>
+         <td>{{v}}</td>
+         <td>{{newdict1.value|value_by_key:forloop.counter0}}</td>
+       </tr>
+       {% endfor %}
+     </tbody>
+   </table>
+   {% endif %}
+
+   <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+   </script>
+   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+   </script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+   </script>
+   </body>
+
+   </html>

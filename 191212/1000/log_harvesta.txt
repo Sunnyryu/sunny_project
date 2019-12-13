@@ -1,0 +1,12 @@
+11	http://v.media.daum.net/v/20191203115436642	HTTPSConnectionPool(host='entertain.v.daum.net', port=443): Read timed out. (read timeout=10)
+
+13	https://view.asiae.co.kr/article/2019120820180485578	HTTPSConnectionPool(host='view.asiae.co.kr', port=443): Read timed out.
+
+14	http://v.media.daum.net/v/20191203113637771	HTTPConnectionPool(host='v.media.daum.net', port=80): Max retries exceeded with url: /v/20191203113637771 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f73951866d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+15	http://news1.kr/articles/?3788016	HTTPConnectionPool(host='news1.kr', port=80): Max retries exceeded with url: /articles/?3788016 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f7395189b90>, 'Connection to news1.kr timed out. (connect timeout=10)'))
+
+16	https://www.insight.co.kr/news/256879	HTTPSConnectionPool(host='www.insight.co.kr', port=443): Read timed out. (read timeout=10)
+
+수집한 문서 개수: 30개
+걸린 시간: 2m 54s

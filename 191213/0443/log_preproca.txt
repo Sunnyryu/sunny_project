@@ -1,0 +1,7 @@
+3/6	./191213/0443/E_K_01/N_01.txt	unknown
+5/6	./191213/0443/E_K_01/D_02.txt	unknown
+6/6	./191213/0443/E_K_01/D_01.txt	unknown
+Useless : 1 (16.7%)
+Unknown : 3 (50.0%)
+Hit : 2 (33.3%)
+걸린 시간: 0m 00s

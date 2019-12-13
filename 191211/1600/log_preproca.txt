@@ -1,0 +1,11 @@
+2/15	./191211/1600/E_K_01/D_03.txt	unknown
+3/15	./191211/1600/E_K_01/G_01.txt	unknown
+4/15	./191211/1600/E_K_01/D_05.txt	unknown
+5/15	./191211/1600/E_K_01/N_04.txt	unknown
+12/15	./191211/1600/E_K_01/D_02.txt	unknown
+13/15	./191211/1600/E_K_01/D_04.txt	unknown
+15/15	./191211/1600/E_K_01/D_01.txt	unknown
+Useless : 0 (0.0%)
+Unknown : 7 (46.7%)
+Hit : 8 (53.3%)
+걸린 시간: 0m 03s
